@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-02-12T21:42:36Z",
+  "total_value_usd": 200000,
+  "assets": [
+    {
+      "name": "Coinbase",
+      "type": "exchange",
+      "value": 200000,
+      "account": "Coinbase",
+      "current_value": 200000
+    }
+  ]
+}

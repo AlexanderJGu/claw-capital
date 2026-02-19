@@ -1,0 +1,85 @@
+{
+  "agent": "analyst",
+  "version": "1.0.0",
+  "data_sources": {
+    "allium": {
+      "enabled": true,
+      "credentials": "~/.allium/credentials",
+      "use_for": ["prices", "tvl", "wallet_balances", "token_transfers", "dex_volume"]
+    },
+    "defillama": {
+      "enabled": true,
+      "base_url": "https://api.llama.fi",
+      "use_for": ["tvl", "protocol_revenue", "fee_data", "chain_comparisons"]
+    },
+    "coingecko": {
+      "enabled": true,
+      "base_url": "https://api.coingecko.com/api/v3",
+      "use_for": ["market_cap", "fdv", "circulating_supply", "price_history"]
+    },
+    "x_research": {
+      "enabled": true,
+      "skill_path": "/root/.openclaw/workspace/skills/x-research",
+      "use_for": ["smart_money_commentary", "narrative_tracking", "sentiment"]
+    },
+    "web_search": {
+      "enabled": true,
+      "use_for": ["governance_proposals", "partnerships", "protocol_updates", "token_unlocks"]
+    }
+  },
+  "review_schedule": {
+    "tier1_active": {
+      "frequency": "weekly",
+      "day": "sunday",
+      "hour_utc": 8,
+      "scope": "full_thesis_review"
+    },
+    "tier1_daily": {
+      "frequency": "daily",
+      "hour_utc": 9,
+      "scope": "quick_scan_top3_material_changes"
+    },
+    "tier2_watchlist": {
+      "frequency": "biweekly",
+      "day": "sunday",
+      "hour_utc": 10,
+      "scope": "abbreviated_review"
+    },
+    "tier3_sectors": {
+      "frequency": "monthly",
+      "day": 1,
+      "hour_utc": 8,
+      "scope": "promotion_scan"
+    },
+    "prediction_audit": {
+      "frequency": "monthly",
+      "day": 1,
+      "hour_utc": 8,
+      "scope": "resolve_predictions_update_scorecard"
+    }
+  },
+  "screening_criteria": {
+    "hard_filters": {
+      "min_market_cap_usd": 50000000,
+      "min_daily_volume_usd": 1000000,
+      "must_be_live": true,
+      "must_have_value_accrual": true,
+      "no_major_exploit_6mo": true,
+      "team_identifiable": true
+    },
+    "ranking_weights": {
+      "revenue_to_fdv": 0.30,
+      "revenue_growth_30d_vs_90d": 0.25,
+      "tvl_growth_30d": 0.15,
+      "unique_address_growth_30d": 0.10,
+      "fdv_relative_to_sector_median": 0.10,
+      "insider_unlock_6mo_pressure": 0.10
+    }
+  },
+  "thesis_defaults": {
+    "min_predictions": 3,
+    "max_predictions": 5,
+    "review_deadline_months": 6,
+    "conviction_scale": "1-10"
+  }
+}

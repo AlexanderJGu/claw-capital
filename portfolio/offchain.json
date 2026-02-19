@@ -1,0 +1,6 @@
+{
+  "last_updated": "2026-02-12",
+  "assets": [
+    {"name": "Coinbase", "type": "exchange", "value": 200000, "account": "Coinbase"}
+  ]
+}

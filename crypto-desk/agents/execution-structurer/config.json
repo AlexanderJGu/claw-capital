@@ -1,0 +1,41 @@
+{
+  "agent": "execution_structurer",
+  "version": "1.0.0",
+  "sizing_rules": {
+    "default_max_allocation_pct": 5.0,
+    "default_scaling_strategy": "dca_3_tranches",
+    "tranche_split": {
+      "aggressive_entry": 0.33,
+      "base_entry": 0.34,
+      "conservative_entry": 0.33
+    },
+    "min_risk_reward_for_plan": 3.0
+  },
+  "dca_defaults": {
+    "num_tranches": 3,
+    "tranche_spacing_pct": 10,
+    "order_type": "limit",
+    "time_between_tranches": "no_constraint"
+  },
+  "stop_loss_defaults": {
+    "type": "hard",
+    "action": "exit_full_position",
+    "confirmation": "3_days_below_level"
+  },
+  "take_profit_defaults": {
+    "levels": 3,
+    "actions": ["trim_33pct", "trim_33pct", "exit_remaining"],
+    "labels": ["TP1", "TP2", "TP3"]
+  },
+  "review_defaults": {
+    "thesis_review_deadline_months": 6,
+    "stale_plan_review": "weekly"
+  },
+  "constraints": {
+    "requires_risk_review": true,
+    "must_incorporate_risk_conditions": true,
+    "no_plans_above_aggressive_entry": "note_wait_for_levels"
+  },
+  "portfolio_state_path": "projects/claw-capital/portfolio.json",
+  "thesis_levels_path": "projects/claw-capital/alerts/config/thesis-levels.json"
+}

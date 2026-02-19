@@ -1,0 +1,24 @@
+{
+  "BTC": {
+    "levels": [69800, 71200, 73000],
+    "note": "matching HL sell orders"
+  },
+  "HYPE": {
+    "above": 35,
+    "below": 22
+  },
+  "ETH": {
+    "above": 2100,
+    "below": 1650
+  },
+  "BNKR": {
+    "above": 0.0012,
+    "below": 0.0004,
+    "chain": "base"
+  },
+  "KellyClaude": {
+    "above": 0.00022,
+    "below": 0.00008,
+    "chain": "base"
+  }
+}

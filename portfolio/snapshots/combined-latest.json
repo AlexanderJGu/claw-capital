@@ -1,0 +1,151 @@
+{
+  "timestamp": "2026-02-12T21:42:36Z",
+  "net_worth_usd": 507323.91,
+  "allocation": {
+    "onchain": {
+      "total_usd": 307323.91,
+      "pct": 60.6
+    },
+    "offchain": {
+      "total_usd": 200000,
+      "pct": 39.4
+    }
+  },
+  "onchain": {
+    "timestamp": "2026-02-12T21:42:36Z",
+    "total_value_usd": 307323.91,
+    "chains": {
+      "solana": {
+        "total_usd": 1037.85,
+        "holdings": [
+          {
+            "chain": "solana",
+            "token": "USDC",
+            "balance": "999.326397",
+            "value_usd": 999.67,
+            "price_usd": 1.0003450325190404
+          },
+          {
+            "chain": "solana",
+            "token": "SOL",
+            "balance": "0.493598115",
+            "value_usd": 38.18,
+            "price_usd": 77.36878372160994
+          }
+        ]
+      },
+      "ethereum": {
+        "total_usd": 16.7,
+        "holdings": [
+          {
+            "chain": "ethereum",
+            "token": "ETH",
+            "balance": "0.008683350481180024",
+            "value_usd": 16.7,
+            "price_usd": 1923.7900141278383
+          }
+        ]
+      },
+      "base": {
+        "total_usd": 20796.03,
+        "holdings": [
+          {
+            "chain": "base",
+            "token": "USDC",
+            "balance": "11029.053127",
+            "value_usd": 11043.39,
+            "price_usd": 1.0013007782403132
+          },
+          {
+            "chain": "base",
+            "token": "KellyClaude",
+            "balance": "41053496.816014655",
+            "value_usd": 5331.39,
+            "price_usd": 0.00012986449910103973
+          },
+          {
+            "chain": "base",
+            "token": "BNKR",
+            "balance": "6237938.395272976",
+            "value_usd": 4421.25,
+            "price_usd": 0.000708769137397573
+          }
+        ]
+      },
+      "hyperevm": {
+        "total_usd": 0,
+        "holdings": []
+      },
+      "hyperliquid_spot": {
+        "total_usd": 135600.81913059828,
+        "holdings": [
+          {
+            "chain": "hyperliquid-spot",
+            "token": "USDC",
+            "balance": "89956.32372079",
+            "price_usd": 1,
+            "value_usd": 89956.32372079
+          },
+          {
+            "chain": "hyperliquid-spot",
+            "token": "UBTC",
+            "balance": "0.6310480971",
+            "price_usd": 65813.5,
+            "value_usd": 41531.48393849085
+          },
+          {
+            "chain": "hyperliquid-spot",
+            "token": "HYPE",
+            "balance": "137.70859534",
+            "price_usd": 29.8675,
+            "value_usd": 4113.01147131745
+          }
+        ]
+      },
+      "hyperliquid_perps": {
+        "account_value": 149872.508493,
+        "details": {
+          "account_value": 149872.508493,
+          "total_margin_used": 0.0,
+          "positions": []
+        }
+      }
+    },
+    "open_orders": [
+      {
+        "coin": "@142",
+        "side": "sell",
+        "price": 73000.0,
+        "size": 0.14842,
+        "value_usd": 10834.66
+      },
+      {
+        "coin": "@142",
+        "side": "sell",
+        "price": 69800.0,
+        "size": 0.15448,
+        "value_usd": 10782.704
+      },
+      {
+        "coin": "@142",
+        "side": "sell",
+        "price": 71200.0,
+        "size": 0.32814,
+        "value_usd": 23363.568
+      }
+    ]
+  },
+  "offchain": {
+    "timestamp": "2026-02-12T21:42:36Z",
+    "total_value_usd": 200000,
+    "assets": [
+      {
+        "name": "Coinbase",
+        "type": "exchange",
+        "value": 200000,
+        "account": "Coinbase",
+        "current_value": 200000
+      }
+    ]
+  }
+}

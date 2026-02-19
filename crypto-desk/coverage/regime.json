@@ -1,0 +1,51 @@
+{
+  "current_regime": "bear",
+  "confidence": "high",
+  "last_updated": "2026-02-18",
+  "determined_by": "oracle",
+  "primary_indicators": {
+    "btc_log_regression_band": {
+      "value": 0.18,
+      "interpretation": "Lower risk bands — accumulation territory",
+      "source": "ITC dashboard",
+      "as_of": "2026-02-18"
+    },
+    "btc_vs_200w_sma": {
+      "btc_price": 66278,
+      "sma_200w": 52000,
+      "ratio": 1.27,
+      "interpretation": "Above 200W SMA but declining — transitional",
+      "source": "calculated",
+      "as_of": "2026-02-18"
+    },
+    "fed_funds_rate": {
+      "value": 4.50,
+      "direction": "cutting",
+      "interpretation": "Easing cycle begun — supportive for risk assets on 6-12 month horizon",
+      "source": "FRED",
+      "as_of": "2026-02-18"
+    }
+  },
+  "secondary_indicators": {
+    "btc_dominance": {"value": 61.2, "trend": "rising", "interpretation": "BTC season — alts underperforming"},
+    "total_crypto_mcap": {"value": 2100000000000, "trend": "declining", "interpretation": "Risk-off"},
+    "eth_btc": {"value": 0.027, "trend": "declining", "interpretation": "ETH weakness — not alt season"},
+    "stablecoin_mcap": {"value": 215000000000, "trend": "growing", "interpretation": "Dry powder accumulating"},
+    "aggregate_funding": {"value": -0.002, "trend": "negative", "interpretation": "Market deleveraging"}
+  },
+  "itc_qualitative": {
+    "cowen_cycle_view": "Bear market comparable to 2022 Q3-Q4. Expects BTC to find support in $50-60K range based on log regression. Alt season not until BTC dominance peaks and reverses.",
+    "last_video_analyzed": null,
+    "last_video_id": null
+  },
+  "regime_history": [
+    {"regime": "distribution", "from": "2025-11-01", "to": "2026-01-15"},
+    {"regime": "bear", "from": "2026-01-15", "to": null}
+  ],
+  "desk_implications": {
+    "new_buy_theses": "allowed — accumulation watchlist active",
+    "discovery_engine": "active — bear market is best time to identify next cycle winners",
+    "risk_posture": "defensive — small position sizes, wide DCA ranges",
+    "focus": "thesis building + research pipeline for next bull cycle"
+  }
+}

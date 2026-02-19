@@ -1,0 +1,47 @@
+{
+  "accounts": [
+    {"handle": "insomniacxbt", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["crypto"]},
+    {"handle": "based16z", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["crypto"]},
+    {"handle": "Pivot922", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["crypto", "high-signal"]},
+    {"handle": "lBattleRhino", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["crypto"]},
+    {"handle": "frankdegods", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["crypto"]},
+    {"handle": "zephyr_z9", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["crypto"]},
+    {"handle": "kevinxu", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["crypto"]},
+    {"handle": "0xbigmikey", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["crypto"]},
+    {"handle": "intocryptoverse", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["crypto"]},
+    {"handle": "Citrini7", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["macro", "thesis"]},
+    {"handle": "TheShortBear", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["macro", "thesis"]},
+    {"handle": "howdymerry", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["macro", "thesis"]},
+    {"handle": "KobeissiLetter", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["macro", "thesis"]},
+    {"handle": "benitoz", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["macro", "thesis"]},
+    {"handle": "ThinkingUSD", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["high-signal"]},
+    {"handle": "outpxce", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["high-signal"]},
+    {"handle": "abcampbell", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["high-signal"]},
+    {"handle": "plur_daddy", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["high-signal"]},
+    {"handle": "PlutonicXBT", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["high-signal"]},
+    {"handle": "CavanXy", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["high-signal"]},
+    {"handle": "apewoodx", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["high-signal"]},
+    {"handle": "tphuang", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["high-signal", "asia", "china-tech"]},
+    {"handle": "pandawatch88", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["high-signal", "asia"]},
+    {"handle": "jukan05", "baseline_score": 8, "current_score": 8, "calls_tracked": 0, "hit_rate": null, "avg_alpha": null, "tags": ["high-signal", "asia", "japan-semi"]}
+  ],
+  "scoring": {
+    "default_baseline": 8,
+    "min_score": 1,
+    "max_score": 10,
+    "decay_weight": 0.9,
+    "min_calls_for_adjustment": 3,
+    "correct_call_boost": 0.3,
+    "incorrect_call_penalty": 0.5,
+    "default_eval_window_days": 7
+  },
+  "calls": [
+    {"author": "insomniacxbt", "asset": "BTC", "direction": "short", "price_at_call": null, "timestamp": "2026-02-13T00:29:25Z", "target": "42000", "eval_by": "2026-02-20T00:29:25Z"},
+    {"author": "insomniacxbt", "asset": "ETH", "direction": "short", "price_at_call": null, "timestamp": "2026-02-13T00:29:25Z", "target": "1000", "eval_by": "2026-02-20T00:29:25Z"},
+    {"author": "insomniacxbt", "asset": "SOL", "direction": "short", "price_at_call": null, "timestamp": "2026-02-13T00:29:25Z", "target": "40", "eval_by": "2026-02-20T00:29:25Z"},
+    {"author": "Pivot922", "asset": "BTC", "direction": "short", "price_at_call": null, "timestamp": "2026-02-12T20:50:48Z", "target": "22500", "eval_by": "2026-02-19T20:50:48Z"},
+    {"author": "based16z", "asset": "GLM", "direction": "long", "price_at_call": null, "timestamp": "2026-02-12T21:10:19Z", "target": null, "eval_by": "2026-02-19T21:10:19Z"},
+    {"author": "based16z", "asset": "NVDA", "direction": "short", "price_at_call": null, "timestamp": "2026-02-13T00:24:28Z", "target": "50", "eval_by": "2026-02-20T00:24:28Z"}
+  ],
+  "last_updated": "2026-02-13"
+}

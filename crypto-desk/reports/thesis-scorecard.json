@@ -1,0 +1,39 @@
+{
+  "description": "Claw Capital Crypto Desk — Thesis Scorecard. Aggregated prediction tracking and thesis outcome data.",
+  "last_updated": "2026-02-18",
+  "overall": {
+    "total_predictions": 15,
+    "resolved": 0,
+    "open": 15,
+    "hit_rate": null,
+    "hit_rate_by_category": {
+      "fundamental": null,
+      "competitive": null,
+      "catalyst": null,
+      "price": null,
+      "macro": null
+    }
+  },
+  "by_asset": {
+    "HYPE": {"predictions": 5, "resolved": 0, "hits": 0, "hit_rate": null},
+    "AAVE": {"predictions": 5, "resolved": 0, "hits": 0, "hit_rate": null},
+    "MORPHO": {"predictions": 5, "resolved": 0, "hits": 0, "hit_rate": null}
+  },
+  "by_conviction_level": {
+    "8-10": {"count": 10, "hit_rate": null, "assets": ["HYPE", "MORPHO"]},
+    "6-7": {"count": 5, "hit_rate": null, "assets": ["AAVE"]},
+    "4-5": {"count": 0, "hit_rate": null, "assets": []}
+  },
+  "thesis_outcomes": {
+    "total_theses": 3,
+    "hit_target": 0,
+    "stopped_out": 0,
+    "invalidated": 0,
+    "active": 3
+  },
+  "base_rate_assumptions": {
+    "starting_hit_rate": 0.50,
+    "calibration_note": "Starting at 50% base rate. Minimum 10 resolved predictions needed before calibration.",
+    "next_calibration": "2026-06-01"
+  }
+}

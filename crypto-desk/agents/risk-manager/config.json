@@ -1,0 +1,42 @@
+{
+  "agent": "risk_manager",
+  "version": "1.0.0",
+  "risk_limits": {
+    "max_single_position_pct": 5.0,
+    "max_sector_concentration_pct": 30.0,
+    "max_crypto_allocation_pct": 40.0,
+    "min_risk_reward_ratio": 3.0,
+    "max_correlated_pair_combined_pct": 8.0
+  },
+  "review_triggers": {
+    "every_thesis_proposal": true,
+    "every_execution_plan": true,
+    "material_thesis_update": true,
+    "critical_prediction_miss": true
+  },
+  "scheduled_reviews": {
+    "portfolio_risk": {"frequency": "weekly", "day": "monday", "hour_utc": 10},
+    "base_rate_review": {"frequency": "monthly", "day": 1, "hour_utc": 10},
+    "stress_test": {"frequency": "monthly", "day": 15, "hour_utc": 10}
+  },
+  "stress_scenarios": [
+    {"name": "eth_crash_60pct", "description": "ETH drops 60% — impact on all ETH-correlated positions"},
+    {"name": "btc_crash_50pct", "description": "BTC drops 50% — systemic crypto drawdown"},
+    {"name": "defi_exploit", "description": "Major DeFi lending exploit — contagion to AAVE/MORPHO/SYRUP"},
+    {"name": "regulatory_crackdown", "description": "SEC action on DeFi lending protocols"},
+    {"name": "stablecoin_depeg", "description": "USDC or USDS depeg event"}
+  ],
+  "base_rate_assumptions": {
+    "starting_hit_rate": 0.50,
+    "calibration_note": "Starting at 50% — calibrate over time as predictions resolve",
+    "min_predictions_for_calibration": 10
+  },
+  "bear_case_requirements": {
+    "min_risk_categories": 3,
+    "required_categories": ["fundamental_risk", "competition_risk", "token_specific_risk"],
+    "no_generic_bear_cases": true
+  },
+  "portfolio_state_path": "projects/claw-capital/portfolio.json",
+  "thesis_directory": "projects/claw-capital/crypto-desk/theses/",
+  "scorecard_path": "projects/claw-capital/crypto-desk/reports/thesis-scorecard.json"
+}

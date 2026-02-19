@@ -1,0 +1,95 @@
+{
+  "timestamp": "2026-02-18T23:00:12Z",
+  "total_value_usd": 305518.35,
+  "chains": {
+    "solana": {
+      "total_usd": 1040.07,
+      "holdings": [
+        {
+          "chain": "solana",
+          "token": "USDC",
+          "balance": "999.326397",
+          "value_usd": 999.9,
+          "price_usd": 1.0005746018655384
+        },
+        {
+          "chain": "solana",
+          "token": "SOL",
+          "balance": "0.493598116",
+          "value_usd": 40.17,
+          "price_usd": 81.40074412306915
+        }
+      ]
+    },
+    "ethereum": {
+      "total_usd": 16.9,
+      "holdings": [
+        {
+          "chain": "ethereum",
+          "token": "ETH",
+          "balance": "0.008683350481180024",
+          "value_usd": 16.9,
+          "price_usd": 1947.0776775405998
+        }
+      ]
+    },
+    "base": {
+      "total_usd": 18817.34,
+      "holdings": [
+        {
+          "chain": "base",
+          "token": "USDC",
+          "balance": "18690.242019",
+          "value_usd": 18681.39,
+          "price_usd": 0.9995268253016254
+        },
+        {
+          "chain": "base",
+          "token": "UP",
+          "balance": "9",
+          "value_usd": 135.95,
+          "price_usd": 15.105568849128508
+        }
+      ]
+    },
+    "hyperevm": {
+      "total_usd": 0,
+      "holdings": []
+    },
+    "hyperliquid_spot": {
+      "total_usd": 135771.53631104503,
+      "holdings": [
+        {
+          "chain": "hyperliquid-spot",
+          "token": "USDC",
+          "balance": "89956.32372079",
+          "price_usd": 1,
+          "value_usd": 89956.32372079
+        },
+        {
+          "chain": "hyperliquid-spot",
+          "token": "UBTC",
+          "balance": "0.6310480971",
+          "price_usd": 66367.5,
+          "value_usd": 41881.08458428425
+        },
+        {
+          "chain": "hyperliquid-spot",
+          "token": "HYPE",
+          "balance": "137.70859534",
+          "price_usd": 28.5685,
+          "value_usd": 3934.1280059707897
+        }
+      ]
+    },
+    "hyperliquid_perps": {
+      "account_value": 149872.508493,
+      "details": {
+        "account_value": 149872.508493,
+        "total_margin_used": 0.0,
+        "positions": []
+      }
+    }
+  },
+  "open_orders": []
+}

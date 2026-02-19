@@ -1,0 +1,758 @@
+{
+  "description": "HTF Thesis target entry levels and alert conditions. Sourced from research/htf-thesis.md",
+  "last_updated": "2026-02-13",
+  "assets": {
+    "BTC": {
+      "type": "crypto",
+      "source": "hyperliquid",
+      "current_thesis": "Cyclical bear, secular bull. Accumulate at cycle low.",
+      "buy_zone": [
+        40000,
+        50000
+      ],
+      "watch_zone": [
+        55000,
+        60000
+      ],
+      "sell_targets": [
+        69800,
+        71200,
+        73000
+      ],
+      "key_supports": [
+        60000,
+        55000,
+        50000,
+        42000
+      ],
+      "sentiment_accounts": [
+        "intocryptoverse",
+        "CavanXy",
+        "PlutonicXBT",
+        "Pivot922",
+        "insomniacxbt"
+      ],
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true,
+        "sell_target_hit": true,
+        "support_break": true
+      }
+    },
+    "HYPE": {
+      "type": "crypto",
+      "source": "hyperliquid",
+      "current_thesis": "Best fundamentals in crypto. Wait for bear capitulation.",
+      "buy_zone": [
+        18,
+        22
+      ],
+      "watch_zone": [
+        22,
+        26
+      ],
+      "key_supports": [
+        25,
+        22,
+        18,
+        15
+      ],
+      "sentiment_accounts": [
+        "outpxce",
+        "ThinkingUSD"
+      ],
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true,
+        "support_break": true
+      }
+    },
+    "GOOGL": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "GOOGL",
+      "category": "hyperscaler",
+      "current_thesis": "Most attractive hyperscaler. Buy 10-15% dip.",
+      "buy_zone": [
+        260,
+        280
+      ],
+      "watch_zone": [
+        280,
+        295
+      ],
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "AMZN": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "AMZN",
+      "category": "hyperscaler",
+      "current_thesis": "Infrastructure at software multiples. Buy 15-20% dip.",
+      "buy_zone": [
+        160,
+        175
+      ],
+      "watch_zone": [
+        175,
+        190
+      ],
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "MSFT": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "MSFT",
+      "category": "hyperscaler",
+      "current_thesis": "Decade-low valuation but OpenAI dependency risk. Buy 15-20% dip.",
+      "buy_zone": [
+        340,
+        365
+      ],
+      "watch_zone": [
+        365,
+        385
+      ],
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "SOLS": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "SOLS",
+      "category": "nuclear",
+      "current_thesis": "Nuclear conversion monopoly. Easy money made at ATH. Wait for pullback.",
+      "buy_zone": [
+        38,
+        50
+      ],
+      "watch_zone": [
+        50,
+        60
+      ],
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "LEU": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "LEU",
+      "category": "nuclear",
+      "current_thesis": "HALEU monopoly for SMRs. Down 60% from highs, PE=30x still expensive. Patient money on further weakness.",
+      "buy_zone": [
+        100,
+        130
+      ],
+      "watch_zone": [
+        130,
+        155
+      ],
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "CCJ": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "CCJ",
+      "category": "nuclear",
+      "current_thesis": "PE=132x absurd for commodity producer. Avoid until sanity returns.",
+      "buy_zone": [
+        55,
+        70
+      ],
+      "watch_zone": [
+        70,
+        85
+      ],
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "DNN": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "DNN",
+      "category": "nuclear",
+      "current_thesis": "Hold. Pure uranium beta. Pre-revenue exploration play.",
+      "buy_zone": [
+        2.0,
+        2.8
+      ],
+      "watch_zone": [
+        2.8,
+        3.2
+      ],
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "ASML": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "ASML",
+      "category": "semicap",
+      "current_thesis": "EUV monopoly but PE=48x at new highs. Wait for 25-30% correction.",
+      "buy_zone": [
+        1000,
+        1050
+      ],
+      "watch_zone": [
+        1050,
+        1150
+      ],
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "AMAT": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "AMAT",
+      "category": "semicap",
+      "current_thesis": "Semicap oligopoly. More diversified than ASML. Actionable on 30%+ decline.",
+      "buy_zone": [
+        200,
+        230
+      ],
+      "watch_zone": [
+        230,
+        265
+      ],
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "CEG": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "CEG",
+      "category": "energy",
+      "current_thesis": "Nuclear utility. Thesis intact but multiples excessive.",
+      "buy_zone": [
+        200,
+        220
+      ],
+      "watch_zone": [
+        220,
+        245
+      ],
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "VST": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "VST",
+      "category": "energy",
+      "current_thesis": "PE=46x even more expensive than CEG. Wait for significant correction.",
+      "buy_zone": [
+        100,
+        120
+      ],
+      "watch_zone": [
+        120,
+        140
+      ],
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "SMR": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "SMR",
+      "category": "energy",
+      "current_thesis": "Down 76% from highs. SMR tech real but commercial deployment years away. Speculative.",
+      "buy_zone": [
+        8,
+        11
+      ],
+      "watch_zone": [
+        11,
+        13
+      ],
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "OKLO": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "OKLO",
+      "category": "energy",
+      "current_thesis": "Down 67% from highs. Speculative nuclear play. Sanity returning to pricing.",
+      "buy_zone": [
+        25,
+        35
+      ],
+      "watch_zone": [
+        35,
+        48
+      ],
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "FCX": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "FCX",
+      "category": "copper",
+      "current_thesis": "Copper structural deficit 2028+ but near-term inventory overhang.",
+      "buy_zone": [
+        35,
+        45
+      ],
+      "watch_zone": [
+        45,
+        52
+      ],
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "GLD": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "GLD",
+      "category": "monetary",
+      "current_thesis": "Monetary hedge for AI deflation scenario. Reasonable allocation.",
+      "buy_zone": null,
+      "watch_zone": null,
+      "alert_triggers": {
+        "price_enters_buy_zone": false,
+        "price_enters_watch_zone": false
+      }
+    },
+    "TLT": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "TLT",
+      "category": "monetary",
+      "current_thesis": "Duration hedge for AI deflation \u2192 stimulus response. Position for rate cuts.",
+      "buy_zone": [
+        80,
+        86
+      ],
+      "watch_zone": [
+        86,
+        90
+      ],
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "BYD": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "1211.HK",
+      "category": "asia-ev",
+      "current_thesis": "Highest conviction Asia play. Global EV winner. Execution undeniable.",
+      "buy_zone": null,
+      "watch_zone": null,
+      "note": "Needs Twelve Data Pro for HKEX. Will set levels once price data available.",
+      "alert_triggers": {
+        "price_enters_buy_zone": false,
+        "price_enters_watch_zone": false
+      }
+    },
+    "BABA": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "BABA",
+      "category": "asia-ai",
+      "current_thesis": "Cheapest China AI infrastructure play. Cloud + e-commerce floor.",
+      "buy_zone": null,
+      "watch_zone": null,
+      "note": "US-listed ADR available on free tier. Set levels once current price checked.",
+      "alert_triggers": {
+        "price_enters_buy_zone": false,
+        "price_enters_watch_zone": false
+      }
+    },
+    "XIAOMI": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "1810.HK",
+      "category": "asia-ev",
+      "current_thesis": "EV + ecosystem optionality. Yu7 #1 selling car in China Jan 2026.",
+      "buy_zone": null,
+      "watch_zone": null,
+      "note": "Needs Twelve Data Pro for HKEX.",
+      "alert_triggers": {
+        "price_enters_buy_zone": false,
+        "price_enters_watch_zone": false
+      }
+    },
+    "SMIC": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "0981.HK",
+      "category": "asia-semi",
+      "current_thesis": "China semi self-sufficiency. Decade-long theme. Margin trough may be opportunity.",
+      "buy_zone": null,
+      "watch_zone": null,
+      "note": "Needs Twelve Data Pro for HKEX.",
+      "alert_triggers": {
+        "price_enters_buy_zone": false,
+        "price_enters_watch_zone": false
+      }
+    },
+    "ZHIPU": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "2513.HK",
+      "category": "asia-ai",
+      "current_thesis": "Pure-play Chinese AI lab. Speculative. Wait for post-hype pullback.",
+      "buy_zone": null,
+      "watch_zone": null,
+      "note": "Needs Twelve Data Pro for HKEX.",
+      "alert_triggers": {
+        "price_enters_buy_zone": false,
+        "price_enters_watch_zone": false
+      }
+    },
+    "SK_HYNIX": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "000660.KS",
+      "category": "asia-semi",
+      "current_thesis": "HBM king. Memory supercycle. Strongest conviction Asian semi.",
+      "buy_zone": null,
+      "watch_zone": null,
+      "note": "Needs Twelve Data Pro for KRX.",
+      "alert_triggers": {
+        "price_enters_buy_zone": false,
+        "price_enters_watch_zone": false
+      }
+    },
+    "KIOXIA": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "285A.T",
+      "category": "asia-semi",
+      "current_thesis": "NAND flash recovery. +100% ASP growth CY2026.",
+      "buy_zone": null,
+      "watch_zone": null,
+      "note": "Needs Twelve Data Pro for TSE.",
+      "alert_triggers": {
+        "price_enters_buy_zone": false,
+        "price_enters_watch_zone": false
+      }
+    },
+    "MU": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "MU",
+      "category": "semi-memory",
+      "current_thesis": "US-listed memory play. HBM4 cost advantage. @jukan05 bullish since $100.",
+      "buy_zone": [
+        300,
+        340
+      ],
+      "watch_zone": [
+        340,
+        380
+      ],
+      "note": "US-listed FREE tier. Current price $403.75 (2026-02-13). Buy zone = 15-25% pullback.",
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "VNET": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "VNET",
+      "category": "asia-dc",
+      "current_thesis": "US-listed China DC operator. AI infra play.",
+      "buy_zone": [
+        8,
+        10
+      ],
+      "watch_zone": [
+        10,
+        12
+      ],
+      "note": "US-listed FREE tier. Current price $13.32 (2026-02-13). Buy zone = 25-40% pullback.",
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "MINIMAX": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "0100.HK",
+      "category": "asia-ai",
+      "current_thesis": "Consumer AI products. Talkie 11M MAU. Speculative.",
+      "buy_zone": null,
+      "watch_zone": null,
+      "note": "Needs Twelve Data Pro for HKEX.",
+      "alert_triggers": {
+        "price_enters_buy_zone": false,
+        "price_enters_watch_zone": false
+      }
+    },
+    "MITSUI_KINZOKU": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "5706.T",
+      "category": "asia-materials",
+      "current_thesis": "Copper foil. AI server + EV battery demand.",
+      "buy_zone": null,
+      "watch_zone": null,
+      "note": "Needs Twelve Data Pro for TSE.",
+      "alert_triggers": {
+        "price_enters_buy_zone": false,
+        "price_enters_watch_zone": false
+      }
+    },
+    "ATI": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "ATI",
+      "category": "superalloy",
+      "current_thesis": "Citrini top pick. Only pure play nickel superalloy capacity expansion. Energy inflection kicker.",
+      "buy_zone": [
+        100,
+        107
+      ],
+      "watch_zone": [
+        121,
+        125
+      ],
+      "note": "Current price $142.29 (2026-02-13). Buy zone = 25-30% pullback. Watch = 15% below.",
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "HXL": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "HXL",
+      "category": "carbon-fiber",
+      "current_thesis": "Citrini top pick. Purest Western aerospace carbon fiber. At trough earnings, about to inflect.",
+      "buy_zone": [
+        72,
+        75
+      ],
+      "watch_zone": [
+        81,
+        84
+      ],
+      "note": "Current price $90.35 (2026-02-13). Buy weakness name. Buy zone = 20% below. Watch = 10% below.",
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "CLF": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "CLF",
+      "category": "electrical-steel",
+      "current_thesis": "Only US GOES producer. Grid modernization + transformer shortage play.",
+      "buy_zone": [
+        7.27,
+        7.8
+      ],
+      "watch_zone": [
+        8.83,
+        9.1
+      ],
+      "note": "Current price $10.39 (2026-02-13). Cyclical steel. Buy zone = 25-30% below. Watch = 15% below.",
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "HWM": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "HWM",
+      "category": "superalloy",
+      "current_thesis": "Premier superalloy name but priced for perfection at 40.8x EV/EBITDA. Track only.",
+      "buy_zone": [
+        150,
+        175
+      ],
+      "watch_zone": null,
+      "note": "Current price $250.56 (2026-02-13). Too expensive. Buy only on 30-40% correction. Alerts disabled.",
+      "alert_triggers": {
+        "price_enters_buy_zone": false,
+        "price_enters_watch_zone": false
+      }
+    },
+    "CRS": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "CRS",
+      "category": "superalloy",
+      "current_thesis": "Additive mfg + 3D printing optionality. Aerospace recovery play.",
+      "buy_zone": [
+        281,
+        300
+      ],
+      "watch_zone": [
+        319,
+        330
+      ],
+      "note": "Current price $375.14 (2026-02-13). Buy zone = 25% below. Watch = 15% below.",
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    },
+    "AAVE": {
+      "type": "crypto",
+      "source": "hyperliquid",
+      "category": "defi_bluechip",
+      "current_thesis": "Dominant lending protocol. Tokenomics upgrade (buybacks) incoming. Safest DeFi blue chip.",
+      "buy_zone": [95, 105],
+      "watch_zone": [105, 115],
+      "key_supports": [115, 105, 95, 80],
+      "note": "Current price $125 (2026-02-15). Buy zone = 20% pullback. Insomniac says Morpho may eat institutional share but AAVE is the safe bet.",
+      "alert_triggers": {"price_enters_buy_zone": true, "price_enters_watch_zone": true}
+    },
+    "MORPHO": {
+      "type": "crypto",
+      "source": "hyperliquid",
+      "category": "defi_bluechip",
+      "current_thesis": "Institutional lending dark horse. Coinbase partnership, curated vaults. Insomniac's top pick over AAVE for institutional flow.",
+      "buy_zone": [0.95, 1.10],
+      "watch_zone": [1.10, 1.20],
+      "key_supports": [1.20, 1.10, 0.95, 0.80],
+      "note": "Current price $1.32 (2026-02-15). Buy zone = 20-25% pullback. Smart money high conviction.",
+      "alert_triggers": {"price_enters_buy_zone": true, "price_enters_watch_zone": true}
+    },
+    "PENDLE": {
+      "type": "crypto",
+      "source": "hyperliquid",
+      "category": "defi_bluechip",
+      "current_thesis": "Only yield trading protocol at scale. Zero competition. Every new yield asset = new TAM.",
+      "buy_zone": [0.90, 1.00],
+      "watch_zone": [1.00, 1.10],
+      "key_supports": [1.10, 1.00, 0.90, 0.75],
+      "note": "Current price $1.24 (2026-02-15). Buy zone = 20-25% pullback.",
+      "alert_triggers": {"price_enters_buy_zone": true, "price_enters_watch_zone": true}
+    },
+    "LIT": {
+      "type": "crypto",
+      "source": "hyperliquid",
+      "category": "defi_bluechip",
+      "current_thesis": "Lighter.xyz — HYPE challenger perp DEX. $920M Circle USDC revenue-share deal. Asymmetric bet.",
+      "buy_zone": [1.10, 1.30],
+      "watch_zone": [1.30, 1.45],
+      "key_supports": [1.45, 1.30, 1.10, 0.90],
+      "note": "Current price $1.59 (2026-02-15). High risk/reward. Buy zone = 20-30% pullback.",
+      "alert_triggers": {"price_enters_buy_zone": true, "price_enters_watch_zone": true}
+    },
+    "ETHFI": {
+      "type": "crypto",
+      "source": "hyperliquid",
+      "category": "defi_bluechip",
+      "current_thesis": "Largest liquid restaking protocol. Leveraged bet on EigenLayer/restaking narrative.",
+      "buy_zone": [0.33, 0.38],
+      "watch_zone": [0.38, 0.42],
+      "key_supports": [0.42, 0.38, 0.33, 0.25],
+      "note": "Current price $0.47 (2026-02-15). Dependent on ETH performance + EigenLayer. Buy zone = 20-25% pullback.",
+      "alert_triggers": {"price_enters_buy_zone": true, "price_enters_watch_zone": true}
+    },
+    "SKY": {
+      "type": "crypto",
+      "source": "hyperliquid",
+      "category": "defi_bluechip",
+      "current_thesis": "Ex-MakerDAO. Largest decentralized stablecoin issuer. RWA revenue, burn mechanism.",
+      "buy_zone": [0.048, 0.055],
+      "watch_zone": [0.055, 0.060],
+      "key_supports": [0.060, 0.055, 0.048, 0.040],
+      "note": "Current price $0.066 (2026-02-15). Rebrand confusion. Buy zone = 20-25% pullback.",
+      "alert_triggers": {"price_enters_buy_zone": true, "price_enters_watch_zone": true}
+    },
+    "SYRUP": {
+      "type": "crypto",
+      "source": "hyperliquid",
+      "category": "defi_bluechip",
+      "current_thesis": "Maple Finance. Institutional under-collateralized lending. Real credit spreads. Smallest position — higher risk.",
+      "buy_zone": [0.18, 0.21],
+      "watch_zone": [0.21, 0.24],
+      "key_supports": [0.24, 0.21, 0.18, 0.15],
+      "note": "Current price $0.26 (2026-02-15). Niche institutional play. Buy zone = 20-25% pullback.",
+      "alert_triggers": {"price_enters_buy_zone": true, "price_enters_watch_zone": true}
+    },
+    "LASR": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "LASR",
+      "category": "defense_dew",
+      "current_thesis": "Only pure-play megawatt DEW company. Transitioning from component supplier to weapons integrator. HELSI megawatt contract completing 2026. Golden Dome RFP engagement. Citrini entry $8.47, bull case ~$150, bear ~$35.",
+      "buy_zone": [35, 42],
+      "watch_zone": [42, 48],
+      "key_supports": [48, 42, 35, 25],
+      "note": "Current price $55 (2026-02-18). Citrini 3:1 risk/reward. Bear case $35 requires DEW spending to disappoint across US/UK/Israel simultaneously. 11x trailing revenue.",
+      "alert_triggers": {"price_enters_buy_zone": true, "price_enters_watch_zone": true}
+    },
+    "OII": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "OII",
+      "category": "defense_subsea",
+      "current_thesis": "60yr undersea robotics company pivoting to defense. Largest DoD contract in company history (2025), ramping 2026/27. SIIPS subsea protection system. Citrini favorite subsea play at 12x fwd PE.",
+      "buy_zone": [24, 28],
+      "watch_zone": [28, 31],
+      "key_supports": [31, 28, 24, 20],
+      "note": "Current price $34 (2026-02-18). Cheapest defense exposure per Citrini. Oil & gas base business as floor.",
+      "alert_triggers": {"price_enters_buy_zone": true, "price_enters_watch_zone": true}
+    },
+    "VVV": {
+      "type": "crypto",
+      "source": "twelvedata",
+      "symbol": "VVV/USD",
+      "category": "ai_defi",
+      "current_thesis": "Privacy-first AI platform. Real revenue, buyback+burn model. Erik Voorhees. Wait for pullback after 130% pump.",
+      "buy_zone": [
+        2.50,
+        3.00
+      ],
+      "watch_zone": [
+        3.00,
+        3.30
+      ],
+      "key_supports": [
+        3.26,
+        3.00,
+        2.50
+      ],
+      "note": "Current price ~$3.50 (2026-02-15). Emissions cut to 6M/yr, ~$90K/wk buyback+burn. Coinbase+Binance listed. Buy zone = pullback to pre-pump levels.",
+      "alert_triggers": {
+        "price_enters_buy_zone": true,
+        "price_enters_watch_zone": true
+      }
+    }
+  }
+}

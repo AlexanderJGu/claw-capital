@@ -1,0 +1,52 @@
+{
+  "agent": "sentinel",
+  "version": "1.0.0",
+  "scan_intervals": {
+    "price_check": {"frequency_minutes": 60, "scope": "all_covered_assets"},
+    "funding_rate_oi": {"frequency_minutes": 240, "scope": "tier1_assets"},
+    "onchain_flow": {"frequency_minutes": 360, "scope": "all_covered_assets"},
+    "smart_money_first_mention": {"frequency": "daily", "hour_utc": 9}
+  },
+  "anomaly_thresholds": {
+    "volume_spike": {
+      "multiple_of_7d_avg": 3.0,
+      "severity_high": 5.0,
+      "severity_critical": 10.0
+    },
+    "funding_extreme": {
+      "high_8h_pct": 0.05,
+      "low_8h_pct": -0.03,
+      "critical_8h_pct": 0.10
+    },
+    "whale_movement": {
+      "min_value_usd": 1000000,
+      "critical_value_usd": 10000000
+    },
+    "liquidation_cascade": {
+      "threshold_1h_usd": 10000000,
+      "critical_1h_usd": 50000000
+    },
+    "tvl_shift": {
+      "change_24h_pct": 10,
+      "critical_24h_pct": 25
+    },
+    "exchange_flow": {
+      "multiple_of_monthly_avg": 2.0,
+      "critical_multiple": 5.0
+    },
+    "correlation_break": {
+      "std_deviation_from_btc_eth": 2.0,
+      "critical_std_deviation": 3.0
+    },
+    "level_proximity": {
+      "pct_from_thesis_level": 3.0,
+      "critical_pct": 1.0
+    }
+  },
+  "monitored_assets": {
+    "tier1": ["BTC", "HYPE", "AAVE", "MORPHO", "PENDLE"],
+    "tier2": ["LIT", "ETHFI", "SKY", "SYRUP", "VVV"]
+  },
+  "thesis_levels_path": "projects/claw-capital/alerts/config/thesis-levels.json",
+  "output_directory": "signals/crypto-desk/pending/"
+}

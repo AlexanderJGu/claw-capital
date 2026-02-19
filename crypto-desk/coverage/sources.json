@@ -1,0 +1,38 @@
+{
+  "description": "Curated source list for narrative detection and discovery. Grades assigned by Alex only. Ungraded sources have zero weight.",
+  "grading": {
+    "A": {"weight": 10, "description": "Proven track record, original research, consistently early. Full trust."},
+    "B": {"weight": 6, "description": "Generally good but occasional noise. Useful signal, verify before acting."},
+    "C": {"weight": 3, "description": "Interesting perspective but unproven. Monitor only."},
+    "ungraded": {"weight": 0, "description": "Not yet reviewed by Alex. Cannot influence pipeline."}
+  },
+  "sources": [
+    {"handle": "insomniacxbt", "platform": "twitter", "grade": "A", "graded_date": "2026-02-18", "sectors": ["defi_lending", "defi_yield", "l1_alt"], "notes": "Top DeFi analyst. Morpho > AAVE institutional call. Bearish BTC/ETH/SOL macro calls tracked."},
+    {"handle": "Pivot922", "platform": "twitter", "grade": "A", "graded_date": "2026-02-18", "sectors": ["btc_ecosystem", "macro"], "notes": "High-signal macro + BTC. Bearish calls tracked."},
+    {"handle": "Citrini7", "platform": "twitter", "grade": "A", "graded_date": "2026-02-18", "sectors": ["macro", "equities", "defense", "nuclear", "materials"], "notes": "Citrini Research. Institutional-grade thesis work. HTF thesis framework source."},
+    {"handle": "jukan05", "platform": "twitter", "grade": "A", "graded_date": "2026-02-18", "sectors": ["asia_semi", "memory", "abf_substrate"], "notes": "Citrini analyst. Korean semi specialist. Samsung/SK Hynix primary source."},
+    {"handle": "TheShortBear", "platform": "twitter", "grade": "A", "graded_date": "2026-02-18", "sectors": ["macro", "equities"], "notes": "Atoms vs bits thesis co-source. Contrarian macro."},
+    {"handle": "howdymerry", "platform": "twitter", "grade": "A", "graded_date": "2026-02-18", "sectors": ["macro", "ai_supply_chain"], "notes": "Intelligence Trade. 9-layer AI supply chain mapping."},
+    {"handle": "izebel_eth", "platform": "twitter", "grade": "A", "graded_date": "2026-02-18", "sectors": ["defi_perps", "defi_yield", "l1_alt"], "notes": "High conviction DeFi. HYPE + LIT calls. Original research."},
+    {"handle": "ThinkingUSD", "platform": "twitter", "grade": "B", "graded_date": "2026-02-18", "sectors": ["defi_perps", "l1_alt"], "notes": "HYPE sentiment account. Good reads but not always original research."},
+    {"handle": "outpxce", "platform": "twitter", "grade": "B", "graded_date": "2026-02-18", "sectors": ["defi_perps", "l1_alt"], "notes": "HYPE sentiment account."},
+    {"handle": "based16z", "platform": "twitter", "grade": "B", "graded_date": "2026-02-18", "sectors": ["crypto", "macro"], "notes": "Crypto + macro. GLM long, NVDA short calls tracked."},
+    {"handle": "frankdegods", "platform": "twitter", "grade": "B", "graded_date": "2026-02-18", "sectors": ["crypto", "nft", "social_onchain"], "notes": "Cultural crypto. Good for narrative detection, less for fundamentals."},
+    {"handle": "lBattleRhino", "platform": "twitter", "grade": "B", "graded_date": "2026-02-18", "sectors": ["crypto"], "notes": "Crypto trader."},
+    {"handle": "zephyr_z9", "platform": "twitter", "grade": "B", "graded_date": "2026-02-18", "sectors": ["crypto"], "notes": "Crypto trader."},
+    {"handle": "kevinxu", "platform": "twitter", "grade": "B", "graded_date": "2026-02-18", "sectors": ["crypto"], "notes": "Crypto trader."},
+    {"handle": "0xbigmikey", "platform": "twitter", "grade": "B", "graded_date": "2026-02-18", "sectors": ["crypto"], "notes": "Crypto trader."},
+    {"handle": "intocryptoverse", "platform": "twitter", "grade": "B", "graded_date": "2026-02-18", "sectors": ["btc_ecosystem", "macro"], "notes": "BTC macro analyst. YouTube presence. Sentiment useful, not always contrarian."},
+    {"handle": "KobeissiLetter", "platform": "twitter", "grade": "B", "graded_date": "2026-02-18", "sectors": ["macro"], "notes": "Macro news aggregation. Good for data, less for original theses."},
+    {"handle": "benitoz", "platform": "twitter", "grade": "B", "graded_date": "2026-02-18", "sectors": ["macro"], "notes": "Macro analyst."},
+    {"handle": "PlutonicXBT", "platform": "twitter", "grade": "B", "graded_date": "2026-02-18", "sectors": ["btc_ecosystem", "crypto"], "notes": "BTC sentiment account."},
+    {"handle": "CavanXy", "platform": "twitter", "grade": "B", "graded_date": "2026-02-18", "sectors": ["btc_ecosystem", "crypto"], "notes": "BTC sentiment account."},
+    {"handle": "abcampbell", "platform": "twitter", "grade": "B", "graded_date": "2026-02-18", "sectors": ["crypto"], "notes": "High-signal tag."},
+    {"handle": "plur_daddy", "platform": "twitter", "grade": "B", "graded_date": "2026-02-18", "sectors": ["crypto"], "notes": "High-signal tag."},
+    {"handle": "apewoodx", "platform": "twitter", "grade": "B", "graded_date": "2026-02-18", "sectors": ["crypto"], "notes": "High-signal tag."},
+    {"handle": "tphuang", "platform": "twitter", "grade": "B", "graded_date": "2026-02-18", "sectors": ["asia_semi", "china_tech"], "notes": "China tech + Asia semi specialist."},
+    {"handle": "pandawatch88", "platform": "twitter", "grade": "B", "graded_date": "2026-02-18", "sectors": ["asia_semi"], "notes": "Asia semi."}
+  ],
+  "pending_review": [],
+  "last_updated": "2026-02-18"
+}

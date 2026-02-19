@@ -1,0 +1,6 @@
+{
+  "BTC": [
+    {"price": 60000, "type": "support", "strength": 5, "timeframe": "daily", "note": "range low"},
+    {"price": 72000, "type": "resistance", "strength": 5, "timeframe": "daily", "note": "range high"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-02-17",
+  "assets": [
+    {"symbol": "DNN", "type": "equity", "finnhub_symbol": "DNN", "sr_enabled": true, "social_enabled": true, "social_query": "uranium OR $DNN OR $URA OR $URNM OR $CCJ"},
+    {"symbol": "BTC", "type": "crypto", "chain": "ethereum", "token_address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf", "sr_enabled": true, "social_enabled": true, "social_query": "$BTC OR bitcoin"},
+    {"symbol": "HYPE", "type": "crypto", "chain": "hyperevm", "token_address": "0x5555555555555555555555555555555555555555", "sr_enabled": true, "social_enabled": true, "social_query": "$HYPE OR hyperliquid"},
+    {"symbol": "GLD", "type": "equity", "finnhub_symbol": "GLD", "sr_enabled": true, "social_enabled": true, "social_query": "gold OR $GLD OR $XAUUSD"},
+    {"symbol": "GOOGL", "type": "equity", "finnhub_symbol": "GOOGL", "sr_enabled": true, "social_enabled": true, "social_query": "$GOOGL OR $GOOG OR google stock"},
+    {"symbol": "AMZN", "type": "equity", "finnhub_symbol": "AMZN", "sr_enabled": true, "social_enabled": true, "social_query": "$AMZN OR amazon stock"},
+    {"symbol": "VVV", "type": "crypto", "chain": "base", "token_address": "0x15e6E0D4ebeAC120F9a97e71FaA6a0235b85ED12", "sr_enabled": true, "social_enabled": true, "social_query": "$VVV OR venice.ai OR venice token"},
+    {"symbol": "AAVE", "type": "crypto", "sr_enabled": true, "social_enabled": true, "social_query": "$AAVE OR aave"},
+    {"symbol": "MORPHO", "type": "crypto", "sr_enabled": true, "social_enabled": true, "social_query": "$MORPHO OR morpho lending"},
+    {"symbol": "PENDLE", "type": "crypto", "sr_enabled": true, "social_enabled": true, "social_query": "$PENDLE OR pendle finance"},
+    {"symbol": "LIT", "type": "crypto", "sr_enabled": true, "social_enabled": true, "social_query": "$LIT OR lighter.xyz"},
+    {"symbol": "ETHFI", "type": "crypto", "sr_enabled": true, "social_enabled": true, "social_query": "$ETHFI OR etherfi"},
+    {"symbol": "SKY", "type": "crypto", "sr_enabled": true, "social_enabled": true, "social_query": "$SKY OR sky protocol OR ex-MKR"},
+    {"symbol": "SYRUP", "type": "crypto", "sr_enabled": true, "social_enabled": true, "social_query": "$SYRUP OR maple finance"},
+    {"symbol": "6981.T", "type": "equity", "finnhub_symbol": "6981.T", "sr_enabled": false, "social_enabled": true, "social_query": "Murata Manufacturing OR $6981 OR MLCC"},
+    {"symbol": "6762.T", "type": "equity", "finnhub_symbol": "6762.T", "sr_enabled": false, "social_enabled": true, "social_query": "TDK Corp OR $6762 OR inductors"},
+    {"symbol": "009150.KS", "type": "equity", "finnhub_symbol": "009150.KS", "sr_enabled": false, "social_enabled": true, "social_query": "Samsung Electro-Mechanics OR SEMCO OR ABF substrate Korea"}
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "description": "Narrative taxonomy for discovery and classification. Updated by Analyst, new narratives added when detected themes don't fit existing categories.",
+  "last_updated": "2026-02-18",
+  "narratives": [
+    {"id": "defi_lending", "label": "DeFi Lending", "description": "Over-collateralized and institutional lending protocols", "covered_assets": ["AAVE", "MORPHO", "SYRUP"], "status": "active"},
+    {"id": "defi_yield", "label": "DeFi Yield Trading", "description": "Yield tokenization, fixed-rate, interest rate derivatives", "covered_assets": ["PENDLE"], "status": "active"},
+    {"id": "defi_perps", "label": "DeFi Perpetual DEXes", "description": "On-chain perpetual futures exchanges, CLOB architecture", "covered_assets": ["HYPE", "LIT"], "status": "active"},
+    {"id": "defi_stablecoins", "label": "DeFi Stablecoins", "description": "Decentralized stablecoin issuers and infrastructure", "covered_assets": ["SKY", "AAVE"], "status": "active"},
+    {"id": "l1_alt", "label": "Alt L1 Chains", "description": "Alternative L1 blockchains competing with Ethereum", "covered_assets": ["HYPE"], "status": "monitoring"},
+    {"id": "l2_scaling", "label": "L2 Scaling", "description": "Ethereum L2 rollups and scaling solutions", "covered_assets": [], "status": "monitoring"},
+    {"id": "restaking", "label": "Restaking / Liquid Staking", "description": "ETH staking derivatives and EigenLayer ecosystem", "covered_assets": ["ETHFI"], "status": "active"},
+    {"id": "liquid_staking", "label": "Liquid Staking", "description": "ETH liquid staking protocols", "covered_assets": ["ETHFI"], "status": "monitoring"},
+    {"id": "ai_tokens", "label": "AI Tokens", "description": "AI infrastructure and agent tokens", "covered_assets": ["VVV"], "status": "monitoring"},
+    {"id": "ai_agents", "label": "AI Agents", "description": "Autonomous AI agent frameworks and tokens", "covered_assets": [], "status": "monitoring"},
+    {"id": "depin", "label": "DePIN", "description": "Decentralized physical infrastructure networks", "covered_assets": [], "status": "monitoring"},
+    {"id": "rwa_tokenization", "label": "RWA Tokenization", "description": "Real-world asset tokenization protocols", "covered_assets": ["SKY"], "status": "monitoring"},
+    {"id": "gaming_onchain", "label": "On-chain Gaming", "description": "Blockchain-native gaming protocols", "covered_assets": [], "status": "monitoring"},
+    {"id": "social_onchain", "label": "On-chain Social", "description": "Decentralized social media and identity", "covered_assets": [], "status": "monitoring"},
+    {"id": "privacy", "label": "Privacy", "description": "Privacy-preserving protocols and infrastructure", "covered_assets": ["VVV"], "status": "monitoring"},
+    {"id": "memecoins", "label": "Memecoins", "description": "Meme-driven tokens — monitor for sentiment only", "covered_assets": [], "status": "excluded"},
+    {"id": "btc_ecosystem", "label": "BTC Ecosystem", "description": "Bitcoin L2s, ordinals, BTC DeFi", "covered_assets": ["BTC"], "status": "monitoring"},
+    {"id": "cross_chain", "label": "Cross-chain", "description": "Bridges, interoperability, chain abstraction", "covered_assets": [], "status": "monitoring"},
+    {"id": "intent_based", "label": "Intent-based", "description": "Intent-based execution and solver networks", "covered_assets": [], "status": "monitoring"},
+    {"id": "onchain_credit", "label": "On-chain Credit", "description": "Institutional and under-collateralized credit markets", "covered_assets": ["MORPHO", "SYRUP"], "status": "active"}
+  ]
+}
