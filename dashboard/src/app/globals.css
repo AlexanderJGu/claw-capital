@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #09090b;
+  --color-foreground: #fafafa;
+  --color-card: #111113;
+  --color-card-foreground: #fafafa;
+  --color-muted: #1c1c1f;
+  --color-muted-foreground: #71717a;
+  --color-border: #27272a;
+  --color-green: #22c55e;
+  --color-red: #ef4444;
+  --color-yellow: #eab308;
+  --color-blue: #3b82f6;
+  --color-accent: #a78bfa;
+  --font-mono: "JetBrains Mono", "Fira Code", ui-monospace, monospace;
+}
+
+body {
+  background: var(--color-background);
+  color: var(--color-foreground);
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--color-background); }
+::-webkit-scrollbar-thumb { background: var(--color-border); border-radius: 3px; }
+
+/* Markdown prose */
+.prose { color: #d4d4d8; line-height: 1.75; }
+.prose h1, .prose h2, .prose h3, .prose h4 { color: #fafafa; font-weight: 600; margin-top: 1.5em; margin-bottom: 0.5em; }
+.prose h1 { font-size: 1.875rem; }
+.prose h2 { font-size: 1.5rem; }
+.prose h3 { font-size: 1.25rem; }
+.prose p { margin: 0.75em 0; }
+.prose strong { color: #fafafa; }
+.prose a { color: #a78bfa; text-decoration: underline; }
+.prose code { background: #1c1c1f; padding: 0.15em 0.4em; border-radius: 4px; font-size: 0.875em; }
+.prose pre { background: #1c1c1f; padding: 1em; border-radius: 8px; overflow-x: auto; margin: 1em 0; }
+.prose pre code { background: none; padding: 0; }
+.prose blockquote { border-left: 3px solid #27272a; padding-left: 1em; color: #a1a1aa; margin: 1em 0; }
+.prose ul, .prose ol { padding-left: 1.5em; margin: 0.5em 0; }
+.prose li { margin: 0.25em 0; }
+.prose table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: 0.875rem; }
+.prose th, .prose td { border: 1px solid #27272a; padding: 0.5em 0.75em; text-align: left; }
+.prose th { background: #1c1c1f; color: #fafafa; font-weight: 600; }
+.prose hr { border-color: #27272a; margin: 1.5em 0; }
