@@ -3,7 +3,10 @@ import path from "path";
 import matter from "gray-matter";
 
 // Root of the claw-capital repo
-const REPO_ROOT = path.resolve(process.cwd(), "..");
+// On Vercel: data is copied into dashboard/data/ via prebuild script
+// Locally: reads from parent directory
+const DATA_DIR = path.join(process.cwd(), "data");
+const REPO_ROOT = fs.existsSync(DATA_DIR) ? DATA_DIR : path.resolve(process.cwd(), "..");
 
 function readJson(relPath: string) {
   const full = path.join(REPO_ROOT, relPath);
