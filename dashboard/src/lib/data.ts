@@ -91,23 +91,20 @@ export function getDrafts() {
         const m = line.match(/^\*\*(\w+):\*\*\s*(.+)$/);
         if (m) meta[m[1]] = m[2];
       }
-      // Find the tweet body (between the two --- blocks after metadata)
+      // Tweet body is everything from bodyStart until the next ---
+      // After that --- comes Media/Notes metadata
       const rest = lines.slice(bodyStart);
       let tweetText = "";
       let notes = "";
       let media = "";
-      let inTweet = false;
-      let pastTweet = false;
+      let hitSeparator = false;
       for (const line of rest) {
-        if (line.trim() === "---" && !inTweet && !pastTweet) { inTweet = true; continue; }
-        if (line.trim() === "---" && inTweet) { inTweet = false; pastTweet = true; continue; }
-        if (inTweet) { tweetText += (tweetText ? "\n" : "") + line; continue; }
-        if (pastTweet) {
-          const mm = line.match(/^\*\*Media:\*\*\s*(.+)$/);
-          if (mm) media = mm[1];
-          const mn = line.match(/^\*\*Notes:\*\*\s*(.+)$/);
-          if (mn) notes = mn[1];
-        }
+        if (line.trim() === "---" && !hitSeparator) { hitSeparator = true; continue; }
+        if (!hitSeparator) { tweetText += (tweetText ? "\n" : "") + line; continue; }
+        const mm = line.match(/^\*\*Media:\*\*\s*(.+)$/);
+        if (mm) media = mm[1];
+        const mn = line.match(/^\*\*Notes:\*\*\s*(.+)$/);
+        if (mn) notes = mn[1];
       }
       return {
         filename: f,
