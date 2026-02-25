@@ -133,3 +133,4 @@ The honest assessment: Aave is the safe bet in DeFi lending, but it may also be 
 | Date | Action | Details |
 |------|--------|---------|
 | 2026-02-18 | Thesis created | Initial write-up. Phase 1 Crypto Desk build. Data: CoinGecko ($122.36, mcap $1.86B), DeFiLlama (TVL $26.8B, $17B borrowed, 18+ chains, buybacks $50M/yr), X research (87% revenue share, Grayscale ETF filing, Stani $50T vision, fixed-rate lending vertical). |
+| 2026-02-25 | Weekly review | Price: $122.87 (+0.4% from thesis write). Essentially flat. Insomniac noted "morpho/aave ripping" — DeFi lending sector showing relative strength. +7.3% on the day. Still above watch zone ($105-115). No predictions triggered. Conviction unchanged at 7. |

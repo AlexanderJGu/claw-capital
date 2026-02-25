@@ -1,6 +1,6 @@
 {
   "description": "Claw Capital Crypto Desk — Coverage Universe",
-  "last_updated": "2026-02-18",
+  "last_updated": "2026-02-25",
   "max_tier1": 5,
   "max_total": 20,
   "assets": {
@@ -11,14 +11,14 @@
       "chain": "bitcoin",
       "narratives": ["btc_ecosystem"],
       "status": "watchlist",
-      "conviction": null,
-      "current_price_approx": 96000,
-      "price_date": "2026-02-18",
+      "conviction": 9,
+      "current_price_approx": 69191,
+      "price_date": "2026-02-25",
       "buy_zone": [40000, 50000],
       "watch_zone": [55000, 60000],
       "key_supports": [60000, 55000, 50000, 42000],
       "thesis_doc": "projects/claw-capital/crypto-desk/theses/BTC.md",
-      "notes": "Cyclical bear, secular bull. Waiting for cycle low accumulation zone."
+      "notes": "Cyclical bear, secular bull. Bounced +7% today but still in downtrend. Waiting for cycle low accumulation zone."
     },
     "HYPE": {
       "tier": 1,
@@ -28,13 +28,13 @@
       "narratives": ["defi_perps", "l1_alt"],
       "status": "active",
       "conviction": 8,
-      "current_price_approx": 25.0,
-      "price_date": "2026-02-18",
+      "current_price_approx": 28.64,
+      "price_date": "2026-02-25",
       "buy_zone": [18, 22],
       "watch_zone": [22, 26],
       "key_supports": [25, 22, 18, 15],
       "thesis_doc": "projects/claw-capital/crypto-desk/theses/HYPE.md",
-      "notes": "Best fundamentals in crypto. Perp DEX dominance + expanding L1 ecosystem."
+      "notes": "Best fundamentals in crypto. Insomniac watching 23/24 support — could retrace to 16. Above watch zone."
     },
     "AAVE": {
       "tier": 1,
@@ -44,13 +44,13 @@
       "narratives": ["defi_lending", "defi_stablecoins"],
       "status": "active",
       "conviction": 7,
-      "current_price_approx": 125,
-      "price_date": "2026-02-15",
+      "current_price_approx": 122.87,
+      "price_date": "2026-02-25",
       "buy_zone": [95, 105],
       "watch_zone": [105, 115],
       "key_supports": [115, 105, 95, 80],
       "thesis_doc": "projects/claw-capital/crypto-desk/theses/AAVE.md",
-      "notes": "Dominant lending protocol. Tokenomics upgrade (buybacks) incoming."
+      "notes": "Dominant lending protocol. Ripping with MORPHO per Insomniac. Still above watch zone."
     },
     "MORPHO": {
       "tier": 1,
@@ -60,13 +60,13 @@
       "narratives": ["defi_lending", "onchain_credit"],
       "status": "active",
       "conviction": 8,
-      "current_price_approx": 1.32,
-      "price_date": "2026-02-15",
+      "current_price_approx": 1.84,
+      "price_date": "2026-02-25",
       "buy_zone": [0.95, 1.10],
       "watch_zone": [1.10, 1.20],
       "key_supports": [1.20, 1.10, 0.95, 0.80],
       "thesis_doc": "projects/claw-capital/crypto-desk/theses/MORPHO.md",
-      "notes": "Institutional lending dark horse. Coinbase partnership. Insomniac top pick."
+      "notes": "Institutional lending dark horse. +13% today. +39% from thesis write price. Well above buy zone."
     },
     "PENDLE": {
       "tier": 1,
@@ -76,13 +76,13 @@
       "narratives": ["defi_yield"],
       "status": "watchlist",
       "conviction": 7,
-      "current_price_approx": 1.24,
-      "price_date": "2026-02-15",
+      "current_price_approx": 1.31,
+      "price_date": "2026-02-25",
       "buy_zone": [0.90, 1.00],
       "watch_zone": [1.00, 1.10],
       "key_supports": [1.10, 1.00, 0.90, 0.75],
       "thesis_doc": "projects/claw-capital/crypto-desk/theses/PENDLE.md",
-      "notes": "Only yield trading protocol at scale. Zero competition."
+      "notes": "Only yield trading protocol at scale. +10% today. Above watch zone."
     },
     "LIT": {
       "tier": 2,
@@ -92,13 +92,13 @@
       "narratives": ["defi_perps"],
       "status": "watchlist",
       "conviction": null,
-      "current_price_approx": 1.59,
-      "price_date": "2026-02-15",
+      "current_price_approx": 1.49,
+      "price_date": "2026-02-25",
       "buy_zone": [1.10, 1.30],
       "watch_zone": [1.30, 1.45],
       "key_supports": [1.45, 1.30, 1.10, 0.90],
-      "thesis_doc": null,
-      "notes": "HYPE challenger. $920M Circle USDC revenue-share deal. High risk/reward."
+      "thesis_doc": "projects/claw-capital/crypto-desk/theses/LIT.md",
+      "notes": "HYPE challenger. $920M Circle USDC revenue-share deal. Above watch zone."
     },
     "ETHFI": {
       "tier": 2,
@@ -108,13 +108,13 @@
       "narratives": ["restaking", "liquid_staking"],
       "status": "watchlist",
       "conviction": null,
-      "current_price_approx": 0.47,
-      "price_date": "2026-02-15",
+      "current_price_approx": 0.533,
+      "price_date": "2026-02-25",
       "buy_zone": [0.33, 0.38],
       "watch_zone": [0.38, 0.42],
       "key_supports": [0.42, 0.38, 0.33, 0.25],
-      "thesis_doc": null,
-      "notes": "Largest liquid restaking. Dependent on ETH + EigenLayer."
+      "thesis_doc": "projects/claw-capital/crypto-desk/theses/ETHFI.md",
+      "notes": "Largest liquid restaking. Expanding to OP Mainnet (+75% TVL jump). Active buybacks <$3."
     },
     "SKY": {
       "tier": 2,
@@ -125,12 +125,12 @@
       "status": "watchlist",
       "conviction": null,
       "current_price_approx": 0.066,
-      "price_date": "2026-02-15",
+      "price_date": "2026-02-25",
       "buy_zone": [0.048, 0.055],
       "watch_zone": [0.055, 0.060],
       "key_supports": [0.060, 0.055, 0.048, 0.040],
-      "thesis_doc": null,
-      "notes": "Largest decentralized stablecoin. RWA revenue, burn mechanism."
+      "thesis_doc": "projects/claw-capital/crypto-desk/theses/SKY.md",
+      "notes": "Largest decentralized stablecoin. TVL $5.83B per DeFiLlama. Buybacks active."
     },
     "SYRUP": {
       "tier": 2,
@@ -141,12 +141,12 @@
       "status": "watchlist",
       "conviction": null,
       "current_price_approx": 0.26,
-      "price_date": "2026-02-15",
+      "price_date": "2026-02-25",
       "buy_zone": [0.18, 0.21],
       "watch_zone": [0.21, 0.24],
       "key_supports": [0.24, 0.21, 0.18, 0.15],
-      "thesis_doc": null,
-      "notes": "Institutional under-collateralized lending. Niche, smallest position."
+      "thesis_doc": "projects/claw-capital/crypto-desk/theses/SYRUP.md",
+      "notes": "Institutional under-collateralized lending. Niche, smallest position. Price stale — CoinGecko ID unclear."
     },
     "VVV": {
       "tier": 2,
@@ -156,13 +156,13 @@
       "narratives": ["ai_tokens", "privacy"],
       "status": "watchlist",
       "conviction": null,
-      "current_price_approx": 3.50,
-      "price_date": "2026-02-15",
+      "current_price_approx": 4.29,
+      "price_date": "2026-02-25",
       "buy_zone": [2.50, 3.00],
       "watch_zone": [3.00, 3.30],
       "key_supports": [3.26, 3.00, 2.50],
-      "thesis_doc": null,
-      "notes": "Privacy AI. Buyback+burn. Post-pump, needs pullback."
+      "thesis_doc": "projects/claw-capital/crypto-desk/theses/VVV.md",
+      "notes": "Privacy AI. +17.6% today. Insomniac: 'great accumulation range looking to break out'. Well above buy zone."
     }
   }
 }

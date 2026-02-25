@@ -151,3 +151,4 @@ Bitcoin sits at the intersection of two mega-frameworks: the Citrini "Atoms vs B
 | Date | Action | Details |
 |------|--------|---------|
 | 2026-02-18 | Thesis created | Initial write-up. Phase 1 Crypto Desk build. Data: CoinGecko ($66,381, mcap $1.327T), Hyperliquid (funding +0.000284%, OI 18,447 BTC), regime.json (bear, log band 0.18, 200W SMA $52K). Framework: ITC/Cowen cycle + Citrini atoms-vs-bits + TheShortBear AI deflation. Web search unavailable — ETF flow data and on-chain metrics estimated from htf-thesis.md context. |
+| 2026-02-25 | Weekly review | Price: $69,191 (+4.2% from thesis write). 24h bounce +7.4%. Still well above buy zone ($40-50K) and watch zone ($55-60K). No testable predictions triggered. Insomniac bearish ETH/SOL, bullish commodities (gold/silver/copper) — consistent with our framework. Citrini removed paywall on "26 Trades for 2026." No conviction change. Regime: bear (unchanged). |
