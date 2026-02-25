@@ -76,7 +76,7 @@ process_allium() {
 
 # Spam token blocklist (fake airdrops / inflated pricing)
 ETH_BLOCKLIST='["0x111bb5c4157f3ec5f1967e57025ea84a924efe07"]'  # KEB spam
-BASE_BLOCKLIST='["0x4206b5a3329b13fec774a576d4d2f06a6780cd22"]'  # Lordz (bad data)
+BASE_WHITELIST='["0x833589fcd6edb6e08f4c7c32d4f71b54bda02913","0x0000000000000000000000000000000000000000","0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf","0x940181a94a35a4569e4529a3cdfb74e38fd98631","0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22","0x4ed4e862860bed51a9570b96d89af5e1b0efefed"]'  # USDC, ETH, cbBTC, AERO, BRETT, DEGEN
 
 # Process with chain-specific dust thresholds
 # Solana: show stables (USDC/SOL) always, other tokens only if recent (2026+) and >$50
@@ -113,10 +113,10 @@ eth_holdings=$(echo "$eth_raw" | jq -c --argjson blocklist "$ETH_BLOCKLIST" '
       balance: ($balance | tostring), value_usd: ($value | . * 100 | floor | . / 100), price_usd: $price }
   ] | sort_by(-.value_usd)' 2>/dev/null || echo "[]")
 
-base_holdings=$(echo "$base_raw" | jq -c --argjson blocklist "$BASE_BLOCKLIST" '
+base_holdings=$(echo "$base_raw" | jq -c --argjson whitelist "$BASE_WHITELIST" '
   (if .items then .items elif type == "array" then . else [] end) |
   [ .[] |
-    select(.token.address as $addr | ($blocklist | index($addr | ascii_downcase)) | not) |
+    select(.token.address as $addr | ($whitelist | index($addr | ascii_downcase)) != null) |
     (.token.price // 0) as $price |
     ((.raw_balance_str // "0") | tonumber) as $raw_bal |
     (.token.decimals // 0) as $dec |

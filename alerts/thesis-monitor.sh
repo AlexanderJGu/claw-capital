@@ -39,7 +39,7 @@ for (( i=0; i<total; i+=batch_size )); do
   batch_csv="${batch// /,}"
   count=$(echo "$batch_csv" | tr ',' '\n' | wc -l)
   
-  data=$(curl -s --max-time 15 "https://api.twelvedata.com/price?symbol=${batch_csv}&apikey=${TWELVEDATA_API_KEY}" 2>/dev/null)
+  data=$(curl -s --max-time 15 "https://api.twelvedata.com/price?symbol=${batch_csv}&apikey=${TWELVE_DATA_API_KEY:-${TWELVEDATA_API_KEY:-}}" 2>/dev/null)
   
   if [[ $count -eq 1 ]]; then
     p=$(echo "$data" | jq -r '.price // empty')

@@ -1,0 +1,18 @@
+{
+  "signal_type": "thesis_update",
+  "asset": "MORPHO",
+  "generated_by": "analyst",
+  "timestamp": "2026-02-19T08:00:00Z",
+  "priority": "medium",
+  "summary": "MORPHO TVL surged 56% from $3.66B to $5.72B in ~1 day. Institutional adoption thesis accelerating faster than expected. MORPHO-P1 ($8B target by EOY) now looks achievable on current trajectory. Thesis fundamentally intact and strengthening — consider upgrading conviction from 8 to 9 if TVL sustains above $5B for 2+ weeks.",
+  "data": {
+    "tvl_thesis": 3660000000,
+    "tvl_current": 5719849719,
+    "tvl_change_pct": 56.3,
+    "price_current": 1.44,
+    "price_thesis": 1.45,
+    "mcap_current": 787853623
+  },
+  "action_required": "Review MORPHO thesis levels. TVL growth may warrant tighter watch zone. Monitor if TVL sustains or if this is a single-vault spike.",
+  "status": "pending"
+}
