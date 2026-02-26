@@ -10,9 +10,6 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className="dark">
-      <head>
-        <script async src="https://platform.twitter.com/widgets.js" />
-      </head>
       <body className="min-h-screen bg-background text-foreground antialiased">
         <div className="flex min-h-screen">
           <Nav />

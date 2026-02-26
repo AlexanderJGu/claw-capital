@@ -3,9 +3,10 @@
 import { useState } from "react";
 
 interface Source {
-  type: "tweet" | "note" | "article";
+  author: string;
+  summary: string;
+  stance: "agrees" | "disagrees" | "neutral";
   url?: string;
-  label: string;
 }
 
 interface Trade {
@@ -24,48 +25,11 @@ interface Trade {
   sources?: Source[];
 }
 
-function TweetEmbed({ url }: { url: string }) {
-  const tweetId = url.split("/status/")[1]?.split("?")[0];
-  if (!tweetId) return null;
-  return (
-    <div className="rounded border border-border overflow-hidden bg-black/20">
-      <iframe
-        src={`https://platform.twitter.com/embed/Tweet.html?id=${tweetId}&theme=dark&chrome=nofooter&dnt=true`}
-        className="w-full border-0"
-        style={{ height: 280, colorScheme: "dark" }}
-        loading="lazy"
-        sandbox="allow-scripts allow-same-origin allow-popups"
-      />
-    </div>
-  );
-}
-
-function SourceItem({ source }: { source: Source }) {
-  if (source.type === "tweet" && source.url) {
-    return (
-      <div className="space-y-1.5">
-        <TweetEmbed url={source.url} />
-        <p className="text-[11px] text-muted-foreground pl-1">{source.label}</p>
-      </div>
-    );
-  }
-  return (
-    <div className="flex items-start gap-2 py-1.5 px-2 rounded bg-muted/30 border border-border/50">
-      <span className="text-[10px] font-mono text-muted-foreground mt-0.5 shrink-0">
-        {source.type === "article" ? "📄" : "📝"}
-      </span>
-      <p className="text-xs text-muted-foreground leading-relaxed">
-        {source.url ? (
-          <a href={source.url} target="_blank" rel="noopener noreferrer" className="hover:text-foreground underline underline-offset-2">
-            {source.label}
-          </a>
-        ) : (
-          source.label
-        )}
-      </p>
-    </div>
-  );
-}
+const stanceConfig = {
+  agrees: { label: "Agrees", color: "text-green", icon: "↑" },
+  disagrees: { label: "Disagrees", color: "text-red", icon: "↓" },
+  neutral: { label: "Neutral", color: "text-muted-foreground", icon: "—" },
+};
 
 function TradeCard({ t }: { t: Trade }) {
   const [open, setOpen] = useState(false);
@@ -83,12 +47,10 @@ function TradeCard({ t }: { t: Trade }) {
             </span>
             <span className="font-mono font-bold text-lg">{t.ticker}</span>
           </div>
-          <div className="flex items-center gap-2">
-            <div className="flex gap-0.5" title={`Conviction: ${t.conviction}/10`}>
-              {Array.from({ length: 10 }).map((_, i) => (
-                <div key={i} className={`w-1.5 h-4 rounded-sm ${i < t.conviction ? barColor : "bg-muted"}`} />
-              ))}
-            </div>
+          <div className="flex gap-0.5" title={`Conviction: ${t.conviction}/10`}>
+            {Array.from({ length: 10 }).map((_, i) => (
+              <div key={i} className={`w-1.5 h-4 rounded-sm ${i < t.conviction ? barColor : "bg-muted"}`} />
+            ))}
           </div>
         </div>
 
@@ -150,18 +112,52 @@ function TradeCard({ t }: { t: Trade }) {
             open ? "max-h-[2000px] opacity-100" : "max-h-0 opacity-0"
           }`}
         >
-          <div className="border-t border-border bg-muted/10 p-4 space-y-3">
-            <div className="flex items-center gap-1.5 text-[10px] font-mono text-muted-foreground uppercase tracking-wider">
-              <svg className="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                <path strokeLinecap="round" strokeLinejoin="round" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
-              </svg>
-              Sources
-            </div>
-            <div className="space-y-2.5">
-              {t.sources!.map((s, i) => (
-                <SourceItem key={i} source={s} />
-              ))}
-            </div>
+          <div className="border-t border-border bg-muted/10">
+            <table className="w-full text-xs">
+              <thead>
+                <tr className="border-b border-border/50 text-[10px] font-mono text-muted-foreground uppercase tracking-wider">
+                  <th className="text-left py-2 px-4 w-[120px]">Author</th>
+                  <th className="text-left py-2 px-4">Summary</th>
+                  <th className="text-center py-2 px-4 w-[90px]">Stance</th>
+                  <th className="text-center py-2 px-4 w-[50px]">Link</th>
+                </tr>
+              </thead>
+              <tbody>
+                {t.sources!.map((s, i) => {
+                  const stance = stanceConfig[s.stance];
+                  return (
+                    <tr key={i} className="border-b border-border/30 last:border-0">
+                      <td className="py-2.5 px-4 font-mono text-foreground whitespace-nowrap">
+                        @{s.author}
+                      </td>
+                      <td className="py-2.5 px-4 text-muted-foreground leading-relaxed">
+                        {s.summary}
+                      </td>
+                      <td className="py-2.5 px-4 text-center">
+                        <span className={`font-mono ${stance.color}`}>
+                          {stance.icon} {stance.label}
+                        </span>
+                      </td>
+                      <td className="py-2.5 px-4 text-center">
+                        {s.url ? (
+                          <a
+                            href={s.url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-muted-foreground hover:text-foreground transition-colors"
+                            title="View tweet"
+                          >
+                            ↗
+                          </a>
+                        ) : (
+                          <span className="text-muted-foreground/30">—</span>
+                        )}
+                      </td>
+                    </tr>
+                  );
+                })}
+              </tbody>
+            </table>
           </div>
         </div>
       )}
