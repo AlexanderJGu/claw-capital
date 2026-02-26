@@ -11,7 +11,12 @@
     "size": "15% portfolio max",
     "status": "watching",
     "conviction": 9,
-    "lastUpdated": "2026-02-25"
+    "lastUpdated": "2026-02-25",
+    "sources": [
+      {"type": "tweet", "url": "https://x.com/intocryptoverse/status/2026815504678015181", "label": "ICV: midterm year BTC seasonality — pump into March, drop April"},
+      {"type": "tweet", "url": "https://x.com/outpxce/status/2026696358493921546", "label": "outpxce: bear rallies can hit 40%, BTC wick +40% = ~$85K warning"},
+      {"type": "note", "label": "Citrini HTF thesis: BTC as monetary hedge in AI deflation scenario"}
+    ]
   },
   {
     "id": "long-hype",
@@ -25,7 +30,11 @@
     "size": "5% portfolio",
     "status": "watching",
     "conviction": 8,
-    "lastUpdated": "2026-02-25"
+    "lastUpdated": "2026-02-25",
+    "sources": [
+      {"type": "tweet", "url": "https://x.com/izebel_eth/status/2024000000000000000", "label": "izebel_eth: HYPE + LIT as top picks"},
+      {"type": "note", "label": "Pivot922 still 33% swing short on HYPE — contrarian signal"}
+    ]
   },
   {
     "id": "long-aave",
@@ -39,7 +48,12 @@
     "size": "5% portfolio",
     "status": "watching",
     "conviction": 7,
-    "lastUpdated": "2026-02-25"
+    "lastUpdated": "2026-02-25",
+    "sources": [
+      {"type": "tweet", "url": "https://x.com/insomniacxbt/status/2026696358493921546", "label": "insomniac: AAVE is the safe bet in DeFi lending, Morpho may eat institutional share"},
+      {"type": "note", "label": "Grayscale AAVE Trust ETF filing — institutional access catalyst"},
+      {"type": "note", "label": "$118 S/R break detected Feb 26 — sliding into watch zone at $114"}
+    ]
   },
   {
     "id": "long-morpho",
@@ -53,7 +67,12 @@
     "size": "5% portfolio",
     "status": "watching",
     "conviction": 8,
-    "lastUpdated": "2026-02-25"
+    "lastUpdated": "2026-02-26",
+    "sources": [
+      {"type": "tweet", "url": "https://x.com/KobeissiLetter/status/2026735950764908880", "label": "Kobeissi: Apollo acquiring 90M MORPHO tokens over 48 months for onchain lending"},
+      {"type": "tweet", "url": "https://x.com/insomniacxbt/status/2026696358493921546", "label": "insomniac: Morpho > AAVE for institutional flow — curated vault architecture wins"},
+      {"type": "note", "label": "TVL surged 56% to $5.72B week of Feb 19. +24% price rally Feb 25. Apollo deal = direct Wall Street validation"}
+    ]
   },
   {
     "id": "long-pendle",
@@ -67,7 +86,10 @@
     "size": "3% portfolio",
     "status": "watching",
     "conviction": 7,
-    "lastUpdated": "2026-02-25"
+    "lastUpdated": "2026-02-25",
+    "sources": [
+      {"type": "note", "label": "Monopoly yield tokenizer. $2.56B TVL. GENIUS Act stablecoin yield ban = potential headwind"}
+    ]
   },
   {
     "id": "long-lit",
@@ -81,7 +103,11 @@
     "size": "3% portfolio",
     "status": "watching",
     "conviction": 6,
-    "lastUpdated": "2026-02-25"
+    "lastUpdated": "2026-02-25",
+    "sources": [
+      {"type": "tweet", "url": "https://x.com/izebel_eth/status/2024000000000000000", "label": "izebel_eth: LIT as HYPE challenger pick alongside HYPE"},
+      {"type": "note", "label": "Entered watch zone at $1.434 on Feb 20, bounced out on relief rally"}
+    ]
   },
   {
     "id": "long-vvv",
@@ -95,7 +121,11 @@
     "size": "3% portfolio",
     "status": "watching",
     "conviction": 6,
-    "lastUpdated": "2026-02-25"
+    "lastUpdated": "2026-02-25",
+    "sources": [
+      {"type": "tweet", "url": "https://x.com/insomniacxbt/status/2026696358493921546", "label": "insomniac: VVV 'great accumulation range looking to break out'"},
+      {"type": "note", "label": "outpxce compute scarcity thesis. ~$90K/wk buyback+burn. Year-long descending wedge broke out into bull pennant"}
+    ]
   },
   {
     "id": "short-eth",
@@ -109,7 +139,12 @@
     "size": "$15K HL perps",
     "status": "active",
     "conviction": 7,
-    "lastUpdated": "2026-02-26"
+    "lastUpdated": "2026-02-26",
+    "sources": [
+      {"type": "tweet", "url": "https://x.com/0xbigmikey/status/2026000000000000000", "label": "0xbigmikey: new swing short avg $2,070, SL $2,150, TP $1,400"},
+      {"type": "tweet", "url": "https://x.com/TheShortBear/status/2026677983285567775", "label": "TheShortBear (contrarian): adding ETH — 'biggest benefactor of AI'"},
+      {"type": "note", "label": "Range $1,700-$2,150 per lBattleRhino. $2,150 is THE level. Smart money split on ETH direction"}
+    ]
   },
   {
     "id": "short-ethbtc",
@@ -123,7 +158,10 @@
     "size": "$20K pair trade",
     "status": "active",
     "conviction": 8,
-    "lastUpdated": "2026-02-26"
+    "lastUpdated": "2026-02-26",
+    "sources": [
+      {"type": "note", "label": "BowTiedLobster macro bear thesis: BTC not inflation hedge (liquidity proxy), alts worse"}
+    ]
   },
   {
     "id": "short-sol",
@@ -137,7 +175,10 @@
     "size": "$10K HL perps",
     "status": "watching",
     "conviction": 6,
-    "lastUpdated": "2026-02-26"
+    "lastUpdated": "2026-02-26",
+    "sources": [
+      {"type": "note", "label": "BowTiedLobster: business cycle recession incoming. BTC floor sub-$32K = SOL devastated"}
+    ]
   },
   {
     "id": "short-qqq",
@@ -151,13 +192,17 @@
     "size": "$15K via SQQQ/puts",
     "status": "active",
     "conviction": 6,
-    "lastUpdated": "2026-02-26"
+    "lastUpdated": "2026-02-26",
+    "sources": [
+      {"type": "note", "label": "BowTiedLobster: equities 4 months behind crypto in bear cycle"},
+      {"type": "tweet", "url": "https://x.com/KobeissiLetter/status/2026812203140297021", "label": "Kobeissi: Nasdaq put/call ratio at 1.2 — highest since 2022. Contrarian bullish near-term"}
+    ]
   },
   {
     "id": "short-nvda",
     "ticker": "NVDA",
     "direction": "short",
-    "thesis": "Weakest short position per Gavin Baker analysis. Sep puts. AI capex cycle top risk.",
+    "thesis": "Weakest short position per Gavin Baker analysis. Sep puts. AI capex cycle top risk, but watts+wafers bottleneck may prevent overbuild.",
     "timeframe": "3-6 months",
     "entryZone": [190, 200],
     "target": [140, 150],
@@ -165,13 +210,18 @@
     "size": "$11K Sep puts",
     "status": "active",
     "conviction": 5,
-    "lastUpdated": "2026-02-26"
+    "lastUpdated": "2026-02-26",
+    "sources": [
+      {"type": "tweet", "url": "https://x.com/GavinSBaker/status/2026719209158271230", "label": "Gavin Baker: NVDA not in valuation bubble. Watts+wafers prevent overbuild. GPU useful life 6+ years. H100 rental prices going vertical"},
+      {"type": "note", "label": "NVDA $68.1B rev (+73% YoY), $78B Q1 guide crushes $72.8B est. Only +4% after hours — pricing perfection"},
+      {"type": "note", "label": "Citrini Perez cycle framework: every tech revolution → bubble → overbuild → crash → golden age. Baker argues this time different due to physical constraints"}
+    ]
   },
   {
     "id": "short-dash",
     "ticker": "DASH",
     "direction": "short",
-    "thesis": "Short via Jan 27 puts.",
+    "thesis": "AI labor displacement target. Gig economy vulnerable to autonomous delivery/logistics.",
     "timeframe": "6-12 months",
     "entryZone": null,
     "target": null,
@@ -179,13 +229,17 @@
     "size": "$7.5K Jan 27 puts",
     "status": "active",
     "conviction": 6,
-    "lastUpdated": "2026-02-26"
+    "lastUpdated": "2026-02-26",
+    "sources": [
+      {"type": "note", "label": "plur_daddy AI labor displacement thesis: gig platforms among first casualties. Hard Ramp data showing AI replacing human tasks"},
+      {"type": "note", "label": "Citrini intelligence crisis framework: cheap AI labor → gig economy margin compression"}
+    ]
   },
   {
     "id": "short-axp",
     "ticker": "AXP",
     "direction": "short",
-    "thesis": "Short via Jan 27 puts.",
+    "thesis": "Consumer credit cycle short. Discretionary spend compression in recession scenario.",
     "timeframe": "6-12 months",
     "entryZone": null,
     "target": null,
@@ -193,13 +247,17 @@
     "size": "$7.5K Jan 27 puts",
     "status": "active",
     "conviction": 6,
-    "lastUpdated": "2026-02-26"
+    "lastUpdated": "2026-02-26",
+    "sources": [
+      {"type": "note", "label": "BowTiedLobster macro recession thesis: consumer credit deterioration. AXP high-end consumer exposure"},
+      {"type": "note", "label": "AI bull-bear synthesis: both sides agree transition painful 2026-2028"}
+    ]
   },
   {
     "id": "short-mu",
     "ticker": "MU",
     "direction": "short",
-    "thesis": "Commodity memory cycle top. SMIC CEO Q3 2026 reversal. China supply (CXMT/YMTC) hits global. Trigger: rally above $100.",
+    "thesis": "Commodity memory cycle top. SMIC CEO expects Q3 2026 reversal — new fabs flood consumer market + channel inventory liquidation = double whammy. China supply (CXMT/YMTC) hits global prices.",
     "timeframe": "6-12 months",
     "entryZone": [100, 110],
     "target": [70, 80],
@@ -207,13 +265,19 @@
     "size": "$7.5K Jan 27 puts",
     "status": "watching",
     "conviction": 7,
-    "lastUpdated": "2026-02-26"
+    "lastUpdated": "2026-02-26",
+    "sources": [
+      {"type": "tweet", "url": "https://x.com/itsdanielwu/status/2021778631752814631", "label": "Daniel Wu: full SMIC CEO translation — commodity DRAM/NAND Q3 2026 reversal, HBM stays tight for years"},
+      {"type": "tweet", "url": "https://x.com/jukan05/status/2026831310766129606", "label": "Jukan: Micron effectively OUT of Rubin HBM4 race. Memory prices surged 80%+"},
+      {"type": "tweet", "url": "https://x.com/MarkosAAIG/status/2026836873595765216", "label": "Markos: SK Hynix + SanDisk HBF standardization under OCP — HBM scarcity managed, not solved"},
+      {"type": "note", "label": "Citron Research SNDK short validates timing. Samsung withdrawing from commodity NAND. Two-track thesis: HBM bull / commodity NAND bear"}
+    ]
   },
   {
     "id": "short-sndk",
     "ticker": "SNDK",
     "direction": "short",
-    "thesis": "Pure NAND play. Citron short target. Most exposed to commodity NAND oversupply Q3-Q4 2026. Secondary expression.",
+    "thesis": "Pure NAND play. Citron short target. Most exposed to commodity NAND oversupply Q3-Q4 2026. HBF optionality partially offsets but early-stage.",
     "timeframe": "6-12 months",
     "entryZone": null,
     "target": null,
@@ -221,6 +285,11 @@
     "size": "$5K max",
     "status": "watching",
     "conviction": 5,
-    "lastUpdated": "2026-02-26"
+    "lastUpdated": "2026-02-26",
+    "sources": [
+      {"type": "tweet", "url": "https://x.com/itsdanielwu/status/2021778631752814631", "label": "Daniel Wu: SMIC CEO — new fab capacity floods consumer NAND, China NOT a separate market"},
+      {"type": "tweet", "url": "https://x.com/MarkosAAIG/status/2026836873595765216", "label": "Markos: HBF standardization gives SNDK AI-adjacent use case — partially offsets commodity bear case"},
+      {"type": "note", "label": "Citron Research already positioned short. Less liquid options than MU — secondary expression"}
+    ]
   }
 ]
