@@ -7,10 +7,8 @@ import { useState } from "react";
 const links = [
   { href: "/", label: "Overview", icon: "◈" },
   { href: "/watchlist", label: "Watchlist", icon: "◉" },
-  { href: "/theses", label: "Theses", icon: "◆" },
+  { href: "/trades", label: "Trade Ideas", icon: "◆" },
   { href: "/drafts", label: "Drafts", icon: "✎" },
-  { href: "/sources", label: "Sources", icon: "◎" },
-  { href: "/regime", label: "Regime", icon: "⚡" },
 ];
 
 export function Nav() {
@@ -22,7 +20,6 @@ export function Nav() {
 
   return (
     <>
-      {/* Mobile header */}
       <div className="lg:hidden fixed top-0 left-0 right-0 z-50 bg-background/95 backdrop-blur border-b border-border px-4 h-12 flex items-center justify-between">
         <span className="font-mono text-sm font-bold tracking-wider text-accent">CLAW CAPITAL</span>
         <button onClick={() => setOpen(!open)} className="text-xl p-1">
@@ -30,7 +27,6 @@ export function Nav() {
         </button>
       </div>
 
-      {/* Mobile menu */}
       {open && (
         <div className="lg:hidden fixed inset-0 z-40 bg-background/95 backdrop-blur pt-12">
           <nav className="p-4 space-y-1">
@@ -51,11 +47,10 @@ export function Nav() {
         </div>
       )}
 
-      {/* Desktop sidebar */}
       <aside className="hidden lg:flex flex-col fixed left-0 top-0 bottom-0 w-56 bg-card border-r border-border z-40">
         <div className="p-4 border-b border-border">
           <span className="font-mono text-sm font-bold tracking-wider text-accent">CLAW CAPITAL</span>
-          <p className="text-[10px] text-muted-foreground mt-0.5 font-mono">CRYPTO DESK</p>
+          <p className="text-[10px] text-muted-foreground mt-0.5 font-mono">TRADING TERMINAL</p>
         </div>
         <nav className="flex-1 p-2 space-y-0.5">
           {links.map((l) => (
@@ -74,11 +69,10 @@ export function Nav() {
           ))}
         </nav>
         <div className="p-3 border-t border-border text-[10px] text-muted-foreground font-mono">
-          v0.1 — local data
+          v0.2 — simplified
         </div>
       </aside>
 
-      {/* Spacer for mobile header */}
       <div className="lg:hidden h-12" />
     </>
   );

@@ -2,81 +2,34 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 
-// Root of the claw-capital repo
-// On Vercel: data is copied into dashboard/data/ via prebuild script
-// Locally: reads from parent directory
 const DATA_DIR = path.join(process.cwd(), "data");
-const REPO_ROOT = fs.existsSync(DATA_DIR) ? DATA_DIR : path.resolve(process.cwd(), "..");
 
-function readJson(relPath: string) {
-  const full = path.join(REPO_ROOT, relPath);
+function readJson(filename: string) {
+  const full = path.join(DATA_DIR, filename);
   if (!fs.existsSync(full)) return null;
   return JSON.parse(fs.readFileSync(full, "utf-8"));
 }
 
-function readMd(relPath: string) {
-  const full = path.join(REPO_ROOT, relPath);
-  if (!fs.existsSync(full)) return null;
-  const raw = fs.readFileSync(full, "utf-8");
-  const { data, content } = matter(raw);
-  return { frontmatter: data, content };
+export function getWatchlist() {
+  return readJson("watchlist.json") || [];
 }
 
-export function getUniverse() {
-  return readJson("crypto-desk/coverage/universe.json");
-}
-
-export function getThesisLevels() {
-  return readJson("alerts/config/thesis-levels.json");
+export function getTradeIdeas() {
+  return readJson("trade-ideas.json") || [];
 }
 
 export function getRegime() {
-  return readJson("crypto-desk/coverage/regime.json");
-}
-
-export function getSources() {
-  return readJson("crypto-desk/coverage/sources.json");
-}
-
-export function getNarratives() {
-  return readJson("crypto-desk/coverage/narratives.json");
-}
-
-export function getPredictions() {
-  return readJson("crypto-desk/reports/prediction-tracker.json");
-}
-
-export function getPortfolio() {
-  return readJson("portfolio/snapshots/combined-latest.json");
-}
-
-export function getThesisDoc(asset: string) {
-  const dir = path.join(REPO_ROOT, "crypto-desk/theses");
-  const file = path.join(dir, `${asset.toUpperCase()}.md`);
-  if (!fs.existsSync(file)) return null;
-  const raw = fs.readFileSync(file, "utf-8");
-  const { data, content } = matter(raw);
-  return { frontmatter: data, content };
-}
-
-export function listThesisDocs(): string[] {
-  const dir = path.join(REPO_ROOT, "crypto-desk/theses");
-  if (!fs.existsSync(dir)) return [];
-  return fs
-    .readdirSync(dir)
-    .filter((f) => f.endsWith(".md") && !f.startsWith("_"))
-    .map((f) => f.replace(".md", ""));
+  return readJson("regime.json") || { regime: "unknown", signals: {}, bias: "", lastUpdated: "" };
 }
 
 export function getDrafts() {
-  const dir = path.join(REPO_ROOT, "drafts/tweets");
+  const dir = path.join(DATA_DIR, "drafts");
   if (!fs.existsSync(dir)) return [];
   return fs
     .readdirSync(dir)
     .filter((f) => f.endsWith(".md") && f !== "README.md")
     .map((f) => {
       const raw = fs.readFileSync(path.join(dir, f), "utf-8");
-      // Parse custom frontmatter format (not standard YAML)
       const lines = raw.split("\n");
       const meta: Record<string, string> = {};
       let bodyStart = 0;
@@ -91,8 +44,6 @@ export function getDrafts() {
         const m = line.match(/^\*\*(\w+):\*\*\s*(.+)$/);
         if (m) meta[m[1]] = m[2];
       }
-      // Tweet body is everything from bodyStart until the next ---
-      // After that --- comes Media/Notes metadata
       const rest = lines.slice(bodyStart);
       let tweetText = "";
       let notes = "";
@@ -117,17 +68,4 @@ export function getDrafts() {
         notes,
       };
     });
-}
-
-export function getSignals() {
-  const dir = path.join(REPO_ROOT, "crypto-desk/reports");
-  if (!fs.existsSync(dir)) return [];
-  return fs
-    .readdirSync(dir)
-    .filter((f) => f.endsWith(".json") && f !== "prediction-tracker.json" && f !== "thesis-scorecard.json")
-    .map((f) => {
-      try { return { name: f, data: JSON.parse(fs.readFileSync(path.join(dir, f), "utf-8")) }; }
-      catch { return null; }
-    })
-    .filter(Boolean);
 }

@@ -1,0 +1,11 @@
+{
+  "regime": "bear",
+  "confidence": "high",
+  "lastUpdated": "2026-02-18",
+  "signals": {
+    "btcTrend": "Declining — 200W SMA at $52K, log regression band 0.18",
+    "fedPolicy": "Cutting (4.5%) — easing cycle supportive on 6-12mo horizon",
+    "riskAppetite": "Low — BTC dominance 61.2%, negative funding, ETH/BTC declining"
+  },
+  "bias": "Defensive. Accumulation watchlist active — bear market is best time to build positions. Short book running for hedge income. Wait for cycle low Q2-Q4 2026."
+}

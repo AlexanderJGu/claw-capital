@@ -3,7 +3,6 @@ import { getDrafts } from "@/lib/data";
 export default function Drafts() {
   const drafts = getDrafts();
 
-  // Group by account
   const grouped: Record<string, typeof drafts> = {};
   for (const d of drafts) {
     const acc = d.account || "unknown";
@@ -43,7 +42,6 @@ export default function Drafts() {
                   <span className="text-[10px] text-muted-foreground font-mono shrink-0">{d.filename.slice(0, 10)}</span>
                 </div>
 
-                {/* Tweet text */}
                 <div className="bg-muted rounded p-3 text-sm whitespace-pre-wrap font-mono leading-relaxed">
                   {d.text}
                 </div>

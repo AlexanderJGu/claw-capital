@@ -468,19 +468,35 @@
       "source": "twelvedata",
       "symbol": "MU",
       "category": "semi-memory",
-      "current_thesis": "US-listed memory play. HBM4 cost advantage. @jukan05 bullish since $100.",
-      "buy_zone": [
-        300,
-        340
-      ],
-      "watch_zone": [
-        340,
-        380
-      ],
-      "note": "US-listed FREE tier. Current price $403.75 (2026-02-13). Buy zone = 15-25% pullback.",
+      "current_thesis": "DUAL VIEW: HBM bull (Jukan) vs commodity cycle top bear (Citron/SMIC CEO/Daniel Wu). Commodity DRAM/NAND oversupply expected Q3 2026. MU Jan 2027 puts = primary short expression.",
+      "buy_zone": [300, 340],
+      "watch_zone": [340, 380],
+      "short_entry": {
+        "instrument": "Jan 2027 puts",
+        "trigger": "rally above $100",
+        "size": "$7.5K",
+        "target": "$70-80"
+      },
+      "note": "SMIC CEO Q3 2026 commodity reversal. Double whammy: new fabs + channel liquidation. China supply (CXMT/YMTC) hits global. Long thesis (Jukan HBM4) suspended pending cycle resolution.",
       "alert_triggers": {
         "price_enters_buy_zone": true,
         "price_enters_watch_zone": true
+      }
+    },
+    "SNDK": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "SNDK",
+      "category": "semi-memory-short",
+      "current_thesis": "Pure NAND play. Citron short target. Most exposed to commodity NAND oversupply Q3-Q4 2026.",
+      "short_entry": {
+        "instrument": "puts or short",
+        "size": "$5K max",
+        "note": "Less liquid than MU. Citron already positioned. Secondary expression."
+      },
+      "alert_triggers": {
+        "price_enters_buy_zone": false,
+        "price_enters_watch_zone": false
       }
     },
     "VNET": {
