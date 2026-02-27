@@ -15,7 +15,9 @@
     "sources": [
       {"author": "intocryptoverse", "summary": "Midterm year BTC seasonality — pump into March, drop April. Pattern repeated 2014, 2018, 2022", "stance": "neutral", "url": "https://x.com/intocryptoverse/status/2026815504678015181"},
       {"author": "outpxce", "summary": "Bear rallies can hit 40%. BTC wick low +40% = ~$85K. Warning to new shorts", "stance": "neutral", "url": "https://x.com/outpxce/status/2026696358493921546"},
-      {"author": "Citrini", "summary": "HTF thesis: BTC as monetary hedge in AI deflation scenario. Digital gold framing", "stance": "agrees"}
+      {"author": "Citrini", "summary": "HTF thesis: BTC as monetary hedge in AI deflation scenario. Digital gold framing", "stance": "agrees"},
+      {"author": "lBattleRhino", "summary": "Nailed 60K BTC long, now sees range-bound 60-72K for remainder of month. No desire for spot holdings here", "stance": "neutral", "url": "https://x.com/lBattleRhino/status/2027448007009128740"},
+      {"author": "0xbigmikey", "summary": "Won't buy spot crypto unless prices 50% lower or distribution changes significantly — deeply bearish near-term", "stance": "disagrees", "url": "https://x.com/0xbigmikey/status/2027247249940476201"}
     ]
   },
   {
@@ -145,6 +147,7 @@
     "lastUpdated": "2026-02-27",
     "sources": [
       {"author": "crux_capital_", "summary": "Making AAOI largest photonics position, bought during Q4 earnings call. $378M/month transceiver revenue target by mid-2027. In-house InP laser mfg. Made-in-USA moat. Execution risk is main concern. Other positions: COHR (highest conviction), LITE (long-term), MRVL (best R/R at $79)", "stance": "agrees", "url": "https://x.com/crux_capital_"},
+      {"author": "crux_capital_", "summary": "Post-earnings: 'AAOI call INSANE — narrative shifting from traditional hardware vendor to pure datacenter supplier. If they execute, massive re-rate. Market should price this over $100 fast.' Bought at highs during call, making it largest position. Won't settle for less than 5-bagger from ~$30 entry", "stance": "agrees", "url": "https://x.com/crux_capital_/status/2027383413066682486"},
       {"author": "aleabitoreddit", "summary": "Calls AAOI 'early SNDK' — bottleneck company getting repriced. $456M FY → $4.5B ARR by mid-2027 = 900%+ growth off $5.5B MC. Could be $25-30B MC next year. Photonics bottleneck basket: LITE, COHR, AAOI, IQE, AXTI, Yamamura. +477% YTD", "stance": "agrees", "url": "https://x.com/aleabitoreddit"},
       {"author": "Oracle", "summary": "Do NOT chase +55% day. Wait for gap fill to $60-68 watch zone or pullback to $48-55 pre-earnings base. AAOI still GAAP unprofitable, FCF negative, $250M ATM dilution risk. Execution on management promises is key risk.", "stance": "neutral"}
     ]
@@ -165,7 +168,8 @@
     "sources": [
       {"author": "0xbigmikey", "summary": "New swing short avg $2,070, SL $2,150, TP $1,400. 'Short ETH is free money'", "stance": "agrees"},
       {"author": "TheShortBear", "summary": "Adding ETH — 'biggest benefactor of AI and the disruption we saw'. Contrarian bull from a known bear", "stance": "disagrees", "url": "https://x.com/TheShortBear/status/2026677983285567775"},
-      {"author": "lBattleRhino", "summary": "ETH range $1,700-$2,150. Stiff-armed at range high. $2,150 THE level to watch", "stance": "neutral"}
+      {"author": "lBattleRhino", "summary": "ETH range $1,700-$2,150. Stiff-armed at range high. $2,150 THE level to watch", "stance": "neutral"},
+      {"author": "lBattleRhino", "summary": "Reconfirms 60-72K BTC / 1700s-2150 ETH range. No desire for spot holdings — purely trading perps", "stance": "agrees", "url": "https://x.com/lBattleRhino/status/2027199110303096958"}
     ]
   },
   {
@@ -217,7 +221,8 @@
     "lastUpdated": "2026-02-26",
     "sources": [
       {"author": "BowTiedLobster", "summary": "Equities 4 months behind crypto in bear cycle. SPX 5-month range resolves lower", "stance": "agrees"},
-      {"author": "KobeissiLetter", "summary": "Nasdaq put/call ratio at 1.2 — highest since 2022 bear low. Contrarian bullish near-term", "stance": "disagrees", "url": "https://x.com/KobeissiLetter/status/2026812203140297021"}
+      {"author": "KobeissiLetter", "summary": "Nasdaq put/call ratio at 1.2 — highest since 2022 bear low. Contrarian bullish near-term", "stance": "disagrees", "url": "https://x.com/KobeissiLetter/status/2026812203140297021"},
+      {"author": "KobeissiLetter", "summary": "Anthropic in 2 weeks: caused IBM's largest daily decline since 2000, sent cybersecurity stocks -20%, erased $100B+ market cap across industries, declined Pentagon's final offer", "stance": "agrees", "url": "https://x.com/KobeissiLetter/status/2027495306057662828"}
     ]
   },
   {
