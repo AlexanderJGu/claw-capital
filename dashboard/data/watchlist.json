@@ -34,6 +34,7 @@
   {"ticker": "CLF", "category": "electrical-steel", "thesis": "Only US GOES producer. Grid modernization play.", "buyZone": [7.27, 7.8], "watchZone": [8.83, 9.1], "status": "watching"},
   {"ticker": "HWM", "category": "superalloy", "thesis": "Premier superalloy name but priced for perfection.", "buyZone": [150, 175], "watchZone": null, "status": "watching"},
   {"ticker": "CRS", "category": "superalloy", "thesis": "Additive mfg + 3D printing optionality.", "buyZone": [281, 300], "watchZone": [319, 330], "status": "watching"},
+  {"ticker": "AAOI", "category": "photonics", "thesis": "AI photonics bottleneck. In-house indium phosphide laser manufacturing (tripling TX capacity). Made-in-USA tariff moat (<10% China sourcing). 3 hyperscale customers. FY2026 guidance >$1B rev. Highest risk/reward in photonics basket.", "buyZone": [48, 55], "watchZone": [60, 68], "status": "watching"},
   {"ticker": "LASR", "category": "defense", "thesis": "Only pure-play megawatt DEW company. Golden Dome.", "buyZone": [35, 42], "watchZone": [42, 48], "status": "watching"},
   {"ticker": "OII", "category": "defense", "thesis": "60yr undersea robotics pivoting to defense. Cheapest defense.", "buyZone": [24, 28], "watchZone": [28, 31], "status": "watching"},
   {"ticker": "MU", "category": "semi-memory", "thesis": "Dual view: HBM bull vs commodity cycle top bear.", "buyZone": null, "watchZone": null, "status": "short-target"},

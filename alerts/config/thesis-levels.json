@@ -721,6 +721,18 @@
       "note": "Current price $0.26 (2026-02-15). Niche institutional play. Buy zone = 20-25% pullback.",
       "alert_triggers": {"price_enters_buy_zone": true, "price_enters_watch_zone": true}
     },
+    "AAOI": {
+      "type": "equity",
+      "source": "twelvedata",
+      "symbol": "AAOI",
+      "category": "photonics",
+      "current_thesis": "AI photonics bottleneck. In-house InP laser manufacturing. Made-in-USA tariff moat. 3 hyperscale customers. FY2026 >$1B rev guidance. Highest risk/reward in photonics basket. Do NOT chase — wait for pullback.",
+      "buy_zone": [48, 55],
+      "watch_zone": [60, 68],
+      "key_supports": [68, 60, 55, 48],
+      "note": "Current price $83.36 (2026-02-27 after +55% earnings day). Pre-earnings base $48-55. Gap fill zone $60-68. GAAP unprofitable, $250M ATM dilution risk.",
+      "alert_triggers": {"price_enters_buy_zone": true, "price_enters_watch_zone": true}
+    },
     "LASR": {
       "type": "equity",
       "source": "twelvedata",

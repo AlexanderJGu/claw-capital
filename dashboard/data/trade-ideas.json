@@ -131,6 +131,25 @@
     ]
   },
   {
+    "id": "long-photonics-basket",
+    "ticker": "AAOI",
+    "direction": "long",
+    "thesis": "Photonics is the current AI supply chain bottleneck. Laser shortage with >1yr lead times. Hyperscaler demand exceeds manufacturing capacity. CPO transition driving 10x demand increase. Made-in-USA tariff advantage vs Chinese competitors (Innolight, Eoptolink). Basket approach: COHR (highest conviction), LITE (long-term), AAOI (highest risk/reward — $456M FY rev → $4.5B ARR target by mid-2027 = 900%+ growth), MRVL (best R/R at $79). Upstream plays: AXTI (indium phosphide), IQE (epiwafer supplier). AAOI = 'early SNDK' — bottleneck company getting repriced. In-house laser manufacturing, tripling TX capacity. 3 hyperscale customers each >10% revenue. FY2026 guidance >$1B rev + >$120M non-GAAP operating profit. Gross margins targeting 35-38% by mid-2027 → 40% by Q4 2027.",
+    "timeframe": "12-18 months",
+    "entryZone": [48, 55],
+    "target": [150, 250],
+    "stopLoss": 38,
+    "size": "Basket: COHR + LITE + AAOI + MRVL. Upstream: AXTI + IQE",
+    "status": "watching",
+    "conviction": 7,
+    "lastUpdated": "2026-02-27",
+    "sources": [
+      {"author": "crux_capital_", "summary": "Making AAOI largest photonics position, bought during Q4 earnings call. $378M/month transceiver revenue target by mid-2027. In-house InP laser mfg. Made-in-USA moat. Execution risk is main concern. Other positions: COHR (highest conviction), LITE (long-term), MRVL (best R/R at $79)", "stance": "agrees", "url": "https://x.com/crux_capital_"},
+      {"author": "aleabitoreddit", "summary": "Calls AAOI 'early SNDK' — bottleneck company getting repriced. $456M FY → $4.5B ARR by mid-2027 = 900%+ growth off $5.5B MC. Could be $25-30B MC next year. Photonics bottleneck basket: LITE, COHR, AAOI, IQE, AXTI, Yamamura. +477% YTD", "stance": "agrees", "url": "https://x.com/aleabitoreddit"},
+      {"author": "Oracle", "summary": "Do NOT chase +55% day. Wait for gap fill to $60-68 watch zone or pullback to $48-55 pre-earnings base. AAOI still GAAP unprofitable, FCF negative, $250M ATM dilution risk. Execution on management promises is key risk.", "stance": "neutral"}
+    ]
+  },
+  {
     "id": "short-eth",
     "ticker": "ETH",
     "direction": "short",
