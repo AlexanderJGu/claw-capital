@@ -33,7 +33,8 @@
     "lastUpdated": "2026-02-25",
     "sources": [
       {"author": "izebel_eth", "summary": "HYPE + LIT as top DeFi picks. Hyperliquid fundamentals strongest in space", "stance": "agrees"},
-      {"author": "Pivot922", "summary": "Still 33% swing short on HYPE. Using Lighter exchange. Bearish near-term", "stance": "disagrees"}
+      {"author": "Pivot922", "summary": "Still 33% swing short on HYPE. Using Lighter exchange. Bearish near-term", "stance": "disagrees"},
+      {"author": "insomniacxbt", "summary": "HYPE inverse H&S is a 'failed breakout in the making' — bearish near-term structure", "stance": "disagrees", "url": "https://x.com/insomniacxbt/status/2027295626262921229"}
     ]
   },
   {
@@ -125,7 +126,8 @@
     "sources": [
       {"author": "insomniacxbt", "summary": "VVV 'great accumulation range looking to break out'", "stance": "agrees", "url": "https://x.com/insomniacxbt/status/2026696358493921546"},
       {"author": "outpxce", "summary": "Compute scarcity thesis for VVV. Privacy AI demand growing", "stance": "agrees"},
-      {"author": "Oracle", "summary": "~$90K/wk buyback+burn. Year-long descending wedge broke out into bull pennant", "stance": "agrees"}
+      {"author": "Oracle", "summary": "~$90K/wk buyback+burn. Year-long descending wedge broke out into bull pennant", "stance": "agrees"},
+      {"author": "insomniacxbt", "summary": "Active VVV buyer — 'one of the stronger AI coins getting actual traction in mainstream AI circles, 1 year of accumulation'", "stance": "agrees", "url": "https://x.com/insomniacxbt/status/2027258322123194642"}
     ]
   },
   {
@@ -217,7 +219,8 @@
       {"author": "Oracle", "summary": "NVDA $68.1B rev (+73% YoY), $78B Q1 guide crushes $72.8B est. Only +4% AH — pricing perfection", "stance": "neutral"},
       {"author": "Citrini", "summary": "Perez cycle framework: every tech revolution → bubble → overbuild → crash → golden age. Baker argues physical constraints break the pattern", "stance": "agrees"},
       {"author": "jukan05", "summary": "Biggest mistake this year was holding NVDA — should have bought Korean stocks instead. Bearish on NVDA relative performance", "stance": "agrees", "url": "https://x.com/jukan05/status/2027032116614287439"},
-      {"author": "jukan05", "summary": "NVIDIA increased Samsung Foundry orders to manufacture Groq chips post-acquisition — strategic pivot but execution risk", "stance": "neutral", "url": "https://x.com/jukan05/status/2026994569708261748"}
+      {"author": "jukan05", "summary": "NVIDIA increased Samsung Foundry orders to manufacture Groq chips post-acquisition — strategic pivot but execution risk", "stance": "neutral", "url": "https://x.com/jukan05/status/2026994569708261748"},
+      {"author": "jukan05", "summary": "Meta adopting Google TPUs at multi-billion-dollar scale — questions future of NVIDIA GPU orders and MTIA custom silicon", "stance": "agrees", "url": "https://x.com/jukan05/status/2027164733326123391"}
     ]
   },
   {
@@ -273,7 +276,8 @@
       {"author": "itsdanielwu", "summary": "Full SMIC CEO translation: commodity DRAM/NAND Q3 2026 reversal. HBM stays tight for years. China NOT a separate market", "stance": "agrees", "url": "https://x.com/itsdanielwu/status/2021778631752814631"},
       {"author": "jukan05", "summary": "Micron effectively OUT of Rubin HBM4 race. Memory prices surged 80%+. Bullish SK Hynix not MU", "stance": "agrees", "url": "https://x.com/jukan05/status/2026831310766129606"},
       {"author": "MarkosAAIG", "summary": "SK Hynix + SanDisk HBF standardization under OCP. HBM scarcity managed by building layers underneath, not solved", "stance": "agrees", "url": "https://x.com/MarkosAAIG/status/2026836873595765216"},
-      {"author": "Citron Research", "summary": "SNDK short = memory super-cycle top call. Validates timing for commodity memory bears", "stance": "agrees"}
+      {"author": "Citron Research", "summary": "SNDK short = memory super-cycle top call. Validates timing for commodity memory bears", "stance": "agrees"},
+      {"author": "jukan05", "summary": "Samsung & SK Hynix proposing 2x DRAM price increases for Q2 renewals — supercycle narrative strengthening, prices surging through next year", "stance": "disagrees", "url": "https://x.com/jukan05/status/2027315694078210525"}
     ]
   },
   {
