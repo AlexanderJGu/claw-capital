@@ -127,3 +127,4 @@ The honest assessment: Lighter is the HYPE hedge. If HYPE wins the perp DEX war 
 | Date | Action | Details |
 |------|--------|---------|
 | 2026-02-25 | Thesis created | Weekly review cycle. Data: CoinGecko ($1.49, mcap ~$374M), DeFiLlama (bridge category, nascent TVL). Source: @izebel_eth (high conviction DeFi pick), universe.json notes. Bear regime — speculative watchlist only. |
+| 2026-03-01 | Weekly review | Price: $1.39 (-6.7% WoW). **NOW IN WATCH ZONE** ($1.30-$1.45). Declining toward buy zone. No A-grade source mentions this week. Conviction unchanged at 5. |
