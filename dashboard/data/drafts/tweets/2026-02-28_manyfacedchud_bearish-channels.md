@@ -2,18 +2,18 @@
 **Account:** @manyfacedchud
 **Type:** single
 **Status:** draft
-**Source:** insomniacxbt bearish channels observation, market structure
+**Source:** insomniacxbt bearish channel observation, broader market structure
 
 ---
 
-insomniac calling bearish channels across the board and then BTC dumps to $63K within hours
+most alts still in bearish channels. the ones that aren't — hype, vvv, zro — are telling you something.
 
-the guy sees it before it prints every time
+in a market where everything looks like it wants lower, the coins that refuse to break down are the ones you want exposure to when the turn comes.
 
-if you're not watching structure you're gambling. bear market rallies exist to trap optimists.
+small list > big list right now.
 
 ---
 
 **Media:** none
-**Quote tweet:** https://x.com/insomniacxbt/status/2027633647277510938
-**Notes:** QT insomniac's bearish channels call which played out same day. Gives credit where due. Reinforces the "structure first" mantra.
+**Quote tweet:** none
+**Notes:** Synthesizes insomniac's two takes (bearish channels + small watchlist). The "small list" framing is very manyfacedchud voice — distilled conviction.
