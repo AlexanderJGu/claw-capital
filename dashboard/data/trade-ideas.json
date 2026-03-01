@@ -15,7 +15,7 @@
     "sources": [
       {"author": "intocryptoverse", "summary": "Midterm year BTC seasonality — pump into March, drop April. Pattern repeated 2014, 2018, 2022", "stance": "neutral", "url": "https://x.com/intocryptoverse/status/2026815504678015181"},
       {"author": "outpxce", "summary": "Bear rallies can hit 40%. BTC wick low +40% = ~$85K. Warning to new shorts", "stance": "neutral", "url": "https://x.com/outpxce/status/2026696358493921546"},
-      {"author": "Citrini", "summary": "HTF thesis: BTC as monetary hedge in AI deflation scenario. Digital gold framing", "stance": "agrees"},
+      {"author": "intocryptoverse", "summary": "Risk assets sell off then bounce as major conflicts start. March rally likely yields lower high, just like 2022. Bear markets take a while to play out", "stance": "neutral", "url": "https://x.com/intocryptoverse/status/2027928774084292845"},
       {"author": "lBattleRhino", "summary": "Nailed 60K BTC long, now sees range-bound 60-72K for remainder of month. No desire for spot holdings here", "stance": "neutral", "url": "https://x.com/lBattleRhino/status/2027448007009128740"},
       {"author": "0xbigmikey", "summary": "Won't buy spot crypto unless prices 50% lower or distribution changes significantly — deeply bearish near-term", "stance": "disagrees", "url": "https://x.com/0xbigmikey/status/2027247249940476201"},
       {"author": "KobeissiLetter", "summary": "BTC falls below $64K as Israel launches strikes on Iran — $100M+ longs liquidated in 15 minutes", "stance": "neutral", "url": "https://x.com/KobeissiLetter/status/2027634022575120748"},
@@ -158,7 +158,8 @@
       {"author": "Oracle", "summary": "Do NOT chase +55% day. Wait for gap fill to $60-68 watch zone or pullback to $48-55 pre-earnings base. AAOI still GAAP unprofitable, FCF negative, $250M ATM dilution risk. Execution on management promises is key risk.", "stance": "neutral"},
       {"author": "benitoz", "summary": "The Great Photonic Divergence — Keysight and AAOI confirm laser shortage thesis. AAOI building earned monopoly in AI datacenter lasers", "stance": "agrees", "url": "https://x.com/benitoz/status/2027492052171358560"},
       {"author": "jukan05", "summary": "China optical fiber industry enters upcycle amid surging AI computing demand — fiber prices rising by the day", "stance": "agrees", "url": "https://x.com/jukan05/status/2027551076694818857"},
-      {"author": "crux_capital_", "summary": "AAOI excitement palpable — name finally catching up to optical supercycle. Launched $250M ATM offering and market absorbed it immediately", "stance": "agrees", "url": "https://x.com/crux_capital_/status/2027846460210061460"}
+      {"author": "crux_capital_", "summary": "AAOI excitement palpable — name finally catching up to optical supercycle. Launched $250M ATM offering and market absorbed it immediately", "stance": "agrees", "url": "https://x.com/crux_capital_/status/2027846460210061460"},
+      {"author": "benitoz", "summary": "GPT-5.4 leak: 2M token context + persistent state = KV cache explosion. Memory Wars in real time — HBM for weights, SRAM for inference, optical interconnects to bind it all", "stance": "agrees", "url": "https://x.com/benitoz/status/2028215959547494770"}
     ]
   },
   {
@@ -236,7 +237,8 @@
       {"author": "KobeissiLetter", "summary": "Anthropic in 2 weeks: caused IBM's largest daily decline since 2000, sent cybersecurity stocks -20%, erased $100B+ market cap across industries, declined Pentagon's final offer", "stance": "agrees", "url": "https://x.com/KobeissiLetter/status/2027495306057662828"},
       {"author": "TheShortBear", "summary": "Rotation trade setup: long equal-weight RSP / short cap-weighted SPY, long IWM / short QQQ, long cyclicals / short AI mega caps", "stance": "agrees", "url": "https://x.com/TheShortBear/status/2027518644645752966"},
       {"author": "intocryptoverse", "summary": "Oil spike historically ends business cycles — rising geopolitical conflict threatens to trigger this pattern again", "stance": "agrees", "url": "https://x.com/intocryptoverse/status/2027747947576693198"},
-      {"author": "Citrini7", "summary": "Macro memo flagged oil as increasingly interesting trade — geopolitical escalation catalyzing the setup they outlined in January", "stance": "agrees", "url": "https://x.com/Citrini7/status/2027884231741821412"}
+      {"author": "Citrini7", "summary": "Macro memo flagged oil as increasingly interesting trade — geopolitical escalation catalyzing the setup they outlined in January", "stance": "agrees", "url": "https://x.com/Citrini7/status/2027884231741821412"},
+      {"author": "KobeissiLetter", "summary": "Large geopolitical risk premium priced in — oil +20% in 6 weeks, gold surging. Key question is whether Monday sees risk-off continuation or 'buy the invasion' relief", "stance": "agrees", "url": "https://x.com/KobeissiLetter/status/2028158210973085943"}
     ]
   },
   {
