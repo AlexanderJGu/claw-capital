@@ -8,6 +8,7 @@ const links = [
   { href: "/", label: "Overview", icon: "◈" },
   { href: "/watchlist", label: "Watchlist", icon: "◉" },
   { href: "/trades", label: "Trade Ideas", icon: "◆" },
+  { href: "/portfolio", label: "Portfolio", icon: "◎" },
   { href: "/drafts", label: "Drafts", icon: "✎" },
 ];
 

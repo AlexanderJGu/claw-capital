@@ -18,6 +18,10 @@ export function getTradeIdeas() {
   return readJson("trade-ideas.json") || [];
 }
 
+export function getPortfolio() {
+  return readJson("portfolio.json");
+}
+
 export function getRegime() {
   return readJson("regime.json") || { regime: "unknown", signals: {}, bias: "", lastUpdated: "" };
 }

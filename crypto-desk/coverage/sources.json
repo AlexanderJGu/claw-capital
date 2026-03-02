@@ -265,14 +265,16 @@
     {
       "handle": "aleabitoreddit",
       "platform": "twitter",
-      "grade": "B",
-      "graded_date": "2026-02-19",
+      "grade": "A",
+      "graded_date": "2026-03-02",
       "sectors": [
         "korean_semi",
         "memory",
-        "vol_arb"
+        "photonics",
+        "vol_arb",
+        "supply_chain"
       ],
-      "notes": "Korean semiconductor specialist. EWY vol arb, SIMO/NAND exposure trades. Good on memory supply chain dynamics. Alex approved."
+      "notes": "Korean semi + photonics supply chain specialist. +477% YTD. Called AAOI, LITE, AXTI months early. EWY vol arb. Best supply chain mapper on CT. Upgraded to A-grade Mar 2 2026."
     },
     {
       "handle": "crypto_condom",

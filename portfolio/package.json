@@ -1,0 +1,8 @@
+{
+  "name": "claw-capital-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "plaid": "^26.0.0"
+  }
+}
