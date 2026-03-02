@@ -18,7 +18,7 @@
       {"author": "intocryptoverse", "summary": "Risk assets sell off then bounce as major conflicts start. March rally likely yields lower high, just like 2022. Bear markets take a while to play out", "stance": "neutral", "url": "https://x.com/intocryptoverse/status/2027928774084292845"},
       {"author": "lBattleRhino", "summary": "Nailed 60K BTC long, now sees range-bound 60-72K for remainder of month. No desire for spot holdings here", "stance": "neutral", "url": "https://x.com/lBattleRhino/status/2027448007009128740"},
       {"author": "0xbigmikey", "summary": "Won't buy spot crypto unless prices 50% lower or distribution changes significantly — deeply bearish near-term", "stance": "disagrees", "url": "https://x.com/0xbigmikey/status/2027247249940476201"},
-      {"author": "KobeissiLetter", "summary": "BTC falls below $64K as Israel launches strikes on Iran — $100M+ longs liquidated in 15 minutes", "stance": "neutral", "url": "https://x.com/KobeissiLetter/status/2027634022575120748"},
+      {"author": "TheShortBear", "summary": "Iran escalation creates 'liquidity boom in disguise' — European gas +50% forces ECB emergency cuts, easing bonanza incoming. Long risk/crypto, short metals", "stance": "agrees", "url": "https://x.com/TheShortBear/status/2028484094238097849"},
       {"author": "intocryptoverse", "summary": "Oil spike historically marks beginning of end of business cycle — rising geopolitical conflict threatens to cause that again", "stance": "neutral", "url": "https://x.com/intocryptoverse/status/2027747947576693198"},
       {"author": "TheShortBear", "summary": "First time crypto rises on bad news in ~5 months (Khamenei strike). Potential regime change in market behavior", "stance": "agrees", "url": "https://x.com/TheShortBear/status/2027864325512196128"}
     ]
@@ -238,7 +238,9 @@
       {"author": "TheShortBear", "summary": "Rotation trade setup: long equal-weight RSP / short cap-weighted SPY, long IWM / short QQQ, long cyclicals / short AI mega caps", "stance": "agrees", "url": "https://x.com/TheShortBear/status/2027518644645752966"},
       {"author": "intocryptoverse", "summary": "Oil spike historically ends business cycles — rising geopolitical conflict threatens to trigger this pattern again", "stance": "agrees", "url": "https://x.com/intocryptoverse/status/2027747947576693198"},
       {"author": "Citrini7", "summary": "Macro memo flagged oil as increasingly interesting trade — geopolitical escalation catalyzing the setup they outlined in January", "stance": "agrees", "url": "https://x.com/Citrini7/status/2027884231741821412"},
-      {"author": "KobeissiLetter", "summary": "Large geopolitical risk premium priced in — oil +20% in 6 weeks, gold surging. Key question is whether Monday sees risk-off continuation or 'buy the invasion' relief", "stance": "agrees", "url": "https://x.com/KobeissiLetter/status/2028158210973085943"}
+      {"author": "KobeissiLetter", "summary": "Large geopolitical risk premium priced in — oil +20% in 6 weeks, gold surging. Key question is whether Monday sees risk-off continuation or 'buy the invasion' relief", "stance": "agrees", "url": "https://x.com/KobeissiLetter/status/2028158210973085943"},
+      {"author": "TheShortBear", "summary": "Futures open: oil retraced 50%, crypto up since operation started, indices barely down 1%. War historically priced in by time it starts — expects easing cycle", "stance": "disagrees", "url": "https://x.com/TheShortBear/status/2028265429412835827"},
+      {"author": "TheShortBear", "summary": "Iran escalation = 'liquidity boom in disguise'. European gas +50% forces ECB emergency cuts → global easing wave. Long risk/crypto, short metals, short bond yields", "stance": "disagrees", "url": "https://x.com/TheShortBear/status/2028484094238097849"}
     ]
   },
   {
@@ -321,7 +323,9 @@
       {"author": "MarkosAAIG", "summary": "SK Hynix + SanDisk HBF standardization under OCP. HBM scarcity managed by building layers underneath, not solved", "stance": "agrees", "url": "https://x.com/MarkosAAIG/status/2026836873595765216"},
       {"author": "Citron Research", "summary": "SNDK short = memory super-cycle top call. Validates timing for commodity memory bears", "stance": "agrees"},
       {"author": "jukan05", "summary": "Samsung & SK Hynix proposing 2x DRAM price increases for Q2 renewals — supercycle narrative strengthening, prices surging through next year", "stance": "disagrees", "url": "https://x.com/jukan05/status/2027315694078210525"},
-      {"author": "zephyr_z9", "summary": "Memory revenue growth not just from price hikes — bit shipments and utilization also up, will be main growth driver from 2027", "stance": "disagrees", "url": "https://x.com/zephyr_z9/status/2027438035001070033"}
+      {"author": "zephyr_z9", "summary": "Memory revenue growth not just from price hikes — bit shipments and utilization also up, will be main growth driver from 2027", "stance": "disagrees", "url": "https://x.com/zephyr_z9/status/2027438035001070033"},
+      {"author": "jukan05", "summary": "Morgan Stanley report: 'cohort of investors positioning 2026 as exit for memory' — but MS argues cycle extends. Memory not peaking yet", "stance": "disagrees", "url": "https://x.com/jukan05/status/2028446029671235665"},
+      {"author": "jukan05", "summary": "NAND companies will record higher profit margins than NVIDIA this year — Samsung & SK margins forecast at 70%+", "stance": "disagrees", "url": "https://x.com/jukan05/status/2028366919523594590"}
     ]
   },
   {
@@ -340,7 +344,9 @@
     "sources": [
       {"author": "itsdanielwu", "summary": "SMIC CEO: new fab capacity floods consumer NAND. China domestic supply (YMTC) hits global prices", "stance": "agrees", "url": "https://x.com/itsdanielwu/status/2021778631752814631"},
       {"author": "MarkosAAIG", "summary": "HBF standardization gives SNDK AI-adjacent NAND use case — partially offsets commodity bear case", "stance": "disagrees", "url": "https://x.com/MarkosAAIG/status/2026836873595765216"},
-      {"author": "Citron Research", "summary": "Already positioned short SNDK. Pure NAND exposure = maximum downside to cycle top", "stance": "agrees"}
+      {"author": "Citron Research", "summary": "Already positioned short SNDK. Pure NAND exposure = maximum downside to cycle top", "stance": "agrees"},
+      {"author": "jukan05", "summary": "NAND prices hiked 500%, Phison shifts to prepayment model. Supply remains tight — cycle extending not ending", "stance": "disagrees", "url": "https://x.com/jukan05/status/2028370707735032214"},
+      {"author": "jukan05", "summary": "Samsung & SK NAND operating margins forecast at 70%+ as AI-driven memory rally extends beyond HBM across the board", "stance": "disagrees", "url": "https://x.com/jukan05/status/2028364899274084389"}
     ]
   }
 ]
