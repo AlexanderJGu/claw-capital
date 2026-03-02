@@ -20,7 +20,9 @@
       {"author": "0xbigmikey", "summary": "Won't buy spot crypto unless prices 50% lower or distribution changes significantly — deeply bearish near-term", "stance": "disagrees", "url": "https://x.com/0xbigmikey/status/2027247249940476201"},
       {"author": "TheShortBear", "summary": "Iran escalation creates 'liquidity boom in disguise' — European gas +50% forces ECB emergency cuts, easing bonanza incoming. Long risk/crypto, short metals", "stance": "agrees", "url": "https://x.com/TheShortBear/status/2028484094238097849"},
       {"author": "intocryptoverse", "summary": "Oil spike historically marks beginning of end of business cycle — rising geopolitical conflict threatens to cause that again", "stance": "neutral", "url": "https://x.com/intocryptoverse/status/2027747947576693198"},
-      {"author": "TheShortBear", "summary": "First time crypto rises on bad news in ~5 months (Khamenei strike). Potential regime change in market behavior", "stance": "agrees", "url": "https://x.com/TheShortBear/status/2027864325512196128"}
+      {"author": "TheShortBear", "summary": "First time crypto rises on bad news in ~5 months (Khamenei strike). Potential regime change in market behavior", "stance": "agrees", "url": "https://x.com/TheShortBear/status/2027864325512196128"},
+      {"author": "outpxce", "summary": "Decent probability of $1M BTC in early 2030s — structuring next few years around that assumption. Some prices only look absurd in the wrong timeframe", "stance": "agrees", "url": "https://x.com/outpxce/status/2028096030944694289"},
+      {"author": "intocryptoverse", "summary": "Early March BTC rally materializing as predicted. Historically strong 1st week of March in midterm years, but expects lower high then drop into April/May", "stance": "neutral", "url": "https://x.com/intocryptoverse/status/2028496164966768768"}
     ]
   },
   {
@@ -78,7 +80,8 @@
     "sources": [
       {"author": "KobeissiLetter", "summary": "Apollo acquiring 90M MORPHO tokens over 48 months for onchain lending. BlackRock buying UNI. Wall Street going onchain", "stance": "agrees", "url": "https://x.com/KobeissiLetter/status/2026735950764908880"},
       {"author": "insomniacxbt", "summary": "Morpho > AAVE for institutional flow. Curated vault architecture is what institutions want", "stance": "agrees"},
-      {"author": "Oracle", "summary": "TVL surged 56% to $5.72B week of Feb 19. +24% price rally Feb 25. Apollo deal = direct Wall Street validation", "stance": "agrees"}
+      {"author": "Oracle", "summary": "TVL surged 56% to $5.72B week of Feb 19. +24% price rally Feb 25. Apollo deal = direct Wall Street validation", "stance": "agrees"},
+      {"author": "insomniacxbt", "summary": "MORPHO 'nice flip on the daily' — included in short list of coins holding up well alongside HYPE, ZRO, VVV", "stance": "agrees", "url": "https://x.com/insomniacxbt/status/2028521250809872621"}
     ]
   },
   {
@@ -135,7 +138,8 @@
       {"author": "outpxce", "summary": "Compute scarcity thesis for VVV. Privacy AI demand growing", "stance": "agrees"},
       {"author": "Oracle", "summary": "~$90K/wk buyback+burn. Year-long descending wedge broke out into bull pennant", "stance": "agrees"},
       {"author": "insomniacxbt", "summary": "Active VVV buyer — 'one of the stronger AI coins getting actual traction in mainstream AI circles, 1 year of accumulation'", "stance": "agrees", "url": "https://x.com/insomniacxbt/status/2027258322123194642"},
-      {"author": "insomniacxbt", "summary": "VVV > virtuals and tao — 30K API users, real-world usage, chart breaking out of 1yr accumulation. 'One chair'", "stance": "agrees", "url": "https://x.com/insomniacxbt/status/2027835519997194546"}
+      {"author": "insomniacxbt", "summary": "VVV > virtuals and tao — 30K API users, real-world usage, chart breaking out of 1yr accumulation. 'One chair'", "stance": "agrees", "url": "https://x.com/insomniacxbt/status/2027835519997194546"},
+      {"author": "insomniacxbt", "summary": "VVV 'played out' — still thinks higher but only reducing from here. +80% move. Stance shifting from active accumulation to profit-taking", "stance": "neutral", "url": "https://x.com/insomniacxbt/status/2028521250809872621"}
     ]
   },
   {
@@ -159,7 +163,9 @@
       {"author": "benitoz", "summary": "The Great Photonic Divergence — Keysight and AAOI confirm laser shortage thesis. AAOI building earned monopoly in AI datacenter lasers", "stance": "agrees", "url": "https://x.com/benitoz/status/2027492052171358560"},
       {"author": "jukan05", "summary": "China optical fiber industry enters upcycle amid surging AI computing demand — fiber prices rising by the day", "stance": "agrees", "url": "https://x.com/jukan05/status/2027551076694818857"},
       {"author": "crux_capital_", "summary": "AAOI excitement palpable — name finally catching up to optical supercycle. Launched $250M ATM offering and market absorbed it immediately", "stance": "agrees", "url": "https://x.com/crux_capital_/status/2027846460210061460"},
-      {"author": "benitoz", "summary": "GPT-5.4 leak: 2M token context + persistent state = KV cache explosion. Memory Wars in real time — HBM for weights, SRAM for inference, optical interconnects to bind it all", "stance": "agrees", "url": "https://x.com/benitoz/status/2028215959547494770"}
+      {"author": "benitoz", "summary": "GPT-5.4 leak: 2M token context + persistent state = KV cache explosion. Memory Wars in real time — HBM for weights, SRAM for inference, optical interconnects to bind it all", "stance": "agrees", "url": "https://x.com/benitoz/status/2028215959547494770"},
+      {"author": "benitoz", "summary": "Lumentum CEO confirms NVIDIA locked up InP supply from both Lumentum AND Coherent — the two major global suppliers. Photonics supply crisis deepening", "stance": "agrees", "url": "https://x.com/benitoz/status/2028556432250118520"},
+      {"author": "crux_capital_", "summary": "Rebuts 'photonics trade is over' narrative — supply crisis ongoing, companies supply-limited not demand-limited. Structural trade not momentum trade", "stance": "agrees", "url": "https://x.com/crux_capital_/status/2028275020284440843"}
     ]
   },
   {
@@ -240,7 +246,8 @@
       {"author": "Citrini7", "summary": "Macro memo flagged oil as increasingly interesting trade — geopolitical escalation catalyzing the setup they outlined in January", "stance": "agrees", "url": "https://x.com/Citrini7/status/2027884231741821412"},
       {"author": "KobeissiLetter", "summary": "Large geopolitical risk premium priced in — oil +20% in 6 weeks, gold surging. Key question is whether Monday sees risk-off continuation or 'buy the invasion' relief", "stance": "agrees", "url": "https://x.com/KobeissiLetter/status/2028158210973085943"},
       {"author": "TheShortBear", "summary": "Futures open: oil retraced 50%, crypto up since operation started, indices barely down 1%. War historically priced in by time it starts — expects easing cycle", "stance": "disagrees", "url": "https://x.com/TheShortBear/status/2028265429412835827"},
-      {"author": "TheShortBear", "summary": "Iran escalation = 'liquidity boom in disguise'. European gas +50% forces ECB emergency cuts → global easing wave. Long risk/crypto, short metals, short bond yields", "stance": "disagrees", "url": "https://x.com/TheShortBear/status/2028484094238097849"}
+      {"author": "TheShortBear", "summary": "Iran escalation = 'liquidity boom in disguise'. European gas +50% forces ECB emergency cuts → global easing wave. Long risk/crypto, short metals, short bond yields", "stance": "disagrees", "url": "https://x.com/TheShortBear/status/2028484094238097849"},
+      {"author": "plur_daddy", "summary": "Odds of gradual Iran escalation high — market conditioned to view as one-and-done but unlikely. Iranian response will force further cycles. Geopolitical risk underpriced", "stance": "agrees", "url": "https://x.com/plur_daddy/status/2027704770908000620"}
     ]
   },
   {
@@ -264,7 +271,8 @@
       {"author": "jukan05", "summary": "NVIDIA increased Samsung Foundry orders to manufacture Groq chips post-acquisition — strategic pivot but execution risk", "stance": "neutral", "url": "https://x.com/jukan05/status/2026994569708261748"},
       {"author": "jukan05", "summary": "Meta adopting Google TPUs at multi-billion-dollar scale — questions future of NVIDIA GPU orders and MTIA custom silicon", "stance": "agrees", "url": "https://x.com/jukan05/status/2027164733326123391"},
       {"author": "jukan05", "summary": "NVDA to unveil new Groq-tech inference chip at GTC. OpenAI set to become largest customer. Additive TAM for NVDA", "stance": "disagrees", "url": "https://x.com/jukan05/status/2027585554762928350"},
-      {"author": "benitoz", "summary": "Groq acquisition is about the compiler, not SRAM. NVDA paid $20B for hardest compiler ever built. Dedicated inference = additive TAM, no CoWoS/HBM needed", "stance": "disagrees", "url": "https://x.com/benitoz/status/2027595249485541415"}
+      {"author": "benitoz", "summary": "Groq acquisition is about the compiler, not SRAM. NVDA paid $20B for hardest compiler ever built. Dedicated inference = additive TAM, no CoWoS/HBM needed", "stance": "disagrees", "url": "https://x.com/benitoz/status/2027595249485541415"},
+      {"author": "zephyr_z9", "summary": "NVDA can create a 3.5D advanced packaging chip — likely to appear in Feynman architecture. Bullish next-gen capabilities", "stance": "disagrees", "url": "https://x.com/zephyr_z9/status/2027696120756068641"}
     ]
   },
   {
@@ -325,7 +333,8 @@
       {"author": "jukan05", "summary": "Samsung & SK Hynix proposing 2x DRAM price increases for Q2 renewals — supercycle narrative strengthening, prices surging through next year", "stance": "disagrees", "url": "https://x.com/jukan05/status/2027315694078210525"},
       {"author": "zephyr_z9", "summary": "Memory revenue growth not just from price hikes — bit shipments and utilization also up, will be main growth driver from 2027", "stance": "disagrees", "url": "https://x.com/zephyr_z9/status/2027438035001070033"},
       {"author": "jukan05", "summary": "Morgan Stanley report: 'cohort of investors positioning 2026 as exit for memory' — but MS argues cycle extends. Memory not peaking yet", "stance": "disagrees", "url": "https://x.com/jukan05/status/2028446029671235665"},
-      {"author": "jukan05", "summary": "NAND companies will record higher profit margins than NVIDIA this year — Samsung & SK margins forecast at 70%+", "stance": "disagrees", "url": "https://x.com/jukan05/status/2028366919523594590"}
+      {"author": "jukan05", "summary": "NAND companies will record higher profit margins than NVIDIA this year — Samsung & SK margins forecast at 70%+", "stance": "disagrees", "url": "https://x.com/jukan05/status/2028366919523594590"},
+      {"author": "jukan05", "summary": "Memory prices rise 11 consecutive months, peak likely near — but SSDs set to keep climbing. Mixed signal for timing the commodity reversal", "stance": "disagrees", "url": "https://x.com/jukan05/status/2028332370999558595"}
     ]
   },
   {
@@ -346,7 +355,8 @@
       {"author": "MarkosAAIG", "summary": "HBF standardization gives SNDK AI-adjacent NAND use case — partially offsets commodity bear case", "stance": "disagrees", "url": "https://x.com/MarkosAAIG/status/2026836873595765216"},
       {"author": "Citron Research", "summary": "Already positioned short SNDK. Pure NAND exposure = maximum downside to cycle top", "stance": "agrees"},
       {"author": "jukan05", "summary": "NAND prices hiked 500%, Phison shifts to prepayment model. Supply remains tight — cycle extending not ending", "stance": "disagrees", "url": "https://x.com/jukan05/status/2028370707735032214"},
-      {"author": "jukan05", "summary": "Samsung & SK NAND operating margins forecast at 70%+ as AI-driven memory rally extends beyond HBM across the board", "stance": "disagrees", "url": "https://x.com/jukan05/status/2028364899274084389"}
+      {"author": "jukan05", "summary": "Samsung & SK NAND operating margins forecast at 70%+ as AI-driven memory rally extends beyond HBM across the board", "stance": "disagrees", "url": "https://x.com/jukan05/status/2028364899274084389"},
+      {"author": "jukan05", "summary": "Memory prices rise 11 consecutive months, peak likely near but SSDs keep climbing. Timing commodity reversal remains tricky", "stance": "disagrees", "url": "https://x.com/jukan05/status/2028332370999558595"}
     ]
   }
 ]
