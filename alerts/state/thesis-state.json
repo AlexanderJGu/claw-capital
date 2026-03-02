@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-03-01T14:03:13Z",
+  "last_check": "2026-03-02T01:00:00Z",
   "zones": {
     "BTC": "above",
     "HYPE": "above",
@@ -24,13 +24,13 @@
     "HXL": "above",
     "CLF": "above",
     "CRS": "above",
-    "AAVE": "above",
+    "AAVE": "watch",
     "MORPHO": "above",
     "PENDLE": "above",
     "LIT": "watch",
     "ETHFI": "above",
     "SKY": "above",
-    "SYRUP": "above",
+    "SYRUP": "watch",
     "AAOI": "above",
     "LASR": "above",
     "OII": "above",
