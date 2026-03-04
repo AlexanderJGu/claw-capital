@@ -21,9 +21,9 @@
     "sources": [
       {
         "author": "intocryptoverse",
-        "summary": "Midterm year BTC seasonality \u2014 pump into March, drop April. Pattern repeated 2014, 2018, 2022",
+        "summary": "2022 simulation repeating \u2014 BTC sells off at conflict start, finds Feb low, bounces into March. Expects lower high then drop",
         "stance": "neutral",
-        "url": "https://x.com/intocryptoverse/status/2026815504678015181"
+        "url": "https://x.com/intocryptoverse/status/2029217697213428109"
       },
       {
         "author": "outpxce",
@@ -74,10 +74,10 @@
         "url": "https://x.com/outpxce/status/2028096030944694289"
       },
       {
-        "author": "intocryptoverse",
-        "summary": "Early March BTC rally materializing as predicted. Historically strong 1st week of March in midterm years, but expects lower high then drop into April/May",
-        "stance": "neutral",
-        "url": "https://x.com/intocryptoverse/status/2028496164966768768"
+        "author": "Pivot922",
+        "summary": "BTC spot losing 5-week point of control \u2014 bearish structure breakdown signal",
+        "stance": "disagrees",
+        "url": "https://x.com/Pivot922/status/2029039485674017023"
       }
     ]
   },
@@ -140,6 +140,18 @@
         "summary": "Underside retest on HYPE stalled out \u2014 expects violent drop if BTC rolls over. Money may rotate out of HYPE into beaten-down alts",
         "stance": "disagrees",
         "url": "https://x.com/Pivot922/status/2028944325413863516"
+      },
+      {
+        "author": "Pivot922",
+        "summary": "Sold spot HYPE \u2014 doesn't like the look, prefers cash. Not news-related, pure price action concern",
+        "stance": "disagrees",
+        "url": "https://x.com/Pivot922/status/2028915887000920170"
+      },
+      {
+        "author": "Pivot922",
+        "summary": "Sees possibility of HYPE trading at $15 \u2014 significant downside target from current levels",
+        "stance": "disagrees",
+        "url": "https://x.com/Pivot922/status/2028934746399441222"
       }
     ]
   },
@@ -172,6 +184,12 @@
         "author": "Oracle",
         "summary": "$118 S/R break detected Feb 26 \u2014 sliding into watch zone at $114. Grayscale ETF filing as catalyst",
         "stance": "agrees"
+      },
+      {
+        "author": "insomniacxbt",
+        "summary": "AAVE getting weaker every day \u2014 ACI governance contributor out. MORPHO outperforming in sea of red. Relative strength shifting",
+        "stance": "disagrees",
+        "url": "https://x.com/insomniacxbt/status/2028955044482302272"
       }
     ]
   },
@@ -216,6 +234,12 @@
         "summary": "MORPHO 'nice flip on the daily' \u2014 included in short list of coins holding up well alongside HYPE, ZRO, VVV",
         "stance": "agrees",
         "url": "https://x.com/insomniacxbt/status/2028521250809872621"
+      },
+      {
+        "author": "insomniacxbt",
+        "summary": "MORPHO green on the day in sea of red while AAVE weakens \u2014 relative strength confirming institutional preference thesis",
+        "stance": "agrees",
+        "url": "https://x.com/insomniacxbt/status/2028955044482302272"
       }
     ]
   },
@@ -379,9 +403,10 @@
         "url": "https://x.com/aleabitoreddit"
       },
       {
-        "author": "Oracle",
-        "summary": "Do NOT chase +55% day. Wait for gap fill to $60-68 watch zone or pullback to $48-55 pre-earnings base. AAOI still GAAP unprofitable, FCF negative, $250M ATM dilution risk. Execution on management promises is key risk.",
-        "stance": "neutral"
+        "author": "jukan05",
+        "summary": "Morgan Stanley: NVDA Spectrum CPO switches standard for Vera Rubin NVL72 racks \u2014 23K switch shipments 2026, quadrupling to 90K by 2028. CPO demand validates photonics thesis",
+        "stance": "agrees",
+        "url": "https://x.com/jukan05/status/2029124823595794834"
       },
       {
         "author": "benitoz",
@@ -486,6 +511,18 @@
         "summary": "Plans to long ETH soon \u2014 sees bottom forming. Contrarian to short thesis",
         "stance": "disagrees",
         "url": "https://x.com/insomniacxbt/status/2028691723837169955"
+      },
+      {
+        "author": "0xbigmikey",
+        "summary": "New short ETH at 2090, SL 2150 \u2014 range high fakeout setup too good to pass up even on vacation",
+        "stance": "agrees",
+        "url": "https://x.com/0xbigmikey/status/2029211119471006010"
+      },
+      {
+        "author": "TheShortBear",
+        "summary": "Focused exclusively on ETH via Web3 rails \u2014 sees it as biggest AI benefactor. Contrarian bull stance continues",
+        "stance": "disagrees",
+        "url": "https://x.com/TheShortBear/status/2028877768037937163"
       }
     ]
   },
@@ -599,10 +636,10 @@
         "url": "https://x.com/KobeissiLetter/status/2028158210973085943"
       },
       {
-        "author": "TheShortBear",
-        "summary": "Futures open: oil retraced 50%, crypto up since operation started, indices barely down 1%. War historically priced in by time it starts \u2014 expects easing cycle",
-        "stance": "disagrees",
-        "url": "https://x.com/TheShortBear/status/2028265429412835827"
+        "author": "intocryptoverse",
+        "summary": "Oil rising in late business cycle is supply-driven, not demand \u2014 poses risk of ending the cycle. Not about oil itself but what it signals for macro",
+        "stance": "agrees",
+        "url": "https://x.com/intocryptoverse/status/2029208287808209168"
       },
       {
         "author": "TheShortBear",
@@ -661,10 +698,10 @@
         "url": "https://x.com/jukan05/status/2027032116614287439"
       },
       {
-        "author": "jukan05",
-        "summary": "NVIDIA increased Samsung Foundry orders to manufacture Groq chips post-acquisition \u2014 strategic pivot but execution risk",
-        "stance": "neutral",
-        "url": "https://x.com/jukan05/status/2026994569708261748"
+        "author": "benitoz",
+        "summary": "NVDA to unveil Groq LPU-hybrid inference chip at GTC Mar 16 \u2014 OpenAI anchor customer, model and silicon co-designed. Additive TAM bull case",
+        "stance": "disagrees",
+        "url": "https://x.com/benitoz/status/2028922664623194476"
       },
       {
         "author": "jukan05",
@@ -885,6 +922,12 @@
         "summary": "Memory prices rise 11 consecutive months, peak likely near but SSDs keep climbing. Timing commodity reversal remains tricky",
         "stance": "disagrees",
         "url": "https://x.com/jukan05/status/2028332370999558595"
+      },
+      {
+        "author": "jukan05",
+        "summary": "TrendForce: Q1 NAND prices expected to surge 90% \u2014 cycle extension contradicts near-term commodity bear case",
+        "stance": "disagrees",
+        "url": "https://x.com/jukan05/status/2028978212831936589"
       }
     ]
   }
