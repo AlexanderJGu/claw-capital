@@ -27,9 +27,9 @@
       },
       {
         "author": "outpxce",
-        "summary": "Bear rallies can hit 40%. BTC wick low +40% = ~$85K. Warning to new shorts",
-        "stance": "neutral",
-        "url": "https://x.com/outpxce/status/2026696358493921546"
+        "summary": "BTC broke range upside — easy invalidation for longs to swing to 87K, any 4h close sub 71K = cut. Funding rates negative across the board = bullish",
+        "stance": "agrees",
+        "url": "https://x.com/outpxce/status/2029229403608072502"
       },
       {
         "author": "intocryptoverse",
@@ -682,9 +682,10 @@
         "url": "https://x.com/GavinSBaker/status/2026719209158271230"
       },
       {
-        "author": "Oracle",
-        "summary": "NVDA $68.1B rev (+73% YoY), $78B Q1 guide crushes $72.8B est. Only +4% AH \u2014 pricing perfection",
-        "stance": "neutral"
+        "author": "benitoz",
+        "summary": "Jensen at MS TMT: OpenAI & Anthropic ramping NVIDIA GPUs on AWS 'like mad'. Meta Super Intelligence Labs = net new demand for 'few million GPUs'. Demand inflecting higher",
+        "stance": "disagrees",
+        "url": "https://x.com/benitoz/status/2029267919289630887"
       },
       {
         "author": "Citrini",
@@ -928,6 +929,12 @@
         "summary": "TrendForce: Q1 NAND prices expected to surge 90% \u2014 cycle extension contradicts near-term commodity bear case",
         "stance": "disagrees",
         "url": "https://x.com/jukan05/status/2028978212831936589"
+      },
+      {
+        "author": "jukan05",
+        "summary": "Samsung confirms Q1 DRAM price hike widened from 70% to 100% in one month. Memory supercycle accelerating, not peaking",
+        "stance": "disagrees",
+        "url": "https://x.com/jukan05/status/2029098861789364740"
       }
     ]
   }
