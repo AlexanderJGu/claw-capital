@@ -1,54 +1,54 @@
 {
-  "timestamp": "2026-03-03T18:00:12Z",
-  "total_value_usd": 298633.87,
+  "timestamp": "2026-03-03T23:00:12Z",
+  "total_value_usd": 301284.04,
   "chains": {
     "solana": {
-      "total_usd": 4743.47,
+      "total_usd": 4572.91,
       "holdings": [
         {
           "chain": "solana",
           "token": "USDC",
           "balance": "3506.485106",
-          "value_usd": 3507.57,
-          "price_usd": 1.0003121105509307
+          "value_usd": 3507.33,
+          "price_usd": 1.0002436545661484
         },
         {
           "chain": "solana",
           "token": "Punch",
           "balance": "90381.418694",
-          "value_usd": 1194.89,
-          "price_usd": 0.01322053899664191
+          "value_usd": 1024.05,
+          "price_usd": 0.01133039947870559
         },
         {
           "chain": "solana",
           "token": "SOL",
           "balance": "0.481452402",
-          "value_usd": 41.01,
-          "price_usd": 85.193410237795
+          "value_usd": 41.53,
+          "price_usd": 86.27083229916393
         }
       ]
     },
     "ethereum": {
-      "total_usd": 5.1,
+      "total_usd": 5.11,
       "holdings": [
         {
           "chain": "ethereum",
           "token": "ETH",
           "balance": "0.002582353305284257",
-          "value_usd": 5.1,
-          "price_usd": 1976.4105284210511
+          "value_usd": 5.11,
+          "price_usd": 1982.2293827139986
         }
       ]
     },
     "base": {
-      "total_usd": 5994.52,
+      "total_usd": 8907.84,
       "holdings": [
         {
           "chain": "base",
           "token": "USDC",
-          "balance": "5999.738691",
-          "value_usd": 5994.52,
-          "price_usd": 0.9991315488234778
+          "balance": "8902.674088",
+          "value_usd": 8907.84,
+          "price_usd": 1.000580824604302
         }
       ]
     },
@@ -57,28 +57,28 @@
       "holdings": []
     },
     "hyperliquid_spot": {
-      "total_usd": 138190.12210460947,
+      "total_usd": 138097.53110531482,
       "holdings": [
         {
           "chain": "hyperliquid-spot",
           "token": "USDC",
-          "balance": "83934.20171463",
+          "balance": "91427.25436403",
           "price_usd": 1,
-          "value_usd": 83934.20171463
+          "value_usd": 91427.25436403
         },
         {
           "chain": "hyperliquid-spot",
           "token": "UBTC",
-          "balance": "0.7297879063",
-          "price_usd": 68284.5,
-          "value_usd": 49833.20228774235
+          "balance": "0.6562579063",
+          "price_usd": 68260.5,
+          "value_usd": 44796.49281299115
         },
         {
           "chain": "hyperliquid-spot",
           "token": "HYPE",
-          "balance": "137.70859534",
-          "price_usd": 32.1165,
-          "value_usd": 4422.71810223711
+          "balance": "59.47859534",
+          "price_usd": 31.5035,
+          "value_usd": 1873.78392829369
         }
       ]
     },
@@ -93,18 +93,60 @@
   },
   "open_orders": [
     {
+      "coin": "BTC",
+      "side": "buy",
+      "price": 68040.0,
+      "size": 0.14184,
+      "value_usd": 9650.793599999999
+    },
+    {
+      "coin": "BTC",
+      "side": "sell",
+      "price": 70500.0,
+      "size": 0.14184,
+      "value_usd": 9999.72
+    },
+    {
+      "coin": "BTC",
+      "side": "buy",
+      "price": 68040.0,
+      "size": 0.14285,
+      "value_usd": 9719.514000000001
+    },
+    {
+      "coin": "BTC",
+      "side": "sell",
+      "price": 70000.0,
+      "size": 0.14285,
+      "value_usd": 9999.5
+    },
+    {
+      "coin": "BTC",
+      "side": "buy",
+      "price": 68040.0,
+      "size": 0.14084,
+      "value_usd": 9582.7536
+    },
+    {
+      "coin": "BTC",
+      "side": "sell",
+      "price": 71000.0,
+      "size": 0.14084,
+      "value_usd": 9999.64
+    },
+    {
+      "coin": "@142",
+      "side": "sell",
+      "price": 70500.0,
+      "size": 0.17602,
+      "value_usd": 12409.41
+    },
+    {
       "coin": "@142",
       "side": "sell",
       "price": 72000.0,
       "size": 0.20833,
       "value_usd": 14999.759999999998
-    },
-    {
-      "coin": "@142",
-      "side": "sell",
-      "price": 77000.0,
-      "size": 0.26267,
-      "value_usd": 20225.59
     },
     {
       "coin": "@142",
