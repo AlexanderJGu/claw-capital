@@ -152,6 +152,12 @@
         "summary": "Sees possibility of HYPE trading at $15 \u2014 significant downside target from current levels",
         "stance": "disagrees",
         "url": "https://x.com/Pivot922/status/2028934746399441222"
+      },
+      {
+        "author": "insomniacxbt",
+        "summary": "HYPE needs to hold $36 for bullish structure \u2014 at strong resistance, weaker than rest of market despite growing mindshare. Gut says lower near-term",
+        "stance": "disagrees",
+        "url": "https://x.com/insomniacxbt/status/2029360106044043529"
       }
     ]
   },
@@ -305,6 +311,12 @@
         "summary": "Defends Lighter after whale fat-finger event \u2014 handled smoothly in prod, whale organic usage validates real adoption",
         "stance": "agrees",
         "url": "https://x.com/izebel_eth/status/2027086786036744557"
+      },
+      {
+        "author": "izebel_eth",
+        "summary": "Working with Lighter team in person \u2014 'incredibly competent team that mkt misprices because it can't distinguish between not-HL perp dex teams'",
+        "stance": "agrees",
+        "url": "https://x.com/izebel_eth/status/2029466104708645162"
       }
     ]
   },
@@ -479,8 +491,9 @@
       },
       {
         "author": "lBattleRhino",
-        "summary": "ETH range $1,700-$2,150. Stiff-armed at range high. $2,150 THE level to watch",
-        "stance": "neutral"
+        "summary": "ETH deviated range high with OI ramping \u2014 fading breakouts has been the winning strat. Content to be patient, not chasing",
+        "stance": "agrees",
+        "url": "https://x.com/lBattleRhino/status/2029356978016010653"
       },
       {
         "author": "lBattleRhino",
@@ -550,6 +563,12 @@
         "author": "BowTiedLobster",
         "summary": "Macro bear thesis: BTC not inflation hedge (liquidity proxy), alts structurally worse",
         "stance": "agrees"
+      },
+      {
+        "author": "TheShortBear",
+        "summary": "Crypto consolidating to two buckets: gold alternative (BTC) or Ethereum/L2s. Special use cases become ETH L2s. Structural clarity supports BTC dominance over alts",
+        "stance": "agrees",
+        "url": "https://x.com/TheShortBear/status/2029400144823660751"
       }
     ]
   },
@@ -844,10 +863,10 @@
         "url": "https://x.com/jukan05/status/2027315694078210525"
       },
       {
-        "author": "zephyr_z9",
-        "summary": "Memory revenue growth not just from price hikes \u2014 bit shipments and utilization also up, will be main growth driver from 2027",
-        "stance": "disagrees",
-        "url": "https://x.com/zephyr_z9/status/2027438035001070033"
+        "author": "jukan05",
+        "summary": "KOSPI fell on reports of NVDA Groq inference chip using on-chip SRAM architecture \u2014 threatens HBM/DRAM demand if inference shifts away from memory-heavy designs",
+        "stance": "agrees",
+        "url": "https://x.com/jukan05/status/2029344714533814418"
       },
       {
         "author": "jukan05",
@@ -935,6 +954,12 @@
         "summary": "Samsung confirms Q1 DRAM price hike widened from 70% to 100% in one month. Memory supercycle accelerating, not peaking",
         "stance": "disagrees",
         "url": "https://x.com/jukan05/status/2029098861789364740"
+      },
+      {
+        "author": "jukan05",
+        "summary": "JPM Samsung conference: eSSD supply shortage to persist through 2027. Management expects tight DRAM/NAND supply-demand through 2027 with bit demand growth exceeding supply",
+        "stance": "disagrees",
+        "url": "https://x.com/jukan05/status/2029536912198029383"
       }
     ]
   }
