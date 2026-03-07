@@ -330,8 +330,29 @@
       ],
       "notes": "Contrarian-bull macro poster. High engagement, vibes-driven but occasionally insightful structural calls (BTC decorrelation, digital gold). Not a chartist.",
       "added": "2026-02-19"
+    },
+    {
+      "handle": "DeepDishEnjoyer",
+      "platform": "twitter",
+      "grade": "A",
+      "graded_date": "2026-03-07",
+      "sectors": [
+        "oil_energy",
+        "macro",
+        "equities",
+        "geopolitical"
+      ],
+      "notes": "Cross-asset macro trader. Trades crude oil futures at institutional size ($4M+ P&L) and SPX options. Geopolitical edge on Middle East/oil supply disruption. Contrarian equity bear. Posts specific strikes and spreads. High noise ratio but signal tweets are A-grade. Filter: 200+ likes. Added by Alex as Tier 1.",
+      "biases": {
+        "current_lean": "bearish_equities_bullish_oil",
+        "macro_view": "geopolitical_risk_underpriced",
+        "style": "macro_geopolitical_narrative",
+        "timeframe": "swing_days_to_weeks",
+        "assets": ["crude_oil_futures", "spx_options", "crypto_perps_index"]
+      },
+      "added": "2026-03-07"
     }
   ],
   "pending_review": [],
-  "last_updated": "2026-02-18"
+  "last_updated": "2026-03-07"
 }
