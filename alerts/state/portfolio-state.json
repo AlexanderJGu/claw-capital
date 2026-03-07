@@ -1,30 +1,30 @@
 {
-  "timestamp": "2026-03-07T06:00:11Z",
-  "total_value_usd": 302084.19,
+  "timestamp": "2026-03-07T18:00:12Z",
+  "total_value_usd": 302243.97,
   "chains": {
     "solana": {
-      "total_usd": 4207.45,
+      "total_usd": 4539.2,
       "holdings": [
         {
           "chain": "solana",
           "token": "USDC",
           "balance": "3506.485106",
-          "value_usd": 3512.98,
-          "price_usd": 1.0018534922238076
+          "value_usd": 3518.77,
+          "price_usd": 1.0035036798030599
         },
         {
           "chain": "solana",
           "token": "Punch",
           "balance": "90381.418694",
-          "value_usd": 653.88,
-          "price_usd": 0.007234707049879768
+          "value_usd": 980.18,
+          "price_usd": 0.01084501277224166
         },
         {
           "chain": "solana",
           "token": "SOL",
           "balance": "0.481452402",
-          "value_usd": 40.59,
-          "price_usd": 84.31161732291532
+          "value_usd": 40.25,
+          "price_usd": 83.61703269136743
         }
       ]
     },
@@ -36,19 +36,19 @@
           "token": "ETH",
           "balance": "0.002582353305284257",
           "value_usd": 5.1,
-          "price_usd": 1977.7686453927456
+          "price_usd": 1977.468916647733
         }
       ]
     },
     "base": {
-      "total_usd": 8909.92,
+      "total_usd": 8915.14,
       "holdings": [
         {
           "chain": "base",
           "token": "USDC",
           "balance": "8902.674088",
-          "value_usd": 8909.92,
-          "price_usd": 1.0008142200422139
+          "value_usd": 8915.14,
+          "price_usd": 1.0014006464699603
         }
       ]
     },
@@ -57,7 +57,7 @@
       "holdings": []
     },
     "hyperliquid_spot": {
-      "total_usd": 138231.07975753944,
+      "total_usd": 138196.2177010317,
       "holdings": [
         {
           "chain": "hyperliquid-spot",
@@ -70,84 +70,34 @@
           "chain": "hyperliquid-spot",
           "token": "UBTC",
           "balance": "0.2156479063",
-          "price_usd": 67969.5,
-          "value_usd": 14657.48036725785
+          "price_usd": 67769.5,
+          "value_usd": 14614.350785997849
         },
         {
           "chain": "hyperliquid-spot",
           "token": "HYPE",
           "balance": "59.47859534",
-          "price_usd": 30.6885,
-          "value_usd": 1825.30887309159
+          "price_usd": 30.8275,
+          "value_usd": 1833.57639784385
         }
       ]
     },
     "hyperliquid_perps": {
-      "account_value": 150730.641543,
+      "account_value": 150588.31191,
       "details": {
-        "account_value": 150730.641543,
-        "total_margin_used": 14521.85002,
-        "positions": [
-          {
-            "coin": "BTC",
-            "size": -0.25399,
-            "entry_price": 71223.2,
-            "unrealized_pnl": 826.291821,
-            "value_usd": 18089.980568
-          },
-          {
-            "coin": "ETH",
-            "size": -9.6213,
-            "entry_price": 2081.68,
-            "unrealized_pnl": 1005.32372,
-            "value_usd": 20028.467783999997
-          }
-        ]
+        "account_value": 150588.31191,
+        "total_margin_used": 0.0,
+        "positions": []
       }
     }
   },
   "open_orders": [
-    {
-      "coin": "ETH",
-      "side": "buy",
-      "price": 2268.0,
-      "size": 0.0,
-      "value_usd": 0
-    },
-    {
-      "coin": "BTC",
-      "side": "buy",
-      "price": 76680.0,
-      "size": 0.0,
-      "value_usd": 0
-    },
-    {
-      "coin": "ETH",
-      "side": "buy",
-      "price": 1296.0,
-      "size": 0.0,
-      "value_usd": 0
-    },
     {
       "coin": "BTC",
       "side": "sell",
       "price": 75600.0,
       "size": 0.26455,
       "value_usd": 19999.98
-    },
-    {
-      "coin": "BTC",
-      "side": "buy",
-      "price": 59400.0,
-      "size": 0.0,
-      "value_usd": 0
-    },
-    {
-      "coin": "BTC",
-      "side": "buy",
-      "price": 68040.0,
-      "size": 0.14285,
-      "value_usd": 9719.514000000001
     }
   ]
 }
