@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T15:00:08Z",
+  "last_updated": "2026-03-07T03:00:03Z",
   "assets": {
     "BTC": {
       "levels": [
@@ -125,10 +125,16 @@
           "timeframe": "4h"
         },
         {
-          "price": 67400,
+          "price": 67572.39,
+          "type": "support",
+          "strength": 2,
+          "timeframe": "4h"
+        },
+        {
+          "price": 67744.78,
           "type": "support",
           "strength": 1,
-          "timeframe": "4h"
+          "timeframe": "daily"
         },
         {
           "price": 67751.44,
@@ -393,9 +399,9 @@
           "timeframe": "daily"
         },
         {
-          "price": 26.85,
+          "price": 26.75,
           "type": "support",
-          "strength": 1,
+          "strength": 2,
           "timeframe": "daily"
         },
         {
@@ -405,9 +411,9 @@
           "timeframe": "daily"
         },
         {
-          "price": 27.46,
+          "price": 27.29,
           "type": "support",
-          "strength": 2,
+          "strength": 1,
           "timeframe": "daily"
         },
         {
@@ -424,6 +430,12 @@
         },
         {
           "price": 28.86,
+          "type": "support",
+          "strength": 1,
+          "timeframe": "daily"
+        },
+        {
+          "price": 29.43,
           "type": "support",
           "strength": 1,
           "timeframe": "daily"
@@ -453,9 +465,9 @@
           "timeframe": "daily"
         },
         {
-          "price": 32.48,
+          "price": 32.61,
           "type": "resistance",
-          "strength": 3,
+          "strength": 2,
           "timeframe": "daily"
         },
         {
@@ -473,7 +485,7 @@
       ],
       "range": {
         "low": 23.72,
-        "high": 32.48,
+        "high": 25.53,
         "note": "auto-detected"
       }
     },
@@ -524,16 +536,16 @@
           "timeframe": "4h"
         },
         {
-          "price": 107.9,
+          "price": 108.42,
           "type": "support",
-          "strength": 1,
-          "timeframe": "daily"
+          "strength": 6,
+          "timeframe": "4h"
         },
         {
-          "price": 108.24,
+          "price": 108.6,
           "type": "support",
-          "strength": 5,
-          "timeframe": "4h"
+          "strength": 2,
+          "timeframe": "daily"
         },
         {
           "price": 109.73,
@@ -566,9 +578,21 @@
           "timeframe": "daily"
         },
         {
-          "price": 111.63,
+          "price": 111.51,
           "type": "support",
-          "strength": 6,
+          "strength": 5,
+          "timeframe": "4h"
+        },
+        {
+          "price": 112.1,
+          "type": "resistance",
+          "strength": 1,
+          "timeframe": "4h"
+        },
+        {
+          "price": 112.22,
+          "type": "support",
+          "strength": 1,
           "timeframe": "4h"
         },
         {
@@ -716,9 +740,9 @@
           "timeframe": "4h"
         },
         {
-          "price": 125.7,
+          "price": 125.79,
           "type": "resistance",
-          "strength": 3,
+          "strength": 2,
           "timeframe": "4h"
         },
         {
@@ -855,7 +879,7 @@
         }
       ],
       "range": {
-        "low": 111.63,
+        "low": 108.42,
         "high": 119.36,
         "note": "auto-detected"
       }
@@ -967,7 +991,7 @@
         {
           "price": 1.19,
           "type": "support",
-          "strength": 2,
+          "strength": 1,
           "timeframe": "daily"
         },
         {
@@ -1169,6 +1193,18 @@
           "timeframe": "4h"
         },
         {
+          "price": 1.77,
+          "type": "support",
+          "strength": 1,
+          "timeframe": "daily"
+        },
+        {
+          "price": 1.77,
+          "type": "support",
+          "strength": 1,
+          "timeframe": "4h"
+        },
+        {
           "price": 1.8,
           "type": "resistance",
           "strength": 1,
@@ -1181,9 +1217,9 @@
           "timeframe": "4h"
         },
         {
-          "price": 1.82,
+          "price": 1.81,
           "type": "resistance",
-          "strength": 1,
+          "strength": 2,
           "timeframe": "4h"
         },
         {
@@ -1348,7 +1384,13 @@
         {
           "price": 1.2,
           "type": "support",
-          "strength": 3,
+          "strength": 1,
+          "timeframe": "daily"
+        },
+        {
+          "price": 1.2,
+          "type": "support",
+          "strength": 4,
           "timeframe": "4h"
         },
         {
@@ -1538,12 +1580,6 @@
           "timeframe": "daily"
         },
         {
-          "price": 1.51,
-          "type": "resistance",
-          "strength": 1,
-          "timeframe": "4h"
-        },
-        {
           "price": 1.66,
           "type": "support",
           "strength": 1,
@@ -1623,12 +1659,6 @@
         },
         {
           "price": 2.39,
-          "type": "resistance",
-          "strength": 1,
-          "timeframe": "daily"
-        },
-        {
-          "price": 2.48,
           "type": "resistance",
           "strength": 1,
           "timeframe": "daily"
@@ -1880,8 +1910,14 @@
         },
         {
           "price": 0.52,
-          "type": "resistance",
-          "strength": 4,
+          "type": "support",
+          "strength": 1,
+          "timeframe": "daily"
+        },
+        {
+          "price": 0.52,
+          "type": "support",
+          "strength": 1,
           "timeframe": "4h"
         },
         {
@@ -1893,7 +1929,7 @@
         {
           "price": 0.53,
           "type": "resistance",
-          "strength": 1,
+          "strength": 4,
           "timeframe": "4h"
         },
         {
@@ -2427,7 +2463,7 @@
         {
           "price": 0.22,
           "type": "support",
-          "strength": 1,
+          "strength": 2,
           "timeframe": "daily"
         },
         {
@@ -2445,7 +2481,7 @@
         {
           "price": 0.22,
           "type": "support",
-          "strength": 2,
+          "strength": 3,
           "timeframe": "4h"
         },
         {
@@ -2553,7 +2589,7 @@
         {
           "price": 0.26,
           "type": "support",
-          "strength": 2,
+          "strength": 1,
           "timeframe": "daily"
         },
         {
@@ -2645,12 +2681,6 @@
           "type": "support",
           "strength": 2,
           "timeframe": "daily"
-        },
-        {
-          "price": 0.3,
-          "type": "resistance",
-          "strength": 1,
-          "timeframe": "4h"
         },
         {
           "price": 0.3,
@@ -2944,16 +2974,16 @@
           "timeframe": "4h"
         },
         {
-          "price": 2.87,
-          "type": "resistance",
-          "strength": 5,
-          "timeframe": "4h"
-        },
-        {
           "price": 2.88,
           "type": "resistance",
           "strength": 2,
           "timeframe": "daily"
+        },
+        {
+          "price": 2.88,
+          "type": "resistance",
+          "strength": 4,
+          "timeframe": "4h"
         },
         {
           "price": 3.01,
@@ -3210,7 +3240,7 @@
       ],
       "range": {
         "low": 2.51,
-        "high": 2.87,
+        "high": 3.98,
         "note": "auto-detected"
       }
     },
@@ -3271,9 +3301,9 @@
           "timeframe": "4h"
         },
         {
-          "price": 376.84,
+          "price": 376.87,
           "type": "support",
-          "strength": 2,
+          "strength": 1,
           "timeframe": "4h"
         },
         {
@@ -3634,12 +3664,6 @@
     "GOOGL": {
       "levels": [
         {
-          "price": 261.68,
-          "type": "resistance",
-          "strength": 1,
-          "timeframe": "4h"
-        },
-        {
           "price": 266.5,
           "type": "support",
           "strength": 1,
@@ -3724,21 +3748,21 @@
           "timeframe": "daily"
         },
         {
+          "price": 296.06,
+          "type": "support",
+          "strength": 4,
+          "timeframe": "4h"
+        },
+        {
           "price": 297.28,
           "type": "support",
           "strength": 4,
           "timeframe": "daily"
         },
         {
-          "price": 297.28,
+          "price": 301.45,
           "type": "support",
-          "strength": 4,
-          "timeframe": "4h"
-        },
-        {
-          "price": 301.8,
-          "type": "support",
-          "strength": 4,
+          "strength": 5,
           "timeframe": "4h"
         },
         {
