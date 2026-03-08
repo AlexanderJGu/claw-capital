@@ -353,6 +353,26 @@
       "added": "2026-03-07"
     }
   ],
+    {
+      "handle": "swarmister",
+      "platform": "twitter",
+      "grade": "B",
+      "graded_date": "2026-03-08",
+      "sectors": [
+        "btc_ecosystem",
+        "crypto"
+      ],
+      "notes": "ICT/SMC swing trader. FVG/IFVG + fractal pattern matching framework. Currently deeply bearish BTC (target $59K), ETH ($800). Trades on HL/Binance/Bybit. High tweet volume (filter: '$BTC plan' or 20+ likes). Discretionary execution. Russian-speaking. R-multiple risk management. Added by Alex as Tier 2.",
+      "biases": {
+        "current_lean": "bearish_btc_bearish_eth",
+        "macro_view": "crypto_bear_market",
+        "style": "ict_smc_fractal_matching",
+        "timeframe": "swing_days_to_weeks",
+        "assets": ["btc_perps", "altcoin_perps_opportunistic"]
+      },
+      "added": "2026-03-08"
+    }
+  ],
   "pending_review": [],
-  "last_updated": "2026-03-07"
+  "last_updated": "2026-03-08"
 }
