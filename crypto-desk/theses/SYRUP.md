@@ -127,3 +127,4 @@ The honest assessment: This is the riskiest name on the watchlist. Under-collate
 | Date | Action | Details |
 |------|--------|---------|
 | 2026-02-25 | Thesis created | Weekly review cycle. Data: DeFiLlama (Maple protocol, Ethereum+Solana, Chainlink oracle), CoinGecko (gecko_id null — data unreliable). Lowest conviction in universe. Bear regime — smallest speculative position only. |
+| 2026-03-08 | Weekly review | Price: $0.185 (flat WoW). AT BUY ZONE FLOOR ($0.18). CoinGecko "maple" returns data but mcap shows $323K — clearly wrong. Data reliability remains LOW (SYRUP-P3 still open). No A-grade source mentions. Conviction unchanged at 4. |
