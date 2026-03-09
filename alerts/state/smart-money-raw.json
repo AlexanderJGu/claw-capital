@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-03-09T14:02:11Z",
+  "scan_time": "2026-03-09T15:00:04Z",
   "tweets": [
     {
       "author": "insomniacxbt",
@@ -7,10 +7,10 @@
       "url": "https://x.com/insomniacxbt/status/2030899956647858460",
       "created_at": "2026-03-09T06:54:16.000Z",
       "metrics": {
-        "likes": 93,
-        "retweets": 3,
+        "likes": 101,
+        "retweets": 4,
         "replies": 5,
-        "impressions": 4016
+        "impressions": 5886
       }
     },
     {
@@ -19,10 +19,10 @@
       "url": "https://x.com/insomniacxbt/status/2030898083677278709",
       "created_at": "2026-03-09T06:46:50.000Z",
       "metrics": {
-        "likes": 77,
+        "likes": 80,
         "retweets": 2,
         "replies": 3,
-        "impressions": 6401
+        "impressions": 6865
       }
     },
     {
@@ -34,7 +34,19 @@
         "likes": 62,
         "retweets": 2,
         "replies": 1,
-        "impressions": 3715
+        "impressions": 3764
+      }
+    },
+    {
+      "author": "insomniacxbt",
+      "text": "good timing\n\nthe 3 looking great out of all the coins https://t.co/It1la9FCUd",
+      "url": "https://x.com/insomniacxbt/status/2031019620132684202",
+      "created_at": "2026-03-09T14:49:46.000Z",
+      "metrics": {
+        "likes": 7,
+        "retweets": 0,
+        "replies": 0,
+        "impressions": 1112
       }
     },
     {
@@ -46,7 +58,7 @@
         "likes": 2,
         "retweets": 0,
         "replies": 0,
-        "impressions": 268
+        "impressions": 373
       }
     },
     {
@@ -55,10 +67,10 @@
       "url": "https://x.com/based16z/status/2030742964570349738",
       "created_at": "2026-03-08T20:30:26.000Z",
       "metrics": {
-        "likes": 6453,
+        "likes": 6463,
         "retweets": 135,
         "replies": 131,
-        "impressions": 584026
+        "impressions": 586345
       }
     },
     {
@@ -67,10 +79,10 @@
       "url": "https://x.com/based16z/status/2030816699809697954",
       "created_at": "2026-03-09T01:23:26.000Z",
       "metrics": {
-        "likes": 2672,
-        "retweets": 147,
+        "likes": 2708,
+        "retweets": 149,
         "replies": 89,
-        "impressions": 143748
+        "impressions": 146687
       }
     },
     {
@@ -79,10 +91,22 @@
       "url": "https://x.com/based16z/status/2030872025359642986",
       "created_at": "2026-03-09T05:03:17.000Z",
       "metrics": {
-        "likes": 380,
+        "likes": 387,
         "retweets": 6,
         "replies": 31,
-        "impressions": 28664
+        "impressions": 30164
+      }
+    },
+    {
+      "author": "based16z",
+      "text": "Buddy we’re all prepping for the singularity https://t.co/GnOKxPrOs3 https://t.co/j0TaPqBGad",
+      "url": "https://x.com/based16z/status/2030917412061696264",
+      "created_at": "2026-03-09T08:03:38.000Z",
+      "metrics": {
+        "likes": 220,
+        "retweets": 9,
+        "replies": 8,
+        "impressions": 17683
       }
     },
     {
@@ -94,7 +118,7 @@
         "likes": 211,
         "retweets": 5,
         "replies": 11,
-        "impressions": 28705
+        "impressions": 28882
       }
     },
     {
@@ -106,19 +130,7 @@
         "likes": 208,
         "retweets": 1,
         "replies": 21,
-        "impressions": 63252
-      }
-    },
-    {
-      "author": "based16z",
-      "text": "Buddy we’re all prepping for the singularity https://t.co/GnOKxPrOs3 https://t.co/j0TaPqBGad",
-      "url": "https://x.com/based16z/status/2030917412061696264",
-      "created_at": "2026-03-09T08:03:38.000Z",
-      "metrics": {
-        "likes": 195,
-        "retweets": 8,
-        "replies": 8,
-        "impressions": 14930
+        "impressions": 63750
       }
     },
     {
@@ -127,10 +139,10 @@
       "url": "https://x.com/based16z/status/2030859969013092531",
       "created_at": "2026-03-09T04:15:22.000Z",
       "metrics": {
-        "likes": 142,
+        "likes": 143,
         "retweets": 3,
         "replies": 14,
-        "impressions": 17299
+        "impressions": 17858
       }
     },
     {
@@ -139,10 +151,22 @@
       "url": "https://x.com/based16z/status/2030773318215696432",
       "created_at": "2026-03-08T22:31:03.000Z",
       "metrics": {
-        "likes": 133,
+        "likes": 134,
         "retweets": 0,
         "replies": 16,
-        "impressions": 5079
+        "impressions": 5110
+      }
+    },
+    {
+      "author": "based16z",
+      "text": "STRC - Luna is back but maybe we’re early to it? https://t.co/jp79Nexdrt",
+      "url": "https://x.com/based16z/status/2031013675251777878",
+      "created_at": "2026-03-09T14:26:09.000Z",
+      "metrics": {
+        "likes": 98,
+        "retweets": 5,
+        "replies": 14,
+        "impressions": 8849
       }
     },
     {
@@ -154,19 +178,7 @@
         "likes": 80,
         "retweets": 1,
         "replies": 6,
-        "impressions": 6175
-      }
-    },
-    {
-      "author": "based16z",
-      "text": "AI people: welcome to public vitriol, bankruptcies, jail time \n\nCrypto homies: the spotlight finally moved https://t.co/JtaCjglOXY",
-      "url": "https://x.com/based16z/status/2030861538672738544",
-      "created_at": "2026-03-09T04:21:37.000Z",
-      "metrics": {
-        "likes": 79,
-        "retweets": 1,
-        "replies": 9,
-        "impressions": 8747
+        "impressions": 6229
       }
     },
     {
@@ -178,7 +190,7 @@
         "likes": 51,
         "retweets": 1,
         "replies": 4,
-        "impressions": 2534
+        "impressions": 2579
       }
     },
     {
@@ -187,10 +199,10 @@
       "url": "https://x.com/Pivot922/status/2030808463475900670",
       "created_at": "2026-03-09T00:50:42.000Z",
       "metrics": {
-        "likes": 32,
+        "likes": 33,
         "retweets": 0,
         "replies": 6,
-        "impressions": 3040
+        "impressions": 3104
       }
     },
     {
@@ -199,10 +211,10 @@
       "url": "https://x.com/Pivot922/status/2030841616005492958",
       "created_at": "2026-03-09T03:02:27.000Z",
       "metrics": {
-        "likes": 31,
+        "likes": 32,
         "retweets": 0,
         "replies": 3,
-        "impressions": 2603
+        "impressions": 2679
       }
     },
     {
@@ -214,7 +226,7 @@
         "likes": 30,
         "retweets": 1,
         "replies": 3,
-        "impressions": 2265
+        "impressions": 2276
       }
     },
     {
@@ -226,7 +238,7 @@
         "likes": 21,
         "retweets": 0,
         "replies": 10,
-        "impressions": 1278
+        "impressions": 1285
       }
     },
     {
@@ -238,7 +250,7 @@
         "likes": 20,
         "retweets": 0,
         "replies": 1,
-        "impressions": 1792
+        "impressions": 1804
       }
     },
     {
@@ -247,10 +259,10 @@
       "url": "https://x.com/Pivot922/status/2030907380955861184",
       "created_at": "2026-03-09T07:23:46.000Z",
       "metrics": {
-        "likes": 17,
+        "likes": 18,
         "retweets": 0,
         "replies": 1,
-        "impressions": 607
+        "impressions": 660
       }
     },
     {
@@ -262,7 +274,7 @@
         "likes": 16,
         "retweets": 0,
         "replies": 1,
-        "impressions": 1788
+        "impressions": 1800
       }
     },
     {
@@ -274,7 +286,7 @@
         "likes": 16,
         "retweets": 0,
         "replies": 2,
-        "impressions": 823
+        "impressions": 827
       }
     },
     {
@@ -286,7 +298,7 @@
         "likes": 15,
         "retweets": 0,
         "replies": 0,
-        "impressions": 655
+        "impressions": 675
       }
     },
     {
@@ -295,10 +307,10 @@
       "url": "https://x.com/lBattleRhino/status/2030804783188373814",
       "created_at": "2026-03-09T00:36:05.000Z",
       "metrics": {
-        "likes": 520,
+        "likes": 525,
         "retweets": 13,
-        "replies": 15,
-        "impressions": 24668
+        "replies": 16,
+        "impressions": 25453
       }
     },
     {
@@ -307,10 +319,10 @@
       "url": "https://x.com/lBattleRhino/status/2030768618527768943",
       "created_at": "2026-03-08T22:12:23.000Z",
       "metrics": {
-        "likes": 481,
+        "likes": 483,
         "retweets": 8,
         "replies": 25,
-        "impressions": 54124
+        "impressions": 54630
       }
     },
     {
@@ -319,10 +331,10 @@
       "url": "https://x.com/lBattleRhino/status/2030727126782230585",
       "created_at": "2026-03-08T19:27:30.000Z",
       "metrics": {
-        "likes": 327,
+        "likes": 329,
         "retweets": 9,
         "replies": 10,
-        "impressions": 24746
+        "impressions": 24932
       }
     },
     {
@@ -334,7 +346,7 @@
         "likes": 259,
         "retweets": 11,
         "replies": 14,
-        "impressions": 20723
+        "impressions": 20817
       }
     },
     {
@@ -343,10 +355,10 @@
       "url": "https://x.com/lBattleRhino/status/2030802932661375066",
       "created_at": "2026-03-09T00:28:44.000Z",
       "metrics": {
-        "likes": 227,
+        "likes": 228,
         "retweets": 6,
         "replies": 10,
-        "impressions": 12141
+        "impressions": 12392
       }
     },
     {
@@ -358,7 +370,7 @@
         "likes": 191,
         "retweets": 1,
         "replies": 9,
-        "impressions": 9628
+        "impressions": 9702
       }
     },
     {
@@ -370,7 +382,7 @@
         "likes": 165,
         "retweets": 2,
         "replies": 5,
-        "impressions": 11261
+        "impressions": 11381
       }
     },
     {
@@ -379,10 +391,10 @@
       "url": "https://x.com/lBattleRhino/status/2030727408740147516",
       "created_at": "2026-03-08T19:28:37.000Z",
       "metrics": {
-        "likes": 151,
+        "likes": 152,
         "retweets": 2,
         "replies": 7,
-        "impressions": 7745
+        "impressions": 7793
       }
     },
     {
@@ -394,7 +406,7 @@
         "likes": 101,
         "retweets": 0,
         "replies": 5,
-        "impressions": 4837
+        "impressions": 4867
       }
     },
     {
@@ -403,10 +415,10 @@
       "url": "https://x.com/lBattleRhino/status/2030807420914778236",
       "created_at": "2026-03-09T00:46:34.000Z",
       "metrics": {
-        "likes": 76,
+        "likes": 79,
         "retweets": 0,
         "replies": 3,
-        "impressions": 4463
+        "impressions": 4547
       }
     },
     {
@@ -415,10 +427,10 @@
       "url": "https://x.com/zephyr_z9/status/2030773171817972168",
       "created_at": "2026-03-08T22:30:28.000Z",
       "metrics": {
-        "likes": 318,
-        "retweets": 7,
+        "likes": 319,
+        "retweets": 8,
         "replies": 16,
-        "impressions": 39608
+        "impressions": 39869
       }
     },
     {
@@ -427,10 +439,10 @@
       "url": "https://x.com/zephyr_z9/status/2030686211447431517",
       "created_at": "2026-03-08T16:44:55.000Z",
       "metrics": {
-        "likes": 196,
+        "likes": 199,
         "retweets": 8,
         "replies": 13,
-        "impressions": 23761
+        "impressions": 24065
       }
     },
     {
@@ -442,7 +454,7 @@
         "likes": 91,
         "retweets": 3,
         "replies": 3,
-        "impressions": 18029
+        "impressions": 18350
       }
     },
     {
@@ -451,10 +463,10 @@
       "url": "https://x.com/zephyr_z9/status/2031002242128781685",
       "created_at": "2026-03-09T13:40:43.000Z",
       "metrics": {
-        "likes": 27,
-        "retweets": 1,
-        "replies": 3,
-        "impressions": 5576
+        "likes": 61,
+        "retweets": 3,
+        "replies": 4,
+        "impressions": 14247
       }
     },
     {
@@ -466,19 +478,7 @@
         "likes": 27,
         "retweets": 0,
         "replies": 0,
-        "impressions": 2692
-      }
-    },
-    {
-      "author": "zephyr_z9",
-      "text": "@illyquid @Luigi1549898 @Minnvestor Advanced semis consume around 7M-8M cubic meters per year\nSmall helium players will benefit (or those that don't have offtake agreements from Qatar)\nProblems will emerge for lagging edge",
-      "url": "https://x.com/zephyr_z9/status/2030650326689448002",
-      "created_at": "2026-03-08T14:22:20.000Z",
-      "metrics": {
-        "likes": 6,
-        "retweets": 0,
-        "replies": 1,
-        "impressions": 702
+        "impressions": 2787
       }
     },
     {
@@ -490,7 +490,7 @@
         "likes": 4,
         "retweets": 1,
         "replies": 0,
-        "impressions": 564
+        "impressions": 568
       }
     },
     {
@@ -502,7 +502,7 @@
         "likes": 2,
         "retweets": 0,
         "replies": 0,
-        "impressions": 419
+        "impressions": 423
       }
     },
     {
@@ -514,7 +514,19 @@
         "likes": 692,
         "retweets": 9,
         "replies": 28,
-        "impressions": 34599
+        "impressions": 34794
+      }
+    },
+    {
+      "author": "kevinxu",
+      "text": "wife just came down and asked me why i didn't sleep\n\n\"monitoring the situation\"\n\n\"dude you're just on twitter\"",
+      "url": "https://x.com/kevinxu/status/2030985960780108119",
+      "created_at": "2026-03-09T12:36:01.000Z",
+      "metrics": {
+        "likes": 258,
+        "retweets": 12,
+        "replies": 16,
+        "impressions": 9816
       }
     },
     {
@@ -523,10 +535,10 @@
       "url": "https://x.com/kevinxu/status/2030818961248719342",
       "created_at": "2026-03-09T01:32:25.000Z",
       "metrics": {
-        "likes": 244,
+        "likes": 245,
         "retweets": 5,
-        "replies": 37,
-        "impressions": 20061
+        "replies": 38,
+        "impressions": 20732
       }
     },
     {
@@ -538,7 +550,7 @@
         "likes": 211,
         "retweets": 6,
         "replies": 14,
-        "impressions": 18679
+        "impressions": 18807
       }
     },
     {
@@ -547,10 +559,10 @@
       "url": "https://x.com/kevinxu/status/2030845089178960157",
       "created_at": "2026-03-09T03:16:15.000Z",
       "metrics": {
-        "likes": 141,
+        "likes": 144,
         "retweets": 3,
         "replies": 12,
-        "impressions": 41432
+        "impressions": 43172
       }
     },
     {
@@ -562,19 +574,7 @@
         "likes": 112,
         "retweets": 2,
         "replies": 33,
-        "impressions": 26030
-      }
-    },
-    {
-      "author": "kevinxu",
-      "text": "wife just came down and asked me why i didn't sleep\n\n\"monitoring the situation\"\n\n\"dude you're just on twitter\"",
-      "url": "https://x.com/kevinxu/status/2030985960780108119",
-      "created_at": "2026-03-09T12:36:01.000Z",
-      "metrics": {
-        "likes": 101,
-        "retweets": 5,
-        "replies": 7,
-        "impressions": 4955
+        "impressions": 26198
       }
     },
     {
@@ -583,10 +583,22 @@
       "url": "https://x.com/kevinxu/status/2030824150043066837",
       "created_at": "2026-03-09T01:53:02.000Z",
       "metrics": {
-        "likes": 80,
+        "likes": 81,
         "retweets": 0,
         "replies": 9,
-        "impressions": 9328
+        "impressions": 9498
+      }
+    },
+    {
+      "author": "kevinxu",
+      "text": "the only thing green today is $IREN https://t.co/kjhGWFHoxO",
+      "url": "https://x.com/kevinxu/status/2031016624371954072",
+      "created_at": "2026-03-09T14:37:52.000Z",
+      "metrics": {
+        "likes": 43,
+        "retweets": 1,
+        "replies": 6,
+        "impressions": 3143
       }
     },
     {
@@ -598,7 +610,7 @@
         "likes": 22,
         "retweets": 0,
         "replies": 2,
-        "impressions": 10705
+        "impressions": 11128
       }
     },
     {
@@ -610,19 +622,7 @@
         "likes": 0,
         "retweets": 0,
         "replies": 0,
-        "impressions": 1234
-      }
-    },
-    {
-      "author": "0xbigmikey",
-      "text": "all the complacency around this whole middle east fiasco is insane to me",
-      "url": "https://x.com/0xbigmikey/status/2030652776259158512",
-      "created_at": "2026-03-08T14:32:04.000Z",
-      "metrics": {
-        "likes": 37,
-        "retweets": 1,
-        "replies": 7,
-        "impressions": 1646
+        "impressions": 1261
       }
     },
     {
@@ -633,8 +633,8 @@
       "metrics": {
         "likes": 33,
         "retweets": 0,
-        "replies": 2,
-        "impressions": 1018
+        "replies": 3,
+        "impressions": 1063
       }
     },
     {
@@ -643,10 +643,10 @@
       "url": "https://x.com/0xbigmikey/status/2030896052216148232",
       "created_at": "2026-03-09T06:38:45.000Z",
       "metrics": {
-        "likes": 23,
+        "likes": 24,
         "retweets": 0,
         "replies": 2,
-        "impressions": 416
+        "impressions": 429
       }
     },
     {
@@ -658,7 +658,7 @@
         "likes": 9,
         "retweets": 0,
         "replies": 0,
-        "impressions": 314
+        "impressions": 378
       }
     },
     {
@@ -667,10 +667,10 @@
       "url": "https://x.com/0xbigmikey/status/2030716623548485760",
       "created_at": "2026-03-08T18:45:46.000Z",
       "metrics": {
-        "likes": 5,
+        "likes": 6,
         "retweets": 0,
         "replies": 0,
-        "impressions": 162
+        "impressions": 163
       }
     },
     {
@@ -694,7 +694,7 @@
         "likes": 4,
         "retweets": 0,
         "replies": 0,
-        "impressions": 154
+        "impressions": 159
       }
     },
     {
@@ -706,7 +706,7 @@
         "likes": 4,
         "retweets": 0,
         "replies": 1,
-        "impressions": 373
+        "impressions": 438
       }
     },
     {
@@ -734,15 +734,27 @@
       }
     },
     {
+      "author": "0xbigmikey",
+      "text": "@BeaverTime69 I'd put perma top at 20% probability and if we keep these retards in, then I don't see why one would own crypto &gt; stocks",
+      "url": "https://x.com/0xbigmikey/status/2030900461369180598",
+      "created_at": "2026-03-09T06:56:16.000Z",
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 1,
+        "impressions": 51
+      }
+    },
+    {
       "author": "intocryptoverse",
       "text": "Oil is up 60% since this post. \n\nRemember when oil rises in a late business cycle environment, it marks the beginning of the end of the business cycle. https://t.co/2GVW4Ir7ic https://t.co/2iaUGY1Hzg",
       "url": "https://x.com/intocryptoverse/status/2030780733116109275",
       "created_at": "2026-03-08T23:00:31.000Z",
       "metrics": {
-        "likes": 2015,
-        "retweets": 164,
+        "likes": 2038,
+        "retweets": 174,
         "replies": 148,
-        "impressions": 247579
+        "impressions": 251525
       }
     },
     {
@@ -751,10 +763,10 @@
       "url": "https://x.com/intocryptoverse/status/2030776827308876078",
       "created_at": "2026-03-08T22:45:00.000Z",
       "metrics": {
-        "likes": 1805,
+        "likes": 1817,
         "retweets": 85,
         "replies": 92,
-        "impressions": 74398
+        "impressions": 75258
       }
     },
     {
@@ -763,10 +775,10 @@
       "url": "https://x.com/intocryptoverse/status/2030776048271479210",
       "created_at": "2026-03-08T22:41:54.000Z",
       "metrics": {
-        "likes": 1060,
+        "likes": 1070,
         "retweets": 25,
         "replies": 71,
-        "impressions": 64463
+        "impressions": 65223
       }
     },
     {
@@ -775,10 +787,10 @@
       "url": "https://x.com/intocryptoverse/status/2030803251315241324",
       "created_at": "2026-03-09T00:30:00.000Z",
       "metrics": {
-        "likes": 809,
+        "likes": 836,
         "retweets": 12,
-        "replies": 58,
-        "impressions": 62717
+        "replies": 61,
+        "impressions": 64905
       }
     },
     {
@@ -787,10 +799,34 @@
       "url": "https://x.com/intocryptoverse/status/2030787769056801145",
       "created_at": "2026-03-08T23:28:29.000Z",
       "metrics": {
-        "likes": 516,
-        "retweets": 13,
+        "likes": 528,
+        "retweets": 14,
         "replies": 29,
-        "impressions": 73871
+        "impressions": 75773
+      }
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "Bitcoin still perfectly tracking the average of prior midterm years. https://t.co/CoDxJpCvb7",
+      "url": "https://x.com/intocryptoverse/status/2031011484218675571",
+      "created_at": "2026-03-09T14:17:26.000Z",
+      "metrics": {
+        "likes": 471,
+        "retweets": 35,
+        "replies": 44,
+        "impressions": 20906
+      }
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "Don't try to make sense of the market based on daily news events.\n\n2 weeks ago it was \"Jane Street\"\n\nLast week it was the ISM.\n\nNarratives follow price.",
+      "url": "https://x.com/intocryptoverse/status/2031012717847302270",
+      "created_at": "2026-03-09T14:22:20.000Z",
+      "metrics": {
+        "likes": 409,
+        "retweets": 23,
+        "replies": 65,
+        "impressions": 16845
       }
     },
     {
@@ -799,10 +835,10 @@
       "url": "https://x.com/intocryptoverse/status/2030988119340691676",
       "created_at": "2026-03-09T12:44:36.000Z",
       "metrics": {
-        "likes": 187,
-        "retweets": 8,
-        "replies": 30,
-        "impressions": 30009
+        "likes": 252,
+        "retweets": 12,
+        "replies": 32,
+        "impressions": 41220
       }
     },
     {
@@ -811,10 +847,10 @@
       "url": "https://x.com/intocryptoverse/status/2030790301950841210",
       "created_at": "2026-03-08T23:38:32.000Z",
       "metrics": {
-        "likes": 41,
+        "likes": 42,
         "retweets": 3,
         "replies": 2,
-        "impressions": 5001
+        "impressions": 5085
       }
     },
     {
@@ -823,10 +859,10 @@
       "url": "https://x.com/intocryptoverse/status/2030778092055073124",
       "created_at": "2026-03-08T22:50:01.000Z",
       "metrics": {
-        "likes": 35,
+        "likes": 36,
         "retweets": 0,
         "replies": 2,
-        "impressions": 2456
+        "impressions": 2476
       }
     },
     {
@@ -835,10 +871,10 @@
       "url": "https://x.com/Citrini7/status/2030791370542022782",
       "created_at": "2026-03-08T23:42:47.000Z",
       "metrics": {
-        "likes": 896,
+        "likes": 903,
         "retweets": 62,
         "replies": 38,
-        "impressions": 66415
+        "impressions": 67268
       }
     },
     {
@@ -847,10 +883,10 @@
       "url": "https://x.com/Citrini7/status/2030846854393377143",
       "created_at": "2026-03-09T03:23:16.000Z",
       "metrics": {
-        "likes": 702,
-        "retweets": 25,
+        "likes": 717,
+        "retweets": 26,
         "replies": 19,
-        "impressions": 65715
+        "impressions": 67759
       }
     },
     {
@@ -859,10 +895,10 @@
       "url": "https://x.com/Citrini7/status/2030818323219267639",
       "created_at": "2026-03-09T01:29:53.000Z",
       "metrics": {
-        "likes": 699,
+        "likes": 708,
         "retweets": 27,
         "replies": 25,
-        "impressions": 159288
+        "impressions": 162186
       }
     },
     {
@@ -871,10 +907,10 @@
       "url": "https://x.com/Citrini7/status/2030883789702901833",
       "created_at": "2026-03-09T05:50:02.000Z",
       "metrics": {
-        "likes": 525,
-        "retweets": 5,
+        "likes": 546,
+        "retweets": 6,
         "replies": 27,
-        "impressions": 74469
+        "impressions": 79409
       }
     },
     {
@@ -883,10 +919,10 @@
       "url": "https://x.com/Citrini7/status/2030779718253846573",
       "created_at": "2026-03-08T22:56:29.000Z",
       "metrics": {
-        "likes": 518,
+        "likes": 527,
         "retweets": 8,
         "replies": 39,
-        "impressions": 71528
+        "impressions": 72347
       }
     },
     {
@@ -895,10 +931,10 @@
       "url": "https://x.com/Citrini7/status/2030727757991190905",
       "created_at": "2026-03-08T19:30:01.000Z",
       "metrics": {
-        "likes": 269,
+        "likes": 270,
         "retweets": 2,
         "replies": 3,
-        "impressions": 22573
+        "impressions": 22778
       }
     },
     {
@@ -907,10 +943,10 @@
       "url": "https://x.com/Citrini7/status/2030826452321444193",
       "created_at": "2026-03-09T02:02:11.000Z",
       "metrics": {
-        "likes": 249,
+        "likes": 251,
         "retweets": 10,
         "replies": 21,
-        "impressions": 41697
+        "impressions": 42214
       }
     },
     {
@@ -919,10 +955,10 @@
       "url": "https://x.com/Citrini7/status/2030822075267420175",
       "created_at": "2026-03-09T01:44:48.000Z",
       "metrics": {
-        "likes": 249,
+        "likes": 251,
         "retweets": 3,
         "replies": 8,
-        "impressions": 17738
+        "impressions": 17947
       }
     },
     {
@@ -931,10 +967,10 @@
       "url": "https://x.com/Citrini7/status/2030787977492996399",
       "created_at": "2026-03-08T23:29:18.000Z",
       "metrics": {
-        "likes": 194,
+        "likes": 195,
         "retweets": 8,
         "replies": 7,
-        "impressions": 35956
+        "impressions": 36358
       }
     },
     {
@@ -943,10 +979,10 @@
       "url": "https://x.com/Citrini7/status/2030889649267212701",
       "created_at": "2026-03-09T06:13:19.000Z",
       "metrics": {
-        "likes": 116,
+        "likes": 121,
         "retweets": 0,
         "replies": 3,
-        "impressions": 22244
+        "impressions": 23587
       }
     },
     {
@@ -955,10 +991,10 @@
       "url": "https://x.com/TheShortBear/status/2030786663085936809",
       "created_at": "2026-03-08T23:24:05.000Z",
       "metrics": {
-        "likes": 1662,
+        "likes": 1675,
         "retweets": 153,
-        "replies": 212,
-        "impressions": 1023022
+        "replies": 214,
+        "impressions": 1034007
       }
     },
     {
@@ -967,10 +1003,10 @@
       "url": "https://x.com/TheShortBear/status/2030781353743036427",
       "created_at": "2026-03-08T23:02:59.000Z",
       "metrics": {
-        "likes": 597,
+        "likes": 603,
         "retweets": 27,
-        "replies": 70,
-        "impressions": 44973
+        "replies": 72,
+        "impressions": 45600
       }
     },
     {
@@ -979,10 +1015,10 @@
       "url": "https://x.com/TheShortBear/status/2030674009780568293",
       "created_at": "2026-03-08T15:56:26.000Z",
       "metrics": {
-        "likes": 224,
+        "likes": 225,
         "retweets": 10,
         "replies": 11,
-        "impressions": 64577
+        "impressions": 64800
       }
     },
     {
@@ -991,10 +1027,22 @@
       "url": "https://x.com/TheShortBear/status/2030735299245146143",
       "created_at": "2026-03-08T19:59:59.000Z",
       "metrics": {
-        "likes": 149,
-        "retweets": 13,
+        "likes": 151,
+        "retweets": 14,
         "replies": 14,
-        "impressions": 20281
+        "impressions": 20444
+      }
+    },
+    {
+      "author": "TheShortBear",
+      "text": "ISRAELI OFFICIAL: IRAN WON’T SURRENDER, BUT IT CAN SEND MESSAGES TO ACCEPT A CEASEFIRE WITH U.S. CONDITIONS",
+      "url": "https://x.com/TheShortBear/status/2031002717296939187",
+      "created_at": "2026-03-09T13:42:36.000Z",
+      "metrics": {
+        "likes": 143,
+        "retweets": 13,
+        "replies": 9,
+        "impressions": 26123
       }
     },
     {
@@ -1003,10 +1051,10 @@
       "url": "https://x.com/TheShortBear/status/2030789347696365965",
       "created_at": "2026-03-08T23:34:45.000Z",
       "metrics": {
-        "likes": 121,
+        "likes": 122,
         "retweets": 7,
         "replies": 18,
-        "impressions": 65397
+        "impressions": 66085
       }
     },
     {
@@ -1015,10 +1063,10 @@
       "url": "https://x.com/TheShortBear/status/2030789205949874284",
       "created_at": "2026-03-08T23:34:11.000Z",
       "metrics": {
-        "likes": 59,
-        "retweets": 6,
+        "likes": 60,
+        "retweets": 5,
         "replies": 9,
-        "impressions": 39832
+        "impressions": 40254
       }
     },
     {
@@ -1030,19 +1078,19 @@
         "likes": 47,
         "retweets": 3,
         "replies": 12,
-        "impressions": 17543
+        "impressions": 17670
       }
     },
     {
       "author": "TheShortBear",
-      "text": "ISRAELI OFFICIAL: IRAN WON’T SURRENDER, BUT IT CAN SEND MESSAGES TO ACCEPT A CEASEFIRE WITH U.S. CONDITIONS",
-      "url": "https://x.com/TheShortBear/status/2031002717296939187",
-      "created_at": "2026-03-09T13:42:36.000Z",
+      "text": "We will not shoot down your vessels if you do not.\n\nCould this continue? https://t.co/WHAgVNS8bo",
+      "url": "https://x.com/TheShortBear/status/2031012378108719179",
+      "created_at": "2026-03-09T14:20:59.000Z",
       "metrics": {
-        "likes": 45,
-        "retweets": 3,
-        "replies": 5,
-        "impressions": 6308
+        "likes": 29,
+        "retweets": 0,
+        "replies": 4,
+        "impressions": 12254
       }
     },
     {
@@ -1054,19 +1102,7 @@
         "likes": 20,
         "retweets": 1,
         "replies": 0,
-        "impressions": 9014
-      }
-    },
-    {
-      "author": "TheShortBear",
-      "text": "@Steineth_Cometh Everyone is that’s the point. \n\nBut if you don’t think Israel did everything they could to get the US involved you are delusional. Still was US decision to go into it.\n\nI mean Trump literally said so a few hours ago.\n\nIt’s got nothing to do with anti-semitism, it’s simple logic…",
-      "url": "https://x.com/TheShortBear/status/2030799747070472330",
-      "created_at": "2026-03-09T00:16:04.000Z",
-      "metrics": {
-        "likes": 19,
-        "retweets": 0,
-        "replies": 2,
-        "impressions": 2482
+        "impressions": 9069
       }
     },
     {
@@ -1078,7 +1114,7 @@
         "likes": 29,
         "retweets": 1,
         "replies": 8,
-        "impressions": 2182
+        "impressions": 2218
       }
     },
     {
@@ -1090,7 +1126,7 @@
         "likes": 2,
         "retweets": 0,
         "replies": 0,
-        "impressions": 958
+        "impressions": 968
       }
     },
     {
@@ -1099,10 +1135,10 @@
       "url": "https://x.com/KobeissiLetter/status/2030820615800918090",
       "created_at": "2026-03-09T01:39:00.000Z",
       "metrics": {
-        "likes": 14414,
-        "retweets": 3475,
-        "replies": 355,
-        "impressions": 1751760
+        "likes": 14564,
+        "retweets": 3506,
+        "replies": 360,
+        "impressions": 1811594
       }
     },
     {
@@ -1111,10 +1147,10 @@
       "url": "https://x.com/KobeissiLetter/status/2030755236693098782",
       "created_at": "2026-03-08T21:19:12.000Z",
       "metrics": {
-        "likes": 12775,
-        "retweets": 1856,
+        "likes": 12836,
+        "retweets": 1865,
         "replies": 613,
-        "impressions": 1776557
+        "impressions": 1788690
       }
     },
     {
@@ -1123,22 +1159,10 @@
       "url": "https://x.com/KobeissiLetter/status/2030766432305262660",
       "created_at": "2026-03-08T22:03:41.000Z",
       "metrics": {
-        "likes": 9822,
-        "retweets": 2434,
-        "replies": 455,
-        "impressions": 2104266
-      }
-    },
-    {
-      "author": "KobeissiLetter",
-      "text": "BREAKING: US oil prices fall -$15/barrel in under 2 hours, now trading below $104/barrel, on reports that G7 countries are considering releasing 400 million barrels of crude oil reserves. https://t.co/hMEJCK5QWZ",
-      "url": "https://x.com/KobeissiLetter/status/2030884035271024660",
-      "created_at": "2026-03-09T05:51:00.000Z",
-      "metrics": {
-        "likes": 8287,
-        "retweets": 1698,
-        "replies": 521,
-        "impressions": 1210519
+        "likes": 9850,
+        "retweets": 2440,
+        "replies": 456,
+        "impressions": 2143237
       }
     },
     {
@@ -1147,10 +1171,22 @@
       "url": "https://x.com/KobeissiLetter/status/2030947172816957574",
       "created_at": "2026-03-09T10:01:53.000Z",
       "metrics": {
-        "likes": 7922,
-        "retweets": 1499,
-        "replies": 507,
-        "impressions": 905647
+        "likes": 8485,
+        "retweets": 1603,
+        "replies": 543,
+        "impressions": 1026911
+      }
+    },
+    {
+      "author": "KobeissiLetter",
+      "text": "BREAKING: US oil prices fall -$15/barrel in under 2 hours, now trading below $104/barrel, on reports that G7 countries are considering releasing 400 million barrels of crude oil reserves. https://t.co/hMEJCK5QWZ",
+      "url": "https://x.com/KobeissiLetter/status/2030884035271024660",
+      "created_at": "2026-03-09T05:51:00.000Z",
+      "metrics": {
+        "likes": 8343,
+        "retweets": 1708,
+        "replies": 522,
+        "impressions": 1244288
       }
     },
     {
@@ -1159,10 +1195,10 @@
       "url": "https://x.com/KobeissiLetter/status/2030881029465034777",
       "created_at": "2026-03-09T05:39:04.000Z",
       "metrics": {
-        "likes": 7726,
-        "retweets": 1464,
-        "replies": 337,
-        "impressions": 1155259
+        "likes": 7845,
+        "retweets": 1478,
+        "replies": 339,
+        "impressions": 1194874
       }
     },
     {
@@ -1171,10 +1207,10 @@
       "url": "https://x.com/KobeissiLetter/status/2030888401776312375",
       "created_at": "2026-03-09T06:08:21.000Z",
       "metrics": {
-        "likes": 7337,
-        "retweets": 1087,
-        "replies": 432,
-        "impressions": 1494475
+        "likes": 7427,
+        "retweets": 1109,
+        "replies": 438,
+        "impressions": 1540140
       }
     },
     {
@@ -1183,10 +1219,10 @@
       "url": "https://x.com/KobeissiLetter/status/2030830323173347565",
       "created_at": "2026-03-09T02:17:34.000Z",
       "metrics": {
-        "likes": 6974,
-        "retweets": 795,
+        "likes": 7022,
+        "retweets": 797,
         "replies": 229,
-        "impressions": 575109
+        "impressions": 586589
       }
     },
     {
@@ -1195,10 +1231,10 @@
       "url": "https://x.com/KobeissiLetter/status/2030768937328054782",
       "created_at": "2026-03-08T22:13:39.000Z",
       "metrics": {
-        "likes": 6188,
-        "retweets": 1535,
-        "replies": 288,
-        "impressions": 1359087
+        "likes": 6210,
+        "retweets": 1540,
+        "replies": 289,
+        "impressions": 1397950
       }
     },
     {
@@ -1207,10 +1243,10 @@
       "url": "https://x.com/KobeissiLetter/status/2030663580836577375",
       "created_at": "2026-03-08T15:15:00.000Z",
       "metrics": {
-        "likes": 6060,
+        "likes": 6072,
         "retweets": 935,
         "replies": 213,
-        "impressions": 369675
+        "impressions": 370901
       }
     },
     {
@@ -1222,7 +1258,7 @@
         "likes": 14,
         "retweets": 1,
         "replies": 2,
-        "impressions": 2000
+        "impressions": 2017
       }
     },
     {
@@ -1234,7 +1270,7 @@
         "likes": 6,
         "retweets": 0,
         "replies": 1,
-        "impressions": 636
+        "impressions": 643
       }
     },
     {
@@ -1246,7 +1282,7 @@
         "likes": 6,
         "retweets": 0,
         "replies": 1,
-        "impressions": 5873
+        "impressions": 5933
       }
     },
     {
@@ -1258,7 +1294,7 @@
         "likes": 5,
         "retweets": 1,
         "replies": 1,
-        "impressions": 674
+        "impressions": 683
       }
     },
     {
@@ -1270,7 +1306,7 @@
         "likes": 4,
         "retweets": 0,
         "replies": 1,
-        "impressions": 2040
+        "impressions": 2141
       }
     },
     {
@@ -1282,7 +1318,7 @@
         "likes": 2,
         "retweets": 0,
         "replies": 1,
-        "impressions": 105
+        "impressions": 111
       }
     },
     {
@@ -1294,7 +1330,7 @@
         "likes": 1,
         "retweets": 0,
         "replies": 0,
-        "impressions": 99
+        "impressions": 103
       }
     },
     {
@@ -1318,7 +1354,7 @@
         "likes": 1,
         "retweets": 1,
         "replies": 1,
-        "impressions": 8724
+        "impressions": 8907
       }
     },
     {
@@ -1339,22 +1375,10 @@
       "url": "https://x.com/ThinkingUSD/status/2030734362489065544",
       "created_at": "2026-03-08T19:56:15.000Z",
       "metrics": {
-        "likes": 732,
-        "retweets": 44,
+        "likes": 741,
+        "retweets": 43,
         "replies": 67,
-        "impressions": 94372
-      }
-    },
-    {
-      "author": "ThinkingUSD",
-      "text": "Now over $1B in premarket, weekend volume and over $175mm in OI.\n\nIn hindsight it will be obvious https://t.co/xBwSa5TQot https://t.co/FOX3cJkKDN",
-      "url": "https://x.com/ThinkingUSD/status/2030997849706578398",
-      "created_at": "2026-03-09T13:23:16.000Z",
-      "metrics": {
-        "likes": 167,
-        "retweets": 6,
-        "replies": 16,
-        "impressions": 14054
+        "impressions": 106194
       }
     },
     {
@@ -1363,10 +1387,34 @@
       "url": "https://x.com/ThinkingUSD/status/2031003987709726815",
       "created_at": "2026-03-09T13:47:39.000Z",
       "metrics": {
-        "likes": 108,
-        "retweets": 9,
-        "replies": 15,
-        "impressions": 3092
+        "likes": 377,
+        "retweets": 23,
+        "replies": 33,
+        "impressions": 10853
+      }
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Now over $1B in premarket, weekend volume and over $175mm in OI.\n\nIn hindsight it will be obvious https://t.co/xBwSa5TQot https://t.co/FOX3cJkKDN",
+      "url": "https://x.com/ThinkingUSD/status/2030997849706578398",
+      "created_at": "2026-03-09T13:23:16.000Z",
+      "metrics": {
+        "likes": 269,
+        "retweets": 14,
+        "replies": 20,
+        "impressions": 32073
+      }
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Futures go green",
+      "url": "https://x.com/ThinkingUSD/status/2031018344749420582",
+      "created_at": "2026-03-09T14:44:42.000Z",
+      "metrics": {
+        "likes": 68,
+        "retweets": 1,
+        "replies": 7,
+        "impressions": 2739
       }
     },
     {
@@ -1378,7 +1426,19 @@
         "likes": 12,
         "retweets": 1,
         "replies": 0,
-        "impressions": 2254
+        "impressions": 2256
+      }
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Bitches love connect 4",
+      "url": "https://x.com/ThinkingUSD/status/2031021930493440132",
+      "created_at": "2026-03-09T14:58:57.000Z",
+      "metrics": {
+        "likes": 12,
+        "retweets": 1,
+        "replies": 2,
+        "impressions": 437
       }
     },
     {
@@ -1390,31 +1450,19 @@
         "likes": 10,
         "retweets": 0,
         "replies": 1,
-        "impressions": 2128
+        "impressions": 2149
       }
     },
     {
       "author": "outpxce",
-      "text": "Lot of backs bout to be blown out https://t.co/rsb0sgxNsc",
-      "url": "https://x.com/outpxce/status/2029269726493303059",
-      "created_at": "2026-03-04T18:56:19.000Z",
+      "text": "New York is such a transcendent city. One of the only places in the world where you’re either gonna accelerate beyond your wildest dreams and become a radically different person, or remain exactly who you were when you first arrived. The beautiful thing about this city is that it",
+      "url": "https://x.com/outpxce/status/2030668947285004497",
+      "created_at": "2026-03-08T15:36:19.000Z",
       "metrics": {
-        "likes": 254,
-        "retweets": 3,
-        "replies": 11,
-        "impressions": 31986
-      }
-    },
-    {
-      "author": "outpxce",
-      "text": "Given the recent geopolitical backdrop, feels like a good time to mention this again. If you're a trader who wants to live in a jurisdiction with minimal taxes, you should really consider HK over dubai\n\nMuch deeper capital markets infra, 0% cap gains, developed courts and strong https://t.co/YPqGycgMsv",
-      "url": "https://x.com/outpxce/status/2030599919988355485",
-      "created_at": "2026-03-08T11:02:02.000Z",
-      "metrics": {
-        "likes": 210,
-        "retweets": 2,
-        "replies": 22,
-        "impressions": 20740
+        "likes": 925,
+        "retweets": 43,
+        "replies": 10,
+        "impressions": 35402
       }
     },
     {
@@ -1423,94 +1471,106 @@
       "url": "https://x.com/outpxce/status/2030681415667335234",
       "created_at": "2026-03-08T16:25:52.000Z",
       "metrics": {
-        "likes": 207,
+        "likes": 208,
         "retweets": 11,
         "replies": 8,
-        "impressions": 12283
+        "impressions": 12380
       }
     },
     {
       "author": "outpxce",
-      "text": "In case it's not obvious, we are in fa szn rn\n\nYou should be taking the time now to research projects and figure out what the future winners will be, while most people are logged off and not paying attention",
-      "url": "https://x.com/outpxce/status/2030348523003052329",
-      "created_at": "2026-03-07T18:23:04.000Z",
+      "text": "To each their own, but I personally have always found people who spend all their time and energy optimizing expenses to be a bit unserious\n\nYou know what group I’m talking about. The ones who open a dozen credit cards just to game the new member bonuses. The guys who watch",
+      "url": "https://x.com/outpxce/status/2030706859657609687",
+      "created_at": "2026-03-08T18:06:58.000Z",
       "metrics": {
-        "likes": 177,
-        "retweets": 6,
-        "replies": 13,
-        "impressions": 8308
+        "likes": 198,
+        "retweets": 4,
+        "replies": 10,
+        "impressions": 10082
       }
     },
     {
       "author": "outpxce",
-      "text": "theres an interesting cohort on here that believes that\n\na) traders should never flip flop on positioning\nb) there is something noble about going down with the ship\nc) people with audiences are expected to keep their followers updated on what they do\n\nin other words, many of you https://t.co/DpwjtWT12X https://t.co/S1umtb8PQ4",
-      "url": "https://x.com/outpxce/status/2030027263882723635",
-      "created_at": "2026-03-06T21:06:30.000Z",
+      "text": "Really good heuristic to practice if you're someone who does a lot of heavy cognitive work: avoid making critical decisions right before bed and right after waking up\n\nIdeally, you should give yourself a two hour margin on both sides. So if you wake up at 5am, you shouldn't be",
+      "url": "https://x.com/outpxce/status/2030696500901093815",
+      "created_at": "2026-03-08T17:25:48.000Z",
       "metrics": {
-        "likes": 173,
-        "retweets": 5,
-        "replies": 18,
-        "impressions": 19628
+        "likes": 130,
+        "retweets": 2,
+        "replies": 4,
+        "impressions": 4760
       }
     },
     {
       "author": "outpxce",
-      "text": "friends I have started to build a minor position in PURR\n\nchart looks quite nice with a reclaim of a macro range low. i also just find it ludicrous that the first memetic token on HL is only worth 45mil. for reference, hype has a fdv of 30b\n\nthey are selling you provenance at an https://t.co/bgUZZgQQPl",
-      "url": "https://x.com/outpxce/status/2029211746682953766",
-      "created_at": "2026-03-04T15:05:55.000Z",
+      "text": "Been mulling it over lately, and starting to suspect that the ideas we think of are not entirely our own\n\nSo many interesting ideas have come to me recently, ones that have benefited me in different areas of life, and the one thing they’ve all shared with each other is that",
+      "url": "https://x.com/outpxce/status/2030689643453149356",
+      "created_at": "2026-03-08T16:58:34.000Z",
       "metrics": {
-        "likes": 139,
-        "retweets": 6,
-        "replies": 11,
-        "impressions": 13947
-      }
-    },
-    {
-      "author": "outpxce",
-      "text": "Gentlemen, tp if you must. But just know that every rabbi in my circle has been buying the dips like it’s a mitzvah https://t.co/1T1j10P4ZN https://t.co/sFj5Q2nZSI",
-      "url": "https://x.com/outpxce/status/2029216993421713539",
-      "created_at": "2026-03-04T15:26:46.000Z",
-      "metrics": {
-        "likes": 103,
-        "retweets": 1,
-        "replies": 6,
-        "impressions": 10844
-      }
-    },
-    {
-      "author": "outpxce",
-      "text": "scaled out of longs once btc accepted sub 71k\n\nvery ugly deviation! would expect a sweep of 65k at bare minimum, altho could see much lower depending on how this conflict plays out, worst case btm btwn 38-44k\n\nstrong convictions loosely held! https://t.co/jNdqDbImUc https://t.co/1mBNejPVee",
-      "url": "https://x.com/outpxce/status/2029975144647581761",
-      "created_at": "2026-03-06T17:39:24.000Z",
-      "metrics": {
-        "likes": 94,
-        "retweets": 1,
+        "likes": 84,
+        "retweets": 2,
         "replies": 9,
-        "impressions": 11934
+        "impressions": 4176
       }
     },
     {
       "author": "outpxce",
-      "text": "At this point they can send BTC back down to 60's idc im not fucking selling",
-      "url": "https://x.com/outpxce/status/2029292960416714775",
-      "created_at": "2026-03-04T20:28:38.000Z",
+      "text": "personally leaning towards more chop rather than a breakdown to new lows. but ig its really dependent on how this conflict with iran resolves itself\n\ngiven the ltf range bounds [min 65k, max 71k], think its likely btc visits 65k in the s/t and that reaction will be telling. if https://t.co/leRpr8juTP",
+      "url": "https://x.com/outpxce/status/2030718138808209804",
+      "created_at": "2026-03-08T18:51:47.000Z",
       "metrics": {
-        "likes": 88,
+        "likes": 57,
+        "retweets": 2,
+        "replies": 3,
+        "impressions": 4708
+      }
+    },
+    {
+      "author": "outpxce",
+      "text": "This looks so apocalyptic\n\nWonder what the logic behind doing all this is, considering that most of the IRGC leadership have been eliminated, leaving a bunch of previously low ranked chuds now in charge\n\nAlso can't imagine said chuds will capitulate now, seeing their homeland https://t.co/lIzCAvPVYn",
+      "url": "https://x.com/outpxce/status/2030739283053543543",
+      "created_at": "2026-03-08T20:15:49.000Z",
+      "metrics": {
+        "likes": 54,
+        "retweets": 2,
+        "replies": 10,
+        "impressions": 16943
+      }
+    },
+    {
+      "author": "outpxce",
+      "text": "I had a really bad nightmare about this conflict last night. Was extremely vivid, don't even want to disclose the details as they were incredibly dark. I'm just not so sure this conflict resolves itself as soon as some may think",
+      "url": "https://x.com/outpxce/status/2030744004300538032",
+      "created_at": "2026-03-08T20:34:34.000Z",
+      "metrics": {
+        "likes": 14,
         "retweets": 0,
-        "replies": 5,
-        "impressions": 5404
+        "replies": 2,
+        "impressions": 1860
       }
     },
     {
       "author": "outpxce",
-      "text": "man the GOP is gonna get raped in the midterms https://t.co/n8EvL96bfT",
-      "url": "https://x.com/outpxce/status/2029739668434985404",
-      "created_at": "2026-03-06T02:03:42.000Z",
+      "text": "would be nice to see 60k think i could build some decent positions in couple alts. at the same time, still want to be cognizant of the fact that we are in \"value\" territory. being greedy is also a sin",
+      "url": "https://x.com/outpxce/status/2030718495349002341",
+      "created_at": "2026-03-08T18:53:12.000Z",
       "metrics": {
-        "likes": 86,
-        "retweets": 3,
-        "replies": 5,
-        "impressions": 10590
+        "likes": 12,
+        "retweets": 0,
+        "replies": 0,
+        "impressions": 1667
+      }
+    },
+    {
+      "author": "outpxce",
+      "text": "@comfortablylong mastery",
+      "url": "https://x.com/outpxce/status/2030693362743803993",
+      "created_at": "2026-03-08T17:13:20.000Z",
+      "metrics": {
+        "likes": 11,
+        "retweets": 0,
+        "replies": 1,
+        "impressions": 535
       }
     },
     {
@@ -1519,10 +1579,10 @@
       "url": "https://x.com/abcampbell/status/2030846391850045629",
       "created_at": "2026-03-09T03:21:25.000Z",
       "metrics": {
-        "likes": 340,
-        "retweets": 11,
+        "likes": 342,
+        "retweets": 12,
         "replies": 18,
-        "impressions": 27439
+        "impressions": 27735
       }
     },
     {
@@ -1531,10 +1591,10 @@
       "url": "https://x.com/abcampbell/status/2030697258614935831",
       "created_at": "2026-03-08T17:28:49.000Z",
       "metrics": {
-        "likes": 318,
+        "likes": 320,
         "retweets": 42,
-        "replies": 13,
-        "impressions": 109106
+        "replies": 14,
+        "impressions": 109625
       }
     },
     {
@@ -1543,10 +1603,10 @@
       "url": "https://x.com/abcampbell/status/2030775462079938874",
       "created_at": "2026-03-08T22:39:34.000Z",
       "metrics": {
-        "likes": 168,
+        "likes": 172,
         "retweets": 6,
         "replies": 9,
-        "impressions": 26868
+        "impressions": 27080
       }
     },
     {
@@ -1555,10 +1615,10 @@
       "url": "https://x.com/abcampbell/status/2030811893120823617",
       "created_at": "2026-03-09T01:04:20.000Z",
       "metrics": {
-        "likes": 118,
+        "likes": 123,
         "retweets": 0,
         "replies": 21,
-        "impressions": 42770
+        "impressions": 43368
       }
     },
     {
@@ -1567,10 +1627,10 @@
       "url": "https://x.com/abcampbell/status/2030777138786467892",
       "created_at": "2026-03-08T22:46:14.000Z",
       "metrics": {
-        "likes": 85,
+        "likes": 86,
         "retweets": 2,
         "replies": 6,
-        "impressions": 30341
+        "impressions": 30848
       }
     },
     {
@@ -1582,7 +1642,7 @@
         "likes": 75,
         "retweets": 0,
         "replies": 4,
-        "impressions": 13486
+        "impressions": 13667
       }
     },
     {
@@ -1594,7 +1654,7 @@
         "likes": 74,
         "retweets": 3,
         "replies": 4,
-        "impressions": 35826
+        "impressions": 36051
       }
     },
     {
@@ -1606,7 +1666,7 @@
         "likes": 51,
         "retweets": 0,
         "replies": 0,
-        "impressions": 4941
+        "impressions": 4980
       }
     },
     {
@@ -1618,19 +1678,19 @@
         "likes": 50,
         "retweets": 0,
         "replies": 3,
-        "impressions": 4949
+        "impressions": 5117
       }
     },
     {
       "author": "abcampbell",
-      "text": "@StockShaman Are we sure he’s not long COMEX to trade the basis (and worst case accept delivery in the US and ship to China for delivery)",
-      "url": "https://x.com/abcampbell/status/2030654638115221550",
-      "created_at": "2026-03-08T14:39:28.000Z",
+      "text": "@PeterLBrandt @PeterSchiff Watch dollar",
+      "url": "https://x.com/abcampbell/status/2030843818908750070",
+      "created_at": "2026-03-09T03:11:12.000Z",
       "metrics": {
-        "likes": 26,
+        "likes": 17,
         "retweets": 0,
-        "replies": 4,
-        "impressions": 3500
+        "replies": 3,
+        "impressions": 2809
       }
     },
     {
@@ -1642,7 +1702,7 @@
         "likes": 83,
         "retweets": 0,
         "replies": 5,
-        "impressions": 5735
+        "impressions": 5752
       }
     },
     {
@@ -1651,10 +1711,10 @@
       "url": "https://x.com/PlutonicXBT/status/2030713075083694482",
       "created_at": "2026-03-08T18:31:40.000Z",
       "metrics": {
-        "likes": 49,
+        "likes": 50,
         "retweets": 1,
         "replies": 4,
-        "impressions": 1348
+        "impressions": 1352
       }
     },
     {
@@ -1666,7 +1726,7 @@
         "likes": 43,
         "retweets": 0,
         "replies": 3,
-        "impressions": 2111
+        "impressions": 2142
       }
     },
     {
@@ -1675,10 +1735,10 @@
       "url": "https://x.com/PlutonicXBT/status/2030772501538857091",
       "created_at": "2026-03-08T22:27:48.000Z",
       "metrics": {
-        "likes": 39,
+        "likes": 40,
         "retweets": 0,
         "replies": 2,
-        "impressions": 1630
+        "impressions": 1666
       }
     },
     {
@@ -1690,7 +1750,7 @@
         "likes": 27,
         "retweets": 0,
         "replies": 1,
-        "impressions": 2262
+        "impressions": 2296
       }
     },
     {
@@ -1702,7 +1762,7 @@
         "likes": 23,
         "retweets": 1,
         "replies": 2,
-        "impressions": 2001
+        "impressions": 2093
       }
     },
     {
@@ -1714,7 +1774,7 @@
         "likes": 17,
         "retweets": 1,
         "replies": 0,
-        "impressions": 653
+        "impressions": 668
       }
     },
     {
@@ -1726,7 +1786,7 @@
         "likes": 10,
         "retweets": 0,
         "replies": 1,
-        "impressions": 340
+        "impressions": 342
       }
     },
     {
@@ -1738,7 +1798,7 @@
         "likes": 9,
         "retweets": 0,
         "replies": 0,
-        "impressions": 669
+        "impressions": 681
       }
     },
     {
@@ -1750,7 +1810,7 @@
         "likes": 9,
         "retweets": 0,
         "replies": 1,
-        "impressions": 441
+        "impressions": 443
       }
     },
     {
@@ -1759,10 +1819,10 @@
       "url": "https://x.com/apewoodx/status/2030775944525320667",
       "created_at": "2026-03-08T22:41:29.000Z",
       "metrics": {
-        "likes": 13755,
-        "retweets": 533,
-        "replies": 20,
-        "impressions": 140066
+        "likes": 14975,
+        "retweets": 577,
+        "replies": 21,
+        "impressions": 157165
       }
     },
     {
@@ -1771,10 +1831,10 @@
       "url": "https://x.com/apewoodx/status/2030778370691154377",
       "created_at": "2026-03-08T22:51:08.000Z",
       "metrics": {
-        "likes": 1476,
+        "likes": 1490,
         "retweets": 62,
         "replies": 24,
-        "impressions": 55395
+        "impressions": 56274
       }
     },
     {
@@ -1783,10 +1843,10 @@
       "url": "https://x.com/apewoodx/status/2030786425369608423",
       "created_at": "2026-03-08T23:23:08.000Z",
       "metrics": {
-        "likes": 138,
+        "likes": 139,
         "retweets": 6,
         "replies": 5,
-        "impressions": 9000
+        "impressions": 9073
       }
     },
     {
@@ -1795,10 +1855,10 @@
       "url": "https://x.com/apewoodx/status/2030775302520012929",
       "created_at": "2026-03-08T22:38:56.000Z",
       "metrics": {
-        "likes": 87,
+        "likes": 90,
         "retweets": 1,
         "replies": 0,
-        "impressions": 4649
+        "impressions": 4727
       }
     },
     {
@@ -1807,10 +1867,10 @@
       "url": "https://x.com/apewoodx/status/2030728991083212936",
       "created_at": "2026-03-08T19:34:55.000Z",
       "metrics": {
-        "likes": 86,
+        "likes": 87,
         "retweets": 1,
         "replies": 9,
-        "impressions": 3559
+        "impressions": 3580
       }
     },
     {
@@ -1822,7 +1882,7 @@
         "likes": 75,
         "retweets": 0,
         "replies": 1,
-        "impressions": 10517
+        "impressions": 10600
       }
     },
     {
@@ -1831,10 +1891,10 @@
       "url": "https://x.com/apewoodx/status/2030798459251404824",
       "created_at": "2026-03-09T00:10:57.000Z",
       "metrics": {
-        "likes": 51,
+        "likes": 52,
         "retweets": 0,
         "replies": 7,
-        "impressions": 4383
+        "impressions": 4417
       }
     },
     {
@@ -1846,7 +1906,7 @@
         "likes": 29,
         "retweets": 0,
         "replies": 0,
-        "impressions": 3380
+        "impressions": 3418
       }
     },
     {
@@ -1858,7 +1918,7 @@
         "likes": 28,
         "retweets": 0,
         "replies": 3,
-        "impressions": 3565
+        "impressions": 3573
       }
     },
     {
@@ -1870,7 +1930,7 @@
         "likes": 21,
         "retweets": 0,
         "replies": 0,
-        "impressions": 1199
+        "impressions": 1204
       }
     },
     {
@@ -1879,22 +1939,10 @@
       "url": "https://x.com/tphuang/status/2030728136900391260",
       "created_at": "2026-03-08T19:31:31.000Z",
       "metrics": {
-        "likes": 318,
+        "likes": 320,
         "retweets": 54,
         "replies": 13,
-        "impressions": 21832
-      }
-    },
-    {
-      "author": "tphuang",
-      "text": "Big moment for China's auto industry as it surpassed Japan to become Australia's top src of cars in February. This ends Japan's 28 yr reign in Australia.\n\nThere were 4 Chinese automakers in top 10, led by BYD w/ 5.8% mkt share. They accounted for 19% mkt share in total. https://t.co/aD9UUCAxUG",
-      "url": "https://x.com/tphuang/status/2030960864811978861",
-      "created_at": "2026-03-09T10:56:18.000Z",
-      "metrics": {
-        "likes": 137,
-        "retweets": 16,
-        "replies": 4,
-        "impressions": 5863
+        "impressions": 21961
       }
     },
     {
@@ -1903,10 +1951,22 @@
       "url": "https://x.com/tphuang/status/2030963856286081466",
       "created_at": "2026-03-09T11:08:11.000Z",
       "metrics": {
-        "likes": 136,
-        "retweets": 29,
-        "replies": 5,
-        "impressions": 6208
+        "likes": 179,
+        "retweets": 35,
+        "replies": 6,
+        "impressions": 7935
+      }
+    },
+    {
+      "author": "tphuang",
+      "text": "Big moment for China's auto industry as it surpassed Japan to become Australia's top src of cars in February. This ends Japan's 28 yr reign in Australia.\n\nThere were 4 Chinese automakers in top 10, led by BYD w/ 5.8% mkt share. They accounted for 19% mkt share in total. https://t.co/aD9UUCAxUG",
+      "url": "https://x.com/tphuang/status/2030960864811978861",
+      "created_at": "2026-03-09T10:56:18.000Z",
+      "metrics": {
+        "likes": 146,
+        "retweets": 17,
+        "replies": 4,
+        "impressions": 6373
       }
     },
     {
@@ -1918,7 +1978,7 @@
         "likes": 87,
         "retweets": 16,
         "replies": 2,
-        "impressions": 8579
+        "impressions": 8687
       }
     },
     {
@@ -1930,7 +1990,7 @@
         "likes": 84,
         "retweets": 7,
         "replies": 1,
-        "impressions": 4031
+        "impressions": 4064
       }
     },
     {
@@ -1942,7 +2002,7 @@
         "likes": 57,
         "retweets": 6,
         "replies": 1,
-        "impressions": 2539
+        "impressions": 2549
       }
     },
     {
@@ -1954,7 +2014,7 @@
         "likes": 53,
         "retweets": 11,
         "replies": 1,
-        "impressions": 9951
+        "impressions": 10020
       }
     },
     {
@@ -1966,7 +2026,7 @@
         "likes": 51,
         "retweets": 7,
         "replies": 4,
-        "impressions": 3619
+        "impressions": 3669
       }
     },
     {
@@ -1978,7 +2038,7 @@
         "likes": 47,
         "retweets": 9,
         "replies": 3,
-        "impressions": 2684
+        "impressions": 2695
       }
     },
     {
@@ -1990,7 +2050,7 @@
         "likes": 31,
         "retweets": 2,
         "replies": 2,
-        "impressions": 3054
+        "impressions": 3059
       }
     },
     {
@@ -1999,10 +2059,10 @@
       "url": "https://x.com/jukan05/status/2030831615648346340",
       "created_at": "2026-03-09T02:22:42.000Z",
       "metrics": {
-        "likes": 628,
-        "retweets": 47,
-        "replies": 14,
-        "impressions": 70883
+        "likes": 644,
+        "retweets": 48,
+        "replies": 15,
+        "impressions": 73714
       }
     },
     {
@@ -2014,7 +2074,7 @@
         "likes": 587,
         "retweets": 23,
         "replies": 24,
-        "impressions": 50570
+        "impressions": 50860
       }
     },
     {
@@ -2023,10 +2083,10 @@
       "url": "https://x.com/jukan05/status/2030833754739229025",
       "created_at": "2026-03-09T02:31:12.000Z",
       "metrics": {
-        "likes": 294,
+        "likes": 297,
         "retweets": 27,
         "replies": 15,
-        "impressions": 35180
+        "impressions": 36088
       }
     },
     {
@@ -2035,34 +2095,10 @@
       "url": "https://x.com/jukan05/status/2030796697459368318",
       "created_at": "2026-03-09T00:03:57.000Z",
       "metrics": {
-        "likes": 275,
+        "likes": 277,
         "retweets": 17,
         "replies": 9,
-        "impressions": 46825
-      }
-    },
-    {
-      "author": "jukan05",
-      "text": "&gt;&gt; 'Agentic AI' Rise: The CPU's Comeback?\n\n• According to HSBC, approximately 44% of tasks in agentic AI workflows rely on the CPU — roughly 3–4x higher than in conventional AI compute architectures. This signals that CPUs and memory are emerging as the primary bottlenecks",
-      "url": "https://x.com/jukan05/status/2030657806920229226",
-      "created_at": "2026-03-08T14:52:03.000Z",
-      "metrics": {
-        "likes": 265,
-        "retweets": 48,
-        "replies": 19,
-        "impressions": 35452
-      }
-    },
-    {
-      "author": "jukan05",
-      "text": "SK Hynix to Spend $13.3 Billion on Equipment Alone This Year as Leading-Edge Process Migration Accelerates\n\nSK Hynix is expected to invest approximately KRW 20 trillion in equipment alone this year, according to industry estimates. A significant portion of this is anticipated to https://t.co/wCVZ6FhyqS",
-      "url": "https://x.com/jukan05/status/2030832161092518106",
-      "created_at": "2026-03-09T02:24:52.000Z",
-      "metrics": {
-        "likes": 242,
-        "retweets": 20,
-        "replies": 8,
-        "impressions": 32882
+        "impressions": 48102
       }
     },
     {
@@ -2071,10 +2107,22 @@
       "url": "https://x.com/jukan05/status/2030964760993579394",
       "created_at": "2026-03-09T11:11:47.000Z",
       "metrics": {
-        "likes": 213,
-        "retweets": 30,
-        "replies": 6,
-        "impressions": 22469
+        "likes": 254,
+        "retweets": 34,
+        "replies": 7,
+        "impressions": 26191
+      }
+    },
+    {
+      "author": "jukan05",
+      "text": "SK Hynix to Spend $13.3 Billion on Equipment Alone This Year as Leading-Edge Process Migration Accelerates\n\nSK Hynix is expected to invest approximately KRW 20 trillion in equipment alone this year, according to industry estimates. A significant portion of this is anticipated to https://t.co/wCVZ6FhyqS",
+      "url": "https://x.com/jukan05/status/2030832161092518106",
+      "created_at": "2026-03-09T02:24:52.000Z",
+      "metrics": {
+        "likes": 252,
+        "retweets": 20,
+        "replies": 8,
+        "impressions": 33694
       }
     },
     {
@@ -2083,10 +2131,10 @@
       "url": "https://x.com/jukan05/status/2030881520282702021",
       "created_at": "2026-03-09T05:41:01.000Z",
       "metrics": {
-        "likes": 127,
+        "likes": 136,
         "retweets": 21,
         "replies": 9,
-        "impressions": 18242
+        "impressions": 18981
       }
     },
     {
@@ -2098,7 +2146,7 @@
         "likes": 83,
         "retweets": 2,
         "replies": 7,
-        "impressions": 18545
+        "impressions": 18712
       }
     },
     {
@@ -2110,7 +2158,19 @@
         "likes": 15,
         "retweets": 0,
         "replies": 0,
-        "impressions": 8461
+        "impressions": 8649
+      }
+    },
+    {
+      "author": "jukan05",
+      "text": "@Alex_Intel_ LMAO",
+      "url": "https://x.com/jukan05/status/2030793619448517075",
+      "created_at": "2026-03-08T23:51:43.000Z",
+      "metrics": {
+        "likes": 13,
+        "retweets": 0,
+        "replies": 0,
+        "impressions": 3634
       }
     }
   ]
