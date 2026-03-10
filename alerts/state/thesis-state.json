@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-03-10T00:03:14Z",
+  "last_check": "2026-03-10T13:02:58Z",
   "zones": {
     "BTC": "above",
     "HYPE": "above",
@@ -31,9 +31,6 @@
     "ETHFI": "above",
     "SKY": "above",
     "SYRUP": "watch",
-    "AAOI": "above",
-    "LASR": "above",
-    "OII": "above",
     "VVV": "above"
   }
 }
