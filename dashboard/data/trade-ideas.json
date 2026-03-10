@@ -3,7 +3,7 @@
     "id": "long-btc",
     "ticker": "BTC",
     "direction": "long",
-    "thesis": "Cyclical bear, secular bull. 200W SMA structural floor. AI deflation → monetary expansion loop benefits BTC as digital gold. Accumulate at $40-50K for next cycle.",
+    "thesis": "Cyclical bear, secular bull. 200W SMA structural floor. AI deflation \u2192 monetary expansion loop benefits BTC as digital gold. Accumulate at $40-50K for next cycle.",
     "timeframe": "6-18 months",
     "entryZone": [
       40000,
@@ -21,13 +21,13 @@
     "sources": [
       {
         "author": "intocryptoverse",
-        "summary": "2022 simulation repeating — BTC sells off at conflict start, finds Feb low, bounces into March. Expects lower high then drop",
+        "summary": "2022 simulation repeating \u2014 BTC sells off at conflict start, finds Feb low, bounces into March. Expects lower high then drop",
         "stance": "neutral",
         "url": "https://x.com/intocryptoverse/status/2029217697213428109"
       },
       {
         "author": "outpxce",
-        "summary": "BTC broke range upside — easy invalidation for longs to swing to 87K, any 4h close sub 71K = cut. Funding rates negative across the board = bullish",
+        "summary": "BTC broke range upside \u2014 easy invalidation for longs to swing to 87K, any 4h close sub 71K = cut. Funding rates negative across the board = bullish",
         "stance": "agrees",
         "url": "https://x.com/outpxce/status/2029229403608072502"
       },
@@ -45,31 +45,31 @@
       },
       {
         "author": "0xbigmikey",
-        "summary": "Won't buy spot crypto unless prices 50% lower or distribution changes significantly — deeply bearish near-term",
+        "summary": "Won't buy spot crypto unless prices 50% lower or distribution changes significantly \u2014 deeply bearish near-term",
         "stance": "disagrees",
         "url": "https://x.com/0xbigmikey/status/2027247249940476201"
       },
       {
         "author": "TheShortBear",
-        "summary": "Iran escalation creates 'liquidity boom in disguise' — European gas +50% forces ECB emergency cuts, easing bonanza incoming. Long risk/crypto, short metals",
+        "summary": "Iran escalation creates 'liquidity boom in disguise' \u2014 European gas +50% forces ECB emergency cuts, easing bonanza incoming. Long risk/crypto, short metals",
         "stance": "agrees",
         "url": "https://x.com/TheShortBear/status/2028484094238097849"
       },
       {
         "author": "intocryptoverse",
-        "summary": "NFP -92K (expected +59K), unemployment 4.4%, oil up 13% — 'check' in the chess analogy. Economy losing jobs while energy surges = Fed's hand getting forced",
+        "summary": "NFP -92K (expected +59K), unemployment 4.4%, oil up 13% \u2014 'check' in the chess analogy. Economy losing jobs while energy surges = Fed's hand getting forced",
         "stance": "agrees",
         "url": "https://x.com/intocryptoverse/status/2029930379105157582"
       },
       {
         "author": "PlutonicXBT",
-        "summary": "DVOL uptrend = BTC downtrend. Wall Street still complacent — not a shred of fear among big money. Fireworks soon",
+        "summary": "DVOL uptrend = BTC downtrend. Wall Street still complacent \u2014 not a shred of fear among big money. Fireworks soon",
         "stance": "disagrees",
         "url": "https://x.com/PlutonicXBT/status/2030697535107727451"
       },
       {
         "author": "insomniacxbt",
-        "summary": "BTC still cleanest major — expects higher near-term, cut if close back in prior range. ETH already failed back into range. Specific invalidation level",
+        "summary": "BTC still cleanest major \u2014 expects higher near-term, cut if close back in prior range. ETH already failed back into range. Specific invalidation level",
         "stance": "agrees",
         "url": "https://x.com/insomniacxbt/status/2029669206334022079"
       },
@@ -103,7 +103,7 @@
     "sources": [
       {
         "author": "insomniacxbt",
-        "summary": "HYPE/ZRO/TAO resilient against BTC/SOL/ETH weakness — 'not a bad time to continue finding solid spot bags.' Stance shift from prior 'gut says lower'",
+        "summary": "HYPE/ZRO/TAO resilient against BTC/SOL/ETH weakness \u2014 'not a bad time to continue finding solid spot bags.' Stance shift from prior 'gut says lower'",
         "stance": "agrees",
         "url": "https://x.com/insomniacxbt/status/2030899956647858460"
       },
@@ -114,43 +114,37 @@
       },
       {
         "author": "insomniacxbt",
-        "summary": "HYPE inverse H&S is a 'failed breakout in the making' — bearish near-term structure",
+        "summary": "HYPE inverse H&S is a 'failed breakout in the making' \u2014 bearish near-term structure",
         "stance": "disagrees",
         "url": "https://x.com/insomniacxbt/status/2027295626262921229"
       },
       {
         "author": "insomniacxbt",
-        "summary": "Does not make sense to own SOL over HYPE — what Solana wanted to be, HYPE has done. Strong conviction favoring HYPE over SOL",
+        "summary": "Does not make sense to own SOL over HYPE \u2014 what Solana wanted to be, HYPE has done. Strong conviction favoring HYPE over SOL",
         "stance": "agrees",
         "url": "https://x.com/insomniacxbt/status/2031104995542839762"
       },
       {
         "author": "insomniacxbt",
-        "summary": "Crypto holding up well — HYPE on short monitoring list alongside ZRO and VVV. Stance shift from bearish inverse H&S call",
+        "summary": "Crypto holding up well \u2014 HYPE on short monitoring list alongside ZRO and VVV. Stance shift from bearish inverse H&S call",
         "stance": "agrees",
         "url": "https://x.com/insomniacxbt/status/2027806013236404338"
       },
       {
         "author": "insomniacxbt",
-        "summary": "Holding spot HYPE through bear — sees bottom soon. Still has conviction alongside ZRO",
+        "summary": "Holding spot HYPE through bear \u2014 sees bottom soon. Still has conviction alongside ZRO",
         "stance": "agrees",
         "url": "https://x.com/insomniacxbt/status/2028691723837169955"
       },
       {
         "author": "Pivot922",
-        "summary": "Underside retest on HYPE stalled out — expects violent drop if BTC rolls over. Money may rotate out of HYPE into beaten-down alts",
-        "stance": "disagrees",
-        "url": "https://x.com/Pivot922/status/2028944325413863516"
-      },
-      {
-        "author": "Pivot922",
-        "summary": "Pray $24 holds or $15 is next — very bearish near-term target. Significant downside if support breaks",
+        "summary": "Pray $24 holds or $15 is next \u2014 very bearish near-term target. Significant downside if support breaks",
         "stance": "disagrees",
         "url": "https://x.com/Pivot922/status/2029932107758223415"
       },
       {
         "author": "insomniacxbt",
-        "summary": "HYPE needs to hold $36 for bullish structure — at strong resistance, weaker than rest of market despite growing mindshare. Gut says lower near-term",
+        "summary": "HYPE needs to hold $36 for bullish structure \u2014 at strong resistance, weaker than rest of market despite growing mindshare. Gut says lower near-term",
         "stance": "disagrees",
         "url": "https://x.com/insomniacxbt/status/2029360106044043529"
       },
@@ -159,6 +153,12 @@
         "summary": "Major stance shift: bearish perps but long-term HYPE will be biggest crypto asset besides BTC. Sees bear market as opportunity. Never go full cash",
         "stance": "agrees",
         "url": "https://x.com/Pivot922/status/2031104929524494463"
+      },
+      {
+        "author": "Pivot922",
+        "summary": "5 BTC/alt pairs potentially forming bottoms on 5D timeframe \u2014 major stance shift from pure bear to seeing bottom formation. May wait till next week",
+        "stance": "agrees",
+        "url": "https://x.com/Pivot922/status/2031427984121364715"
       }
     ]
   },
@@ -189,12 +189,12 @@
       },
       {
         "author": "Oracle",
-        "summary": "$118 S/R break detected Feb 26 — sliding into watch zone at $114. Grayscale ETF filing as catalyst",
+        "summary": "$118 S/R break detected Feb 26 \u2014 sliding into watch zone at $114. Grayscale ETF filing as catalyst",
         "stance": "agrees"
       },
       {
         "author": "insomniacxbt",
-        "summary": "AAVE getting weaker every day — ACI governance contributor out. MORPHO outperforming in sea of red. Relative strength shifting",
+        "summary": "AAVE getting weaker every day \u2014 ACI governance contributor out. MORPHO outperforming in sea of red. Relative strength shifting",
         "stance": "disagrees",
         "url": "https://x.com/insomniacxbt/status/2028955044482302272"
       }
@@ -204,7 +204,7 @@
     "id": "long-morpho",
     "ticker": "MORPHO",
     "direction": "long",
-    "thesis": "AWS of DeFi lending — permissionless curated vaults. Chosen by Coinbase, Ondo, Taurus over Aave for institutional deployment. Fee switch not yet activated = pure optionality.",
+    "thesis": "AWS of DeFi lending \u2014 permissionless curated vaults. Chosen by Coinbase, Ondo, Taurus over Aave for institutional deployment. Fee switch not yet activated = pure optionality.",
     "timeframe": "6-12 months",
     "entryZone": [
       0.95,
@@ -238,15 +238,21 @@
       },
       {
         "author": "insomniacxbt",
-        "summary": "MORPHO 'nice flip on the daily' — included in short list of coins holding up well alongside HYPE, ZRO, VVV",
+        "summary": "MORPHO 'nice flip on the daily' \u2014 included in short list of coins holding up well alongside HYPE, ZRO, VVV",
         "stance": "agrees",
         "url": "https://x.com/insomniacxbt/status/2028521250809872621"
       },
       {
         "author": "insomniacxbt",
-        "summary": "MORPHO green on the day in sea of red while AAVE weakens — relative strength confirming institutional preference thesis",
+        "summary": "MORPHO green on the day in sea of red while AAVE weakens \u2014 relative strength confirming institutional preference thesis",
         "stance": "agrees",
         "url": "https://x.com/insomniacxbt/status/2028955044482302272"
+      },
+      {
+        "author": "insomniacxbt",
+        "summary": "Reaffirms MORPHO as showing strength alongside HYPE, ZRO, TAO \u2014 continued conviction in bear market resilience",
+        "stance": "agrees",
+        "url": "https://x.com/insomniacxbt/status/2031409959616024672"
       }
     ]
   },
@@ -281,7 +287,7 @@
     "id": "long-lit",
     "ticker": "LIT",
     "direction": "long",
-    "thesis": "Lighter.xyz — HYPE challenger perp DEX with $920M Circle USDC revenue-share deal. Asymmetric risk/reward.",
+    "thesis": "Lighter.xyz \u2014 HYPE challenger perp DEX with $920M Circle USDC revenue-share deal. Asymmetric risk/reward.",
     "timeframe": "6-12 months",
     "entryZone": [
       1.1,
@@ -309,25 +315,25 @@
       },
       {
         "author": "izebel_eth",
-        "summary": "Defends Lighter after whale fat-finger event — handled smoothly in prod, whale organic usage validates real adoption",
+        "summary": "Defends Lighter after whale fat-finger event \u2014 handled smoothly in prod, whale organic usage validates real adoption",
         "stance": "agrees",
         "url": "https://x.com/izebel_eth/status/2027086786036744557"
       },
       {
         "author": "izebel_eth",
-        "summary": "Working with Lighter team in person — 'incredibly competent team that mkt misprices because it can't distinguish between not-HL perp dex teams'",
+        "summary": "Working with Lighter team in person \u2014 'incredibly competent team that mkt misprices because it can't distinguish between not-HL perp dex teams'",
         "stance": "agrees",
         "url": "https://x.com/izebel_eth/status/2029466104708645162"
       },
       {
         "author": "insomniacxbt",
-        "summary": "LIT 'just a waterfall down' — bearish alongside VVV 'cooked' and ETH/SOL structurally worse. Only BTC looks alright",
+        "summary": "LIT 'just a waterfall down' \u2014 bearish alongside VVV 'cooked' and ETH/SOL structurally worse. Only BTC looks alright",
         "stance": "disagrees",
         "url": "https://x.com/insomniacxbt/status/2029678205473542284"
       },
       {
         "author": "Pivot922",
-        "summary": "Bearish LIT — could have shorted Jan 1 and walked away without monitoring. Consistent downtrend",
+        "summary": "Bearish LIT \u2014 could have shorted Jan 1 and walked away without monitoring. Consistent downtrend",
         "stance": "disagrees",
         "url": "https://x.com/Pivot922/status/2031073941599494564"
       }
@@ -371,25 +377,25 @@
       },
       {
         "author": "insomniacxbt",
-        "summary": "Active VVV buyer — 'one of the stronger AI coins getting actual traction in mainstream AI circles, 1 year of accumulation'",
+        "summary": "Active VVV buyer \u2014 'one of the stronger AI coins getting actual traction in mainstream AI circles, 1 year of accumulation'",
         "stance": "agrees",
         "url": "https://x.com/insomniacxbt/status/2027258322123194642"
       },
       {
         "author": "insomniacxbt",
-        "summary": "VVV > virtuals and tao — 30K API users, real-world usage, chart breaking out of 1yr accumulation. 'One chair'",
+        "summary": "VVV > virtuals and tao \u2014 30K API users, real-world usage, chart breaking out of 1yr accumulation. 'One chair'",
         "stance": "agrees",
         "url": "https://x.com/insomniacxbt/status/2027835519997194546"
       },
       {
         "author": "insomniacxbt",
-        "summary": "VVV 'played out' — still thinks higher but only reducing from here. +80% move. Stance shifting from active accumulation to profit-taking",
+        "summary": "VVV 'played out' \u2014 still thinks higher but only reducing from here. +80% move. Stance shifting from active accumulation to profit-taking",
         "stance": "neutral",
         "url": "https://x.com/insomniacxbt/status/2028521250809872621"
       },
       {
         "author": "insomniacxbt",
-        "summary": "VVV 'looks cooked' — stance shift from active buyer to bearish. Part of multi-asset scan where only BTC looks alright",
+        "summary": "VVV 'looks cooked' \u2014 stance shift from active buyer to bearish. Part of multi-asset scan where only BTC looks alright",
         "stance": "disagrees",
         "url": "https://x.com/insomniacxbt/status/2029678205473542284"
       }
@@ -399,7 +405,7 @@
     "id": "long-photonics-basket",
     "ticker": "AAOI",
     "direction": "long",
-    "thesis": "Photonics is the current AI supply chain bottleneck. Laser shortage with >1yr lead times. Hyperscaler demand exceeds manufacturing capacity. CPO transition driving 10x demand increase. Made-in-USA tariff advantage vs Chinese competitors (Innolight, Eoptolink). Basket approach: COHR (highest conviction), LITE (long-term), AAOI (highest risk/reward — $456M FY rev → $4.5B ARR target by mid-2027 = 900%+ growth), MRVL (best R/R at $79). Upstream plays: AXTI (indium phosphide), IQE (epiwafer supplier). AAOI = 'early SNDK' — bottleneck company getting repriced. In-house laser manufacturing, tripling TX capacity. 3 hyperscale customers each >10% revenue. FY2026 guidance >$1B rev + >$120M non-GAAP operating profit. Gross margins targeting 35-38% by mid-2027 → 40% by Q4 2027.",
+    "thesis": "Photonics is the current AI supply chain bottleneck. Laser shortage with >1yr lead times. Hyperscaler demand exceeds manufacturing capacity. CPO transition driving 10x demand increase. Made-in-USA tariff advantage vs Chinese competitors (Innolight, Eoptolink). Basket approach: COHR (highest conviction), LITE (long-term), AAOI (highest risk/reward \u2014 $456M FY rev \u2192 $4.5B ARR target by mid-2027 = 900%+ growth), MRVL (best R/R at $79). Upstream plays: AXTI (indium phosphide), IQE (epiwafer supplier). AAOI = 'early SNDK' \u2014 bottleneck company getting repriced. In-house laser manufacturing, tripling TX capacity. 3 hyperscale customers each >10% revenue. FY2026 guidance >$1B rev + >$120M non-GAAP operating profit. Gross margins targeting 35-38% by mid-2027 \u2192 40% by Q4 2027.",
     "timeframe": "12-18 months",
     "entryZone": [
       48,
@@ -423,33 +429,27 @@
       },
       {
         "author": "crux_capital_",
-        "summary": "Post-earnings: 'AAOI call INSANE — narrative shifting from traditional hardware vendor to pure datacenter supplier. If they execute, massive re-rate. Market should price this over $100 fast.' Bought at highs during call, making it largest position. Won't settle for less than 5-bagger from ~$30 entry",
+        "summary": "Post-earnings: 'AAOI call INSANE \u2014 narrative shifting from traditional hardware vendor to pure datacenter supplier. If they execute, massive re-rate. Market should price this over $100 fast.' Bought at highs during call, making it largest position. Won't settle for less than 5-bagger from ~$30 entry",
         "stance": "agrees",
         "url": "https://x.com/crux_capital_/status/2027383413066682486"
       },
       {
         "author": "aleabitoreddit",
-        "summary": "Calls AAOI 'early SNDK' — bottleneck company getting repriced. $456M FY → $4.5B ARR by mid-2027 = 900%+ growth off $5.5B MC. Could be $25-30B MC next year. Photonics bottleneck basket: LITE, COHR, AAOI, IQE, AXTI, Yamamura. +477% YTD",
+        "summary": "Calls AAOI 'early SNDK' \u2014 bottleneck company getting repriced. $456M FY \u2192 $4.5B ARR by mid-2027 = 900%+ growth off $5.5B MC. Could be $25-30B MC next year. Photonics bottleneck basket: LITE, COHR, AAOI, IQE, AXTI, Yamamura. +477% YTD",
         "stance": "agrees",
         "url": "https://x.com/aleabitoreddit"
       },
       {
         "author": "jukan05",
-        "summary": "Morgan Stanley: NVDA Spectrum CPO switches standard for Vera Rubin NVL72 racks — 23K switch shipments 2026, quadrupling to 90K by 2028. CPO demand validates photonics thesis",
+        "summary": "Morgan Stanley: NVDA Spectrum CPO switches standard for Vera Rubin NVL72 racks \u2014 23K switch shipments 2026, quadrupling to 90K by 2028. CPO demand validates photonics thesis",
         "stance": "agrees",
         "url": "https://x.com/jukan05/status/2029124823595794834"
       },
       {
         "author": "benitoz",
-        "summary": "The Great Photonic Divergence — Keysight and AAOI confirm laser shortage thesis. AAOI building earned monopoly in AI datacenter lasers",
+        "summary": "The Great Photonic Divergence \u2014 Keysight and AAOI confirm laser shortage thesis. AAOI building earned monopoly in AI datacenter lasers",
         "stance": "agrees",
         "url": "https://x.com/benitoz/status/2027492052171358560"
-      },
-      {
-        "author": "crux_capital_",
-        "summary": "AAOI/COHR/LITE rallying despite SPY -1% and geopolitical tension. Post-earnings: execution risk mitigated by aggressive capex and demand landscape",
-        "stance": "agrees",
-        "url": "https://x.com/crux_capital_/status/2028845554156110175"
       },
       {
         "author": "jukan05",
@@ -459,13 +459,13 @@
       },
       {
         "author": "crux_capital_",
-        "summary": "Lumentum confirms massive InP laser supply-demand imbalance — validates LITE & ALMU as beneficiaries of photonics bottleneck. Deposit checks just get forwarded",
+        "summary": "Lumentum confirms massive InP laser supply-demand imbalance \u2014 validates LITE & ALMU as beneficiaries of photonics bottleneck. Deposit checks just get forwarded",
         "stance": "agrees",
         "url": "https://x.com/crux_capital_/status/2028885302782345658"
       },
       {
         "author": "benitoz",
-        "summary": "Lumentum CEO confirms NVIDIA locked up InP supply from both Lumentum AND Coherent — the two major global suppliers. Photonics supply crisis deepening",
+        "summary": "Lumentum CEO confirms NVIDIA locked up InP supply from both Lumentum AND Coherent \u2014 the two major global suppliers. Photonics supply crisis deepening",
         "stance": "agrees",
         "url": "https://x.com/benitoz/status/2028556432250118520"
       },
@@ -474,6 +474,12 @@
         "summary": "$4B from Jensen into photonics. LITE and COHR join S&P 500. Credo triples revenue. Marvell +18%. AI optics supercycle accelerating",
         "stance": "agrees",
         "url": "https://x.com/benitoz/status/2030345458179289278"
+      },
+      {
+        "author": "Citrini7",
+        "summary": "Sold AAOI for 13x gain \u2014 exited position. Immediately regretted as AAOI continued rallying. Confirms thesis strength but key backer no longer holds",
+        "stance": "neutral",
+        "url": "https://x.com/Citrini7/status/2031470383388364857"
       }
     ]
   },
@@ -504,55 +510,55 @@
       },
       {
         "author": "TheShortBear",
-        "summary": "Adding ETH — 'biggest benefactor of AI and the disruption we saw'. Contrarian bull from a known bear",
+        "summary": "Adding ETH \u2014 'biggest benefactor of AI and the disruption we saw'. Contrarian bull from a known bear",
         "stance": "disagrees",
         "url": "https://x.com/TheShortBear/status/2026677983285567775"
       },
       {
         "author": "lBattleRhino",
-        "summary": "ETH deviated range high with OI ramping — fading breakouts has been the winning strat. Content to be patient, not chasing",
+        "summary": "ETH deviated range high with OI ramping \u2014 fading breakouts has been the winning strat. Content to be patient, not chasing",
         "stance": "agrees",
         "url": "https://x.com/lBattleRhino/status/2029356978016010653"
       },
       {
         "author": "lBattleRhino",
-        "summary": "Reconfirms 60-72K BTC / 1700s-2150 ETH range. No desire for spot holdings — purely trading perps",
+        "summary": "Reconfirms 60-72K BTC / 1700s-2150 ETH range. No desire for spot holdings \u2014 purely trading perps",
         "stance": "agrees",
         "url": "https://x.com/lBattleRhino/status/2027199110303096958"
       },
       {
         "author": "0xbigmikey",
-        "summary": "15% ETH pump into NVDA earnings in a downtrend too good to pass — adding new swing short with SL at range highs",
+        "summary": "15% ETH pump into NVDA earnings in a downtrend too good to pass \u2014 adding new swing short with SL at range highs",
         "stance": "agrees",
         "url": "https://x.com/0xbigmikey/status/2026709038411493430"
       },
       {
         "author": "TheShortBear",
-        "summary": "Fully out of stocks for 2 weeks, focusing on ETH — sees ETH as biggest benefactor of AI disruption. Contrarian bull",
+        "summary": "Fully out of stocks for 2 weeks, focusing on ETH \u2014 sees ETH as biggest benefactor of AI disruption. Contrarian bull",
         "stance": "disagrees",
         "url": "https://x.com/TheShortBear/status/2026668230387933392"
       },
       {
         "author": "0xbigmikey",
-        "summary": "Warns crypto relative strength vs stocks is misleading — just another range in downtrend before legging lower",
+        "summary": "Warns crypto relative strength vs stocks is misleading \u2014 just another range in downtrend before legging lower",
         "stance": "agrees",
         "url": "https://x.com/0xbigmikey/status/2028858063587782922"
       },
       {
         "author": "insomniacxbt",
-        "summary": "Plans to long ETH soon — sees bottom forming. Contrarian to short thesis",
+        "summary": "Plans to long ETH soon \u2014 sees bottom forming. Contrarian to short thesis",
         "stance": "disagrees",
         "url": "https://x.com/insomniacxbt/status/2028691723837169955"
       },
       {
         "author": "0xbigmikey",
-        "summary": "New short ETH at 2090, SL 2150 — range high fakeout setup too good to pass up even on vacation",
+        "summary": "New short ETH at 2090, SL 2150 \u2014 range high fakeout setup too good to pass up even on vacation",
         "stance": "agrees",
         "url": "https://x.com/0xbigmikey/status/2029211119471006010"
       },
       {
         "author": "0xbigmikey",
-        "summary": "Still short ETH — above 2200 will step aside. Not going to fight market if downside doesnt materialize soon, but conviction remains",
+        "summary": "Still short ETH \u2014 above 2200 will step aside. Not going to fight market if downside doesnt materialize soon, but conviction remains",
         "stance": "agrees",
         "url": "https://x.com/0xbigmikey/status/2031291688409280568"
       }
@@ -591,43 +597,43 @@
       },
       {
         "author": "0xbigmikey",
-        "summary": "Still giga bearish crypto — but if Saylor/Lee don't get wiped out, downside AND upside limited. Crypto 'extremely uninteresting' until big retards cleared. Bearish = BTC dominance holds",
+        "summary": "Still giga bearish crypto \u2014 but if Saylor/Lee don't get wiped out, downside AND upside limited. Crypto 'extremely uninteresting' until big retards cleared. Bearish = BTC dominance holds",
         "stance": "agrees",
         "url": "https://x.com/0xbigmikey/status/2030896052216148232"
       },
       {
         "author": "intocryptoverse",
-        "summary": "Crypto stays weak until Fed's hand is forced — won't happen with stocks at ATH. Stocks weakening is prerequisite for Fed pivot. BTC dominance framework intact",
+        "summary": "Crypto stays weak until Fed's hand is forced \u2014 won't happen with stocks at ATH. Stocks weakening is prerequisite for Fed pivot. BTC dominance framework intact",
         "stance": "agrees",
         "url": "https://x.com/intocryptoverse/status/2029766167519449570"
       },
       {
         "author": "insomniacxbt",
-        "summary": "Alts didn't go up with majors — either early or alts about to leg down if majors retrace. Failed breakout signal",
+        "summary": "Alts didn't go up with majors \u2014 either early or alts about to leg down if majors retrace. Failed breakout signal",
         "stance": "agrees",
         "url": "https://x.com/insomniacxbt/status/2029468656514793715"
       },
       {
         "author": "intocryptoverse",
-        "summary": "Called March BTC rally a month in advance as short-lived lower high to fade — confirmed. Every cycle ends up being the same. Bears vindicated",
+        "summary": "Called March BTC rally a month in advance as short-lived lower high to fade \u2014 confirmed. Every cycle ends up being the same. Bears vindicated",
         "stance": "agrees",
         "url": "https://x.com/intocryptoverse/status/2030355665533690076"
       },
       {
         "author": "lBattleRhino",
-        "summary": "Port nearly entirely cash — won't buy until BTC at range low or stocks have real drawdown. No desire for spot crypto holdings",
+        "summary": "Port nearly entirely cash \u2014 won't buy until BTC at range low or stocks have real drawdown. No desire for spot crypto holdings",
         "stance": "agrees",
         "url": "https://x.com/lBattleRhino/status/2030727408740147516"
       },
       {
         "author": "0xbigmikey",
-        "summary": "Never felt so strongly about market being mispriced — almost everything should reprice down. Giving it a few weeks of leeway before stepping aside",
+        "summary": "Never felt so strongly about market being mispriced \u2014 almost everything should reprice down. Giving it a few weeks of leeway before stepping aside",
         "stance": "agrees",
         "url": "https://x.com/0xbigmikey/status/2031319010273325474"
       },
       {
         "author": "PlutonicXBT",
-        "summary": "Equities weakness not exclusively from Iran conflict — positioning and structural issues. Today reversion candle a gift for bears not bulls. Mayday March",
+        "summary": "Equities weakness not exclusively from Iran conflict \u2014 positioning and structural issues. Today reversion candle a gift for bears not bulls. Mayday March",
         "stance": "agrees",
         "url": "https://x.com/PlutonicXBT/status/2031022314914295955"
       }
@@ -660,13 +666,13 @@
       },
       {
         "author": "insomniacxbt",
-        "summary": "SOL looks structurally worse than BTC — bearish relative strength assessment across majors",
+        "summary": "SOL looks structurally worse than BTC \u2014 bearish relative strength assessment across majors",
         "stance": "agrees",
         "url": "https://x.com/insomniacxbt/status/2029678205473542284"
       },
       {
         "author": "outpxce",
-        "summary": "Failed breakout on BTC — playing more defensively. Needs Iran conflict to resolve before risk-on. Bearish alts including SOL",
+        "summary": "Failed breakout on BTC \u2014 playing more defensively. Needs Iran conflict to resolve before risk-on. Bearish alts including SOL",
         "stance": "agrees",
         "url": "https://x.com/outpxce/status/2029876731545350501"
       },
@@ -678,25 +684,25 @@
       },
       {
         "author": "lBattleRhino",
-        "summary": "Nearly entirely cash — crypto did obvious range high deviation back to range bound. Won't buy spot until real drawdown",
+        "summary": "Nearly entirely cash \u2014 crypto did obvious range high deviation back to range bound. Won't buy spot until real drawdown",
         "stance": "agrees",
         "url": "https://x.com/lBattleRhino/status/2030727126782230585"
       },
       {
         "author": "lBattleRhino",
-        "summary": "Crypto uninteresting to short now — too much devastation already suffered, BTC 50-60K has huge support clusters. Stance shift from pure bear to acknowledging limited downside",
+        "summary": "Crypto uninteresting to short now \u2014 too much devastation already suffered, BTC 50-60K has huge support clusters. Stance shift from pure bear to acknowledging limited downside",
         "stance": "disagrees",
         "url": "https://x.com/lBattleRhino/status/2030804783188373814"
       },
       {
         "author": "insomniacxbt",
-        "summary": "Does not make sense to own SOL over HYPE — what Solana wanted to be, HYPE has done. Direct comparison favoring HYPE",
+        "summary": "Does not make sense to own SOL over HYPE \u2014 what Solana wanted to be, HYPE has done. Direct comparison favoring HYPE",
         "stance": "agrees",
         "url": "https://x.com/insomniacxbt/status/2031104995542839762"
       },
       {
         "author": "PlutonicXBT",
-        "summary": "Many will assume equities weakness was exclusively Iran — actually positioning driven. Reversion candle a gift for bears. Expect continuation lower",
+        "summary": "Many will assume equities weakness was exclusively Iran \u2014 actually positioning driven. Reversion candle a gift for bears. Expect continuation lower",
         "stance": "agrees",
         "url": "https://x.com/PlutonicXBT/status/2031065950569771162"
       }
@@ -718,7 +724,7 @@
     "sources": [
       {
         "author": "KobeissiLetter",
-        "summary": "Market stress spread (avg stock vol vs index vol) at 18pts — highest since 2008. Many sectors experiencing significant dispersion beneath the surface",
+        "summary": "Market stress spread (avg stock vol vs index vol) at 18pts \u2014 highest since 2008. Many sectors experiencing significant dispersion beneath the surface",
         "stance": "agrees",
         "url": "https://x.com/KobeissiLetter/status/2030315789430239380"
       },
@@ -736,27 +742,21 @@
       },
       {
         "author": "Citrini7",
-        "summary": "Violent deleveraging events seldom limited to a single session — held off aggressive dip buying on KOSPI/Nikkei selloff. Expects continuation",
+        "summary": "Violent deleveraging events seldom limited to a single session \u2014 held off aggressive dip buying on KOSPI/Nikkei selloff. Expects continuation",
         "stance": "agrees",
         "url": "https://x.com/Citrini7/status/2028949673797402631"
       },
       {
         "author": "KobeissiLetter",
-        "summary": "2nd largest monthly job loss since pandemic (-92K NFP), oil +60% in 4mo to 2yr high, gas +20%, PPI up — full stagflation setup",
+        "summary": "2nd largest monthly job loss since pandemic (-92K NFP), oil +60% in 4mo to 2yr high, gas +20%, PPI up \u2014 full stagflation setup",
         "stance": "agrees",
         "url": "https://x.com/KobeissiLetter/status/2029933520626348114"
       },
       {
         "author": "intocryptoverse",
-        "summary": "Oil rising in late business cycle is supply-driven, not demand — poses risk of ending the cycle. Not about oil itself but what it signals for macro",
+        "summary": "Oil rising in late business cycle is supply-driven, not demand \u2014 poses risk of ending the cycle. Not about oil itself but what it signals for macro",
         "stance": "agrees",
         "url": "https://x.com/intocryptoverse/status/2029208287808209168"
-      },
-      {
-        "author": "abcampbell",
-        "summary": "The Strip vs the Strait — 70s oil shock parallel suggests end of cycle. Comparing current Iran/oil dynamics to historical cycle-ending energy shocks",
-        "stance": "agrees",
-        "url": "https://x.com/abcampbell/status/2030697258614935831"
       },
       {
         "author": "TheShortBear",
@@ -766,15 +766,21 @@
       },
       {
         "author": "Citrini7",
-        "summary": "Oil ripping has historically been a 'the cycle is close to being over' signal — harder to buy dips when energy surging",
+        "summary": "Oil ripping has historically been a 'the cycle is close to being over' signal \u2014 harder to buy dips when energy surging",
         "stance": "agrees",
         "url": "https://x.com/Citrini7/status/2030024641540952423"
       },
       {
         "author": "PlutonicXBT",
-        "summary": "Equities weakness not exclusively Iran — positioning and structural. Many got rinsed staying long since January, now chasing reversion candle. Gift for bears",
+        "summary": "Equities weakness not exclusively Iran \u2014 positioning and structural. Many got rinsed staying long since January, now chasing reversion candle. Gift for bears",
         "stance": "agrees",
         "url": "https://x.com/PlutonicXBT/status/2031022314914295955"
+      },
+      {
+        "author": "KobeissiLetter",
+        "summary": "Oil biggest intraday swing on record (-$35 to sub-$80). Iran deploying Strait of Hormuz mines pushed it back above $85. Extreme vol = macro instability persists",
+        "stance": "agrees",
+        "url": "https://x.com/KobeissiLetter/status/2031434429558829186"
       }
     ]
   },
@@ -800,7 +806,7 @@
     "sources": [
       {
         "author": "GavinSBaker",
-        "summary": "NVDA not in valuation bubble — market prices local earnings peak. Watts+wafers prevent overbuild. GPU useful life 6+ years. H100 rental prices going vertical",
+        "summary": "NVDA not in valuation bubble \u2014 market prices local earnings peak. Watts+wafers prevent overbuild. GPU useful life 6+ years. H100 rental prices going vertical",
         "stance": "disagrees",
         "url": "https://x.com/GavinSBaker/status/2026719209158271230"
       },
@@ -812,19 +818,19 @@
       },
       {
         "author": "KobeissiLetter",
-        "summary": "Trump admin preparing rule to restrict AI chip shipments globally without US approval — companies must seek licenses for all exports",
+        "summary": "Trump admin preparing rule to restrict AI chip shipments globally without US approval \u2014 companies must seek licenses for all exports",
         "stance": "agrees",
         "url": "https://x.com/KobeissiLetter/status/2029613365392203905"
       },
       {
         "author": "jukan05",
-        "summary": "Biggest mistake this year was holding NVDA — should have bought Korean stocks instead. Bearish on NVDA relative performance",
+        "summary": "Biggest mistake this year was holding NVDA \u2014 should have bought Korean stocks instead. Bearish on NVDA relative performance",
         "stance": "agrees",
         "url": "https://x.com/jukan05/status/2027032116614287439"
       },
       {
         "author": "jukan05",
-        "summary": "Meta adopting Google TPUs at multi-billion-dollar scale — questions future of NVIDIA GPU orders and MTIA custom silicon",
+        "summary": "Meta adopting Google TPUs at multi-billion-dollar scale \u2014 questions future of NVIDIA GPU orders and MTIA custom silicon",
         "stance": "agrees",
         "url": "https://x.com/jukan05/status/2027164733326123391"
       },
@@ -836,25 +842,25 @@
       },
       {
         "author": "jukan05",
-        "summary": "NVDA-acquired Groq ramping production at Samsung Foundry — $20B acquisition moving to scale. Additive TAM for NVDA inference",
+        "summary": "NVDA-acquired Groq ramping production at Samsung Foundry \u2014 $20B acquisition moving to scale. Additive TAM for NVDA inference",
         "stance": "disagrees",
         "url": "https://x.com/jukan05/status/2030964760993579394"
       },
       {
         "author": "jukan05",
-        "summary": "Iran crisis could cut off helium imports — semiconductor stocks -10%. Supply chain risk to GPU manufacturing",
+        "summary": "Iran crisis could cut off helium imports \u2014 semiconductor stocks -10%. Supply chain risk to GPU manufacturing",
         "stance": "agrees",
         "url": "https://x.com/jukan05/status/2030833754739229025"
       },
       {
         "author": "Citrini7",
-        "summary": "Higher oil/JKM LNG prices risk slowing hyperscaler capex — consumers slow down, lending slows, capex gets cut. Electricity costs rising across the board",
+        "summary": "Higher oil/JKM LNG prices risk slowing hyperscaler capex \u2014 consumers slow down, lending slows, capex gets cut. Electricity costs rising across the board",
         "stance": "agrees",
         "url": "https://x.com/Citrini7/status/2030532625706705085"
       },
       {
         "author": "benitoz",
-        "summary": "GPU availability at multi-year lows — B200 <5%, H100 collapsing. Compute demand surging. NVIDIA GTC next week. Secular demand story dominates over oil headlines",
+        "summary": "GPU availability at multi-year lows \u2014 B200 <5%, H100 collapsing. Compute demand surging. NVIDIA GTC next week. Secular demand story dominates over oil headlines",
         "stance": "disagrees",
         "url": "https://x.com/benitoz/status/2031360066146939232"
       }
@@ -881,30 +887,30 @@
       },
       {
         "author": "Citrini",
-        "summary": "Intelligence crisis framework: cheap AI labor → gig economy margin compression",
+        "summary": "Intelligence crisis framework: cheap AI labor \u2192 gig economy margin compression",
         "stance": "agrees"
       },
       {
         "author": "apewoodx",
-        "summary": "Labor market is now about identity/sense-of-self, not productivity — displacement creates existential crisis beyond just economics",
+        "summary": "Labor market is now about identity/sense-of-self, not productivity \u2014 displacement creates existential crisis beyond just economics",
         "stance": "agrees",
         "url": "https://x.com/apewoodx/status/2027430608524181819"
       },
       {
         "author": "PlutonicXBT",
-        "summary": "Cracks showing everywhere — crypto, small caps, software, private credit falling as liquidity recedes. Financials and tech at do-or-die support",
+        "summary": "Cracks showing everywhere \u2014 crypto, small caps, software, private credit falling as liquidity recedes. Financials and tech at do-or-die support",
         "stance": "agrees",
         "url": "https://x.com/PlutonicXBT/status/2029696594065731874"
       },
       {
         "author": "howdymerry",
-        "summary": "Harvey AI worse experience than raw ChatGPT. PwC only uses OpenAI enterprise, no AI SaaS startups. Leaves only SMBs and consumers — validates AI displacing B2B middlemen",
+        "summary": "Harvey AI worse experience than raw ChatGPT. PwC only uses OpenAI enterprise, no AI SaaS startups. Leaves only SMBs and consumers \u2014 validates AI displacing B2B middlemen",
         "stance": "agrees",
         "url": "https://x.com/howdymerry/status/2030485176107847855"
       },
       {
         "author": "zephyr_z9",
-        "summary": "Wave of force majeure declarations across chemical industry due to Iran war — supply chain disruption cascading through economy",
+        "summary": "Wave of force majeure declarations across chemical industry due to Iran war \u2014 supply chain disruption cascading through economy",
         "stance": "agrees",
         "url": "https://x.com/zephyr_z9/status/2031048186878640231"
       }
@@ -936,49 +942,49 @@
       },
       {
         "author": "KobeissiLetter",
-        "summary": "2nd largest monthly job loss since pandemic (-92K NFP), oil +60% in 4mo, gas +20%, PPI up — stagflationary setup crushing consumer",
+        "summary": "2nd largest monthly job loss since pandemic (-92K NFP), oil +60% in 4mo, gas +20%, PPI up \u2014 stagflationary setup crushing consumer",
         "stance": "agrees",
         "url": "https://x.com/KobeissiLetter/status/2029933520626348114"
       },
       {
         "author": "KobeissiLetter",
-        "summary": "Private credit BDCs trading at 0.73x NAV — lowest since 2020. Credit stress building beneath the surface",
+        "summary": "Private credit BDCs trading at 0.73x NAV \u2014 lowest since 2020. Credit stress building beneath the surface",
         "stance": "agrees",
         "url": "https://x.com/KobeissiLetter/status/2030076245304602734"
       },
       {
         "author": "KobeissiLetter",
-        "summary": "ISM Manufacturing PMI at 47.9 — 10th consecutive monthly contraction. Only 11% of industries reporting growth",
+        "summary": "ISM Manufacturing PMI at 47.9 \u2014 10th consecutive monthly contraction. Only 11% of industries reporting growth",
         "stance": "agrees",
         "url": "https://x.com/KobeissiLetter/status/2030331140830314605"
       },
       {
         "author": "KobeissiLetter",
-        "summary": "Finance job openings fell -117K to 134K — lowest since Feb 2012. Down -410K (-75%) from 2022 peak. Below pandemic levels",
+        "summary": "Finance job openings fell -117K to 134K \u2014 lowest since Feb 2012. Down -410K (-75%) from 2022 peak. Below pandemic levels",
         "stance": "agrees",
         "url": "https://x.com/KobeissiLetter/status/2030537469867802883"
       },
       {
         "author": "abcampbell",
-        "summary": "Watch credit — recessions don't start from vibes, they start from credit cycles. HYG/LQD/HYGH flashing stress",
+        "summary": "Watch credit \u2014 recessions don't start from vibes, they start from credit cycles. HYG/LQD/HYGH flashing stress",
         "stance": "agrees",
         "url": "https://x.com/abcampbell/status/2030351699941208346"
       },
       {
         "author": "PlutonicXBT",
-        "summary": "Spent weekend with Wall Street guy — 'everyone is bearish' narrative is laughable. Not a shred of fear among big money. Market complacency supports contrarian short thesis",
+        "summary": "Spent weekend with Wall Street guy \u2014 'everyone is bearish' narrative is laughable. Not a shred of fear among big money. Market complacency supports contrarian short thesis",
         "stance": "agrees",
         "url": "https://x.com/PlutonicXBT/status/2030712504930935188"
       },
       {
         "author": "KobeissiLetter",
-        "summary": "Iraq oil production collapsed from 4.3M to 1.3M bpd — 3M bpd offline. No de-escalation signs. Oil ripping into consumer squeeze",
+        "summary": "Iraq oil production collapsed from 4.3M to 1.3M bpd \u2014 3M bpd offline. No de-escalation signs. Oil ripping into consumer squeeze",
         "stance": "agrees",
         "url": "https://x.com/KobeissiLetter/status/2030663580836577375"
       },
       {
         "author": "PlutonicXBT",
-        "summary": "Oil prices will remain high — can't stimulate to prop the market without runaway inflation. Bulls' only refuge is a pump from vol crush",
+        "summary": "Oil prices will remain high \u2014 can't stimulate to prop the market without runaway inflation. Bulls' only refuge is a pump from vol crush",
         "stance": "agrees",
         "url": "https://x.com/PlutonicXBT/status/2030788324471005348"
       }
@@ -988,7 +994,7 @@
     "id": "short-mu",
     "ticker": "MU",
     "direction": "short",
-    "thesis": "Commodity memory cycle top. SMIC CEO expects Q3 2026 reversal — new fabs flood consumer market + channel inventory liquidation = double whammy. China supply (CXMT/YMTC) hits global prices.",
+    "thesis": "Commodity memory cycle top. SMIC CEO expects Q3 2026 reversal \u2014 new fabs flood consumer market + channel inventory liquidation = double whammy. China supply (CXMT/YMTC) hits global prices.",
     "timeframe": "6-12 months",
     "entryZone": [
       100,
@@ -1023,45 +1029,51 @@
       },
       {
         "author": "jukan05",
-        "summary": "Samsung & SK Hynix proposing 2x DRAM price increases for Q2 renewals — supercycle narrative strengthening, prices surging through next year",
+        "summary": "Samsung & SK Hynix proposing 2x DRAM price increases for Q2 renewals \u2014 supercycle narrative strengthening, prices surging through next year",
         "stance": "disagrees",
         "url": "https://x.com/jukan05/status/2027315694078210525"
       },
       {
         "author": "jukan05",
-        "summary": "KOSPI fell on reports of NVDA Groq inference chip using on-chip SRAM architecture — threatens HBM/DRAM demand if inference shifts away from memory-heavy designs",
+        "summary": "KOSPI fell on reports of NVDA Groq inference chip using on-chip SRAM architecture \u2014 threatens HBM/DRAM demand if inference shifts away from memory-heavy designs",
         "stance": "agrees",
         "url": "https://x.com/jukan05/status/2029344714533814418"
       },
       {
         "author": "jukan05",
-        "summary": "Iran crisis threatens helium supply to semiconductor fabs — Samsung/SK Hynix -10% at open. New supply chain risk vector for memory",
+        "summary": "Iran crisis threatens helium supply to semiconductor fabs \u2014 Samsung/SK Hynix -10% at open. New supply chain risk vector for memory",
         "stance": "agrees",
         "url": "https://x.com/jukan05/status/2030833754739229025"
       },
       {
         "author": "jukan05",
-        "summary": "NAND companies will record higher profit margins than NVIDIA this year — Samsung & SK margins forecast at 70%+",
+        "summary": "NAND companies will record higher profit margins than NVIDIA this year \u2014 Samsung & SK margins forecast at 70%+",
         "stance": "disagrees",
         "url": "https://x.com/jukan05/status/2028366919523594590"
       },
       {
         "author": "jukan05",
-        "summary": "Micron dropped from HBM4 supply chain for NVIDIA Vera Rubin — only Samsung and SK Hynix selected. MU limited to older Rubin only",
+        "summary": "Micron dropped from HBM4 supply chain for NVIDIA Vera Rubin \u2014 only Samsung and SK Hynix selected. MU limited to older Rubin only",
         "stance": "agrees",
         "url": "https://x.com/jukan05/status/2030581871479054716"
       },
       {
         "author": "jukan05",
-        "summary": "Flipping: memory pricing will cool off — hyperscalers complaining they are out of money. Samsung/SK Hynix -8% Black Tuesday",
+        "summary": "Flipping: memory pricing will cool off \u2014 hyperscalers complaining they are out of money. Samsung/SK Hynix -8% Black Tuesday",
         "stance": "agrees",
         "url": "https://x.com/jukan05/status/2028803497630835049"
       },
       {
         "author": "jukan05",
-        "summary": "Lenovo adopting CXMT LPCAMM2 DRAM modules — Chinese domestic firms increasing CXMT share in products, validating China supply competition thesis",
+        "summary": "Lenovo adopting CXMT LPCAMM2 DRAM modules \u2014 Chinese domestic firms increasing CXMT share in products, validating China supply competition thesis",
         "stance": "agrees",
         "url": "https://x.com/jukan05/status/2029740041224982809"
+      },
+      {
+        "author": "Citrini7",
+        "summary": "Vouches for jukan05 being quite bullish on entire memory complex \u2014 told Citrini multiple times. Cross-validates jukan disagree sources",
+        "stance": "disagrees",
+        "url": "https://x.com/Citrini7/status/2030727757991190905"
       }
     ]
   },
@@ -1087,7 +1099,7 @@
       },
       {
         "author": "MarkosAAIG",
-        "summary": "HBF standardization gives SNDK AI-adjacent NAND use case — partially offsets commodity bear case",
+        "summary": "HBF standardization gives SNDK AI-adjacent NAND use case \u2014 partially offsets commodity bear case",
         "stance": "disagrees",
         "url": "https://x.com/MarkosAAIG/status/2026836873595765216"
       },
@@ -1098,7 +1110,7 @@
       },
       {
         "author": "jukan05",
-        "summary": "NAND prices hiked 500%, Phison shifts to prepayment model. Supply remains tight — cycle extending not ending",
+        "summary": "NAND prices hiked 500%, Phison shifts to prepayment model. Supply remains tight \u2014 cycle extending not ending",
         "stance": "disagrees",
         "url": "https://x.com/jukan05/status/2028370707735032214"
       },
@@ -1116,7 +1128,7 @@
       },
       {
         "author": "jukan05",
-        "summary": "TrendForce: Q1 NAND prices expected to surge 90% — cycle extension contradicts near-term commodity bear case",
+        "summary": "TrendForce: Q1 NAND prices expected to surge 90% \u2014 cycle extension contradicts near-term commodity bear case",
         "stance": "disagrees",
         "url": "https://x.com/jukan05/status/2028978212831936589"
       },
@@ -1134,7 +1146,7 @@
       },
       {
         "author": "jukan05",
-        "summary": "Samsung planning another 100% NAND price increase in Q2 after already raising 100% in Q1 — supercycle extending",
+        "summary": "Samsung planning another 100% NAND price increase in Q2 after already raising 100% in Q1 \u2014 supercycle extending",
         "stance": "disagrees",
         "url": "https://x.com/jukan05/status/2029876663631368417"
       }
