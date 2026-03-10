@@ -149,16 +149,16 @@
         "url": "https://x.com/Pivot922/status/2029932107758223415"
       },
       {
-        "author": "based16z",
-        "summary": "HL became weekend price discovery for all assets in last 2 months — bullish fundamental adoption signal for Hyperliquid platform",
-        "stance": "agrees",
-        "url": "https://x.com/based16z/status/2030557735423508632"
-      },
-      {
         "author": "insomniacxbt",
         "summary": "HYPE needs to hold $36 for bullish structure — at strong resistance, weaker than rest of market despite growing mindshare. Gut says lower near-term",
         "stance": "disagrees",
         "url": "https://x.com/insomniacxbt/status/2029360106044043529"
+      },
+      {
+        "author": "Pivot922",
+        "summary": "Major stance shift: bearish perps but long-term HYPE will be biggest crypto asset besides BTC. Sees bear market as opportunity. Never go full cash",
+        "stance": "agrees",
+        "url": "https://x.com/Pivot922/status/2031104929524494463"
       }
     ]
   },
@@ -324,6 +324,12 @@
         "summary": "LIT 'just a waterfall down' — bearish alongside VVV 'cooked' and ETH/SOL structurally worse. Only BTC looks alright",
         "stance": "disagrees",
         "url": "https://x.com/insomniacxbt/status/2029678205473542284"
+      },
+      {
+        "author": "Pivot922",
+        "summary": "Bearish LIT — could have shorted Jan 1 and walked away without monitoring. Consistent downtrend",
+        "stance": "disagrees",
+        "url": "https://x.com/Pivot922/status/2031073941599494564"
       }
     ]
   },
@@ -545,10 +551,10 @@
         "url": "https://x.com/0xbigmikey/status/2029211119471006010"
       },
       {
-        "author": "TheShortBear",
-        "summary": "Focused exclusively on ETH via Web3 rails — sees it as biggest AI benefactor. Contrarian bull stance continues",
-        "stance": "disagrees",
-        "url": "https://x.com/TheShortBear/status/2028877768037937163"
+        "author": "0xbigmikey",
+        "summary": "Still short ETH — above 2200 will step aside. Not going to fight market if downside doesnt materialize soon, but conviction remains",
+        "stance": "agrees",
+        "url": "https://x.com/0xbigmikey/status/2031291688409280568"
       }
     ]
   },
@@ -612,6 +618,18 @@
         "summary": "Port nearly entirely cash — won't buy until BTC at range low or stocks have real drawdown. No desire for spot crypto holdings",
         "stance": "agrees",
         "url": "https://x.com/lBattleRhino/status/2030727408740147516"
+      },
+      {
+        "author": "0xbigmikey",
+        "summary": "Never felt so strongly about market being mispriced — almost everything should reprice down. Giving it a few weeks of leeway before stepping aside",
+        "stance": "agrees",
+        "url": "https://x.com/0xbigmikey/status/2031319010273325474"
+      },
+      {
+        "author": "PlutonicXBT",
+        "summary": "Equities weakness not exclusively from Iran conflict — positioning and structural issues. Today reversion candle a gift for bears not bulls. Mayday March",
+        "stance": "agrees",
+        "url": "https://x.com/PlutonicXBT/status/2031022314914295955"
       }
     ]
   },
@@ -675,6 +693,12 @@
         "summary": "Does not make sense to own SOL over HYPE — what Solana wanted to be, HYPE has done. Direct comparison favoring HYPE",
         "stance": "agrees",
         "url": "https://x.com/insomniacxbt/status/2031104995542839762"
+      },
+      {
+        "author": "PlutonicXBT",
+        "summary": "Many will assume equities weakness was exclusively Iran — actually positioning driven. Reversion candle a gift for bears. Expect continuation lower",
+        "stance": "agrees",
+        "url": "https://x.com/PlutonicXBT/status/2031065950569771162"
       }
     ]
   },
@@ -724,12 +748,6 @@
       },
       {
         "author": "intocryptoverse",
-        "summary": "WTI just had largest single weekly spike in history since it started trading in 1983. Oil shock accelerating macro stress",
-        "stance": "agrees",
-        "url": "https://x.com/intocryptoverse/status/2030334823978377377"
-      },
-      {
-        "author": "intocryptoverse",
         "summary": "Oil rising in late business cycle is supply-driven, not demand — poses risk of ending the cycle. Not about oil itself but what it signals for macro",
         "stance": "agrees",
         "url": "https://x.com/intocryptoverse/status/2029208287808209168"
@@ -751,6 +769,12 @@
         "summary": "Oil ripping has historically been a 'the cycle is close to being over' signal — harder to buy dips when energy surging",
         "stance": "agrees",
         "url": "https://x.com/Citrini7/status/2030024641540952423"
+      },
+      {
+        "author": "PlutonicXBT",
+        "summary": "Equities weakness not exclusively Iran — positioning and structural. Many got rinsed staying long since January, now chasing reversion candle. Gift for bears",
+        "stance": "agrees",
+        "url": "https://x.com/PlutonicXBT/status/2031022314914295955"
       }
     ]
   },
@@ -799,12 +823,6 @@
         "url": "https://x.com/jukan05/status/2027032116614287439"
       },
       {
-        "author": "benitoz",
-        "summary": "NVDA to unveil Groq LPU-hybrid inference chip at GTC Mar 16 — OpenAI anchor customer, model and silicon co-designed. Additive TAM bull case",
-        "stance": "disagrees",
-        "url": "https://x.com/benitoz/status/2028922664623194476"
-      },
-      {
         "author": "jukan05",
         "summary": "Meta adopting Google TPUs at multi-billion-dollar scale — questions future of NVIDIA GPU orders and MTIA custom silicon",
         "stance": "agrees",
@@ -833,6 +851,12 @@
         "summary": "Higher oil/JKM LNG prices risk slowing hyperscaler capex — consumers slow down, lending slows, capex gets cut. Electricity costs rising across the board",
         "stance": "agrees",
         "url": "https://x.com/Citrini7/status/2030532625706705085"
+      },
+      {
+        "author": "benitoz",
+        "summary": "GPU availability at multi-year lows — B200 <5%, H100 collapsing. Compute demand surging. NVIDIA GTC next week. Secular demand story dominates over oil headlines",
+        "stance": "disagrees",
+        "url": "https://x.com/benitoz/status/2031360066146939232"
       }
     ]
   },
@@ -877,6 +901,12 @@
         "summary": "Harvey AI worse experience than raw ChatGPT. PwC only uses OpenAI enterprise, no AI SaaS startups. Leaves only SMBs and consumers — validates AI displacing B2B middlemen",
         "stance": "agrees",
         "url": "https://x.com/howdymerry/status/2030485176107847855"
+      },
+      {
+        "author": "zephyr_z9",
+        "summary": "Wave of force majeure declarations across chemical industry due to Iran war — supply chain disruption cascading through economy",
+        "stance": "agrees",
+        "url": "https://x.com/zephyr_z9/status/2031048186878640231"
       }
     ]
   },
