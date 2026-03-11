@@ -130,3 +130,4 @@ The honest assessment: ETHFI is a beta play on ETH and EigenLayer. If ETH underp
 | Date | Action | Details |
 |------|--------|---------|
 | 2026-02-25 | Thesis created | Weekly review cycle. Data: CoinGecko ($0.533, mcap ~$397M), DeFiLlama (buybacks active up to $50M below $3, full token rights), X research (@100y_eth OP Mainnet expansion, Insomniac bearish ETH). Bear regime — watchlist. |
+| 2026-03-08 | Weekly review | Price: $0.519 (+3.4% WoW). Slight bounce. Insomniac: "eth and sol look structurally worse than btc" — ETH headwind persists. No restaking-specific mentions from A-grade sources. All predictions still open. Conviction unchanged at 5. |

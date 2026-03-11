@@ -136,3 +136,5 @@ The comparison to TradFi is the long-term bull case. Interest rate derivatives a
 |------|--------|---------|
 | 2026-02-18 | Thesis created | Initial write-up. Data: CoinGecko ($1.19, mcap $197M), DeFiLlama (TVL $2.56B, fee switch ON, 80% buybacks active). Deployed on 10 chains including Ethereum, Arbitrum, Base, Sonic, Berachain, Hyperliquid L1. Conviction 7 per universe.json. Bear market regime — accumulation watchlist positioning. |
 | 2026-02-25 | Weekly review | Price: $1.31 (+10.1% from thesis write). Bouncing with broader market. +10.6% on the day. Still above watch zone ($1.00-1.10). No predictions triggered. No material changes to thesis. Conviction unchanged at 7. |
+| 2026-03-01 | Weekly review | Price: $1.28 (-2.3% WoW). Essentially flat. No material changes. Still above watch zone. Conviction unchanged at 7. |
+| 2026-03-08 | Weekly review | Price: $1.19 (-7.0% WoW). Accelerating decline. Now only 8% above watch zone top ($1.10). No A-grade source mentions this week — not on anyone's radar, which could be good (under-owned) or bad (forgotten). All predictions still open. Conviction unchanged at 7. Watch for watch zone entry in coming weeks. |
