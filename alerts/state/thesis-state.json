@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-03-10T13:02:58Z",
+  "last_check": "2026-03-12T00:03:14Z",
   "zones": {
     "BTC": "above",
     "HYPE": "above",
@@ -19,7 +19,7 @@
     "FCX": "above",
     "TLT": "watch",
     "MU": "above",
-    "VNET": "buy",
+    "VNET": "watch",
     "ATI": "above",
     "HXL": "above",
     "CLF": "above",
@@ -31,6 +31,9 @@
     "ETHFI": "above",
     "SKY": "above",
     "SYRUP": "watch",
+    "AAOI": "above",
+    "LASR": "above",
+    "OII": "above",
     "VVV": "above"
   }
 }
