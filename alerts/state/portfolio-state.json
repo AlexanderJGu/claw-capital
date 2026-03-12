@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-11T22:00:09Z",
-  "total_value_usd": 288435.15,
+  "timestamp": "2026-03-12T05:00:09Z",
+  "total_value_usd": 288322.11,
   "chains": {
     "solana": {
       "total_usd": 0,
@@ -19,42 +19,42 @@
       "holdings": []
     },
     "hyperliquid_spot": {
-      "total_usd": 139153.87837454013,
+      "total_usd": 138795.2325107725,
       "holdings": [
         {
           "chain": "hyperliquid-spot",
           "token": "USDC",
-          "balance": "121748.29051719",
+          "balance": "116096.61577719",
           "price_usd": 1,
-          "value_usd": 121748.29051719
+          "value_usd": 116096.61577719
         },
         {
           "chain": "hyperliquid-spot",
           "token": "UBTC",
-          "balance": "0.2156479063",
-          "price_usd": 70692.0,
-          "value_usd": 15244.581792159599
+          "balance": "0.2967411214",
+          "price_usd": 69287.5,
+          "value_usd": 20560.4504490025
         },
         {
           "chain": "hyperliquid-spot",
           "token": "HYPE",
           "balance": "59.47859534",
-          "price_usd": 36.3325,
-          "value_usd": 2161.00606519055
+          "price_usd": 35.9485,
+          "value_usd": 2138.16628457999
         }
       ]
     },
     "hyperliquid_perps": {
-      "account_value": 149281.276503,
+      "account_value": 149526.878107,
       "details": {
-        "account_value": 149281.276503,
-        "total_margin_used": 3325.462836,
+        "account_value": 149526.878107,
+        "total_margin_used": 3571.06444,
         "positions": [
           {
             "coin": "ETH",
             "size": -4.8785,
             "entry_price": 2065.47,
-            "unrealized_pnl": -29.87104,
+            "unrealized_pnl": 216.00536,
             "value_usd": 10076.395395
           }
         ]
