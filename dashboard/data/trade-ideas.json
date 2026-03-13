@@ -398,6 +398,12 @@
         "summary": "VVV 'looks cooked' — stance shift from active buyer to bearish. Part of multi-asset scan where only BTC looks alright",
         "stance": "disagrees",
         "url": "https://x.com/insomniacxbt/status/2029678205473542284"
+      },
+      {
+        "author": "insomniacxbt",
+        "summary": "VVV +17% rally — continued conviction, listed alongside TAO as strongest performers. Still holding through bear",
+        "stance": "agrees",
+        "url": "https://x.com/insomniacxbt/status/2032471199129927994"
       }
     ]
   },
@@ -464,10 +470,10 @@
         "url": "https://x.com/crux_capital_/status/2028885302782345658"
       },
       {
-        "author": "benitoz",
-        "summary": "Lumentum CEO confirms NVIDIA locked up InP supply from both Lumentum AND Coherent — the two major global suppliers. Photonics supply crisis deepening",
+        "author": "jukan05",
+        "summary": "Fujikura investing ¥300B in optical fiber expansion in Japan & US to meet AI datacenter demand. Validates photonics infrastructure buildout thesis",
         "stance": "agrees",
-        "url": "https://x.com/benitoz/status/2028556432250118520"
+        "url": "https://x.com/jukan05/status/2032369831169900908"
       },
       {
         "author": "zephyr_z9",
@@ -860,9 +866,9 @@
       },
       {
         "author": "jukan05",
-        "summary": "NVDA-acquired Groq ramping production at Samsung Foundry — $20B acquisition moving to scale. Additive TAM for NVDA inference",
+        "summary": "Meta struggles with HBM memory shortage despite launching own AI chips — demand still exceeding supply even as hyperscalers diversify away from NVIDIA",
         "stance": "disagrees",
-        "url": "https://x.com/jukan05/status/2030964760993579394"
+        "url": "https://x.com/jukan05/status/2032368872255598793"
       },
       {
         "author": "jukan05",
@@ -931,6 +937,18 @@
         "summary": "Wave of force majeure declarations across chemical industry due to Iran war — supply chain disruption cascading through economy",
         "stance": "agrees",
         "url": "https://x.com/zephyr_z9/status/2031048186878640231"
+      },
+      {
+        "author": "TheShortBear",
+        "summary": "Economy about to crater — blaming Powell for not cutting while yields and inflation skyrocket from Iran operation. Stagflation accelerating",
+        "stance": "agrees",
+        "url": "https://x.com/TheShortBear/status/2032199410642309223"
+      },
+      {
+        "author": "KobeissiLetter",
+        "summary": "Iran war now officially largest disruption to oil supplies in history per FT. Gulf production offline, reserves declining to 1980s levels",
+        "stance": "agrees",
+        "url": "https://x.com/KobeissiLetter/status/2032145847971123452"
       }
     ]
   },
@@ -1053,21 +1071,9 @@
       },
       {
         "author": "jukan05",
-        "summary": "KOSPI fell on reports of NVDA Groq inference chip using on-chip SRAM architecture — threatens HBM/DRAM demand if inference shifts away from memory-heavy designs",
-        "stance": "agrees",
-        "url": "https://x.com/jukan05/status/2029344714533814418"
-      },
-      {
-        "author": "jukan05",
         "summary": "Iran crisis threatens helium supply to semiconductor fabs — Samsung/SK Hynix -10% at open. New supply chain risk vector for memory",
         "stance": "agrees",
         "url": "https://x.com/jukan05/status/2030833754739229025"
-      },
-      {
-        "author": "jukan05",
-        "summary": "NAND companies will record higher profit margins than NVIDIA this year — Samsung & SK margins forecast at 70%+",
-        "stance": "disagrees",
-        "url": "https://x.com/jukan05/status/2028366919523594590"
       },
       {
         "author": "jukan05",
@@ -1092,6 +1098,12 @@
         "summary": "DRAM prices surged 180%, memory shortage to last at least through H2 2026. Supply-demand imbalance intensifying around Lunar New Year with commodity DRAM/NAND prices tripling",
         "stance": "disagrees",
         "url": "https://x.com/jukan05/status/2032010321561600206"
+      },
+      {
+        "author": "jukan05",
+        "summary": "Wedbush raised Micron PT to $500 — industry pricing running well ahead of expectations. CQ1 NAND bit shipments +38% QoQ. Strong disagrees with bear thesis near-term",
+        "stance": "disagrees",
+        "url": "https://x.com/jukan05/status/2032423503849574732"
       }
     ]
   },
