@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-03-14T13:03:14Z",
+  "last_check": "2026-03-15T00:03:15Z",
   "zones": {
     "BTC": "above",
     "HYPE": "above",
@@ -27,7 +27,7 @@
     "AAVE": "watch",
     "MORPHO": "above",
     "PENDLE": "above",
-    "LIT": "below_buy",
+    "LIT": "buy",
     "ETHFI": "above",
     "SKY": "above",
     "SYRUP": "above",
