@@ -1,6 +1,6 @@
 {
-  "description": "Claw Capital Crypto Desk \u2014 Coverage Universe",
-  "last_updated": "2026-03-08",
+  "description": "Claw Capital Crypto Desk — Coverage Universe",
+  "last_updated": "2026-03-15",
   "max_tier1": 5,
   "max_total": 20,
   "assets": {
@@ -14,8 +14,8 @@
       ],
       "status": "watchlist",
       "conviction": 9,
-      "current_price_approx": 67254,
-      "price_date": "2026-03-08",
+      "current_price_approx": 71575,
+      "price_date": "2026-03-15",
       "buy_zone": [
         40000,
         50000
@@ -31,7 +31,7 @@
         42000
       ],
       "thesis_doc": "projects/claw-capital/crypto-desk/theses/BTC.md",
-      "notes": "Up +0.6% WoW ($66,881\u2192$67,254). Insomniac: 'btc cleanest out of majors' and 'bottom soon, counter rally to 74/76k.' Still well above buy zone ($40-50K). Bear regime intact."
+      "notes": "Up +6.4% WoW ($67,254→$71,575). Approaching sell ladder zone ($69.8-73K). Insomniac: 'btc popped', still mentions BTC/HYPE moving similarly. Bear regime intact but price resilient. Still well above buy zone ($40-50K)."
     },
     "HYPE": {
       "tier": 1,
@@ -44,8 +44,8 @@
       ],
       "status": "active",
       "conviction": 8,
-      "current_price_approx": 30.53,
-      "price_date": "2026-03-08",
+      "current_price_approx": 37.51,
+      "price_date": "2026-03-15",
       "buy_zone": [
         18,
         22
@@ -61,7 +61,36 @@
         15
       ],
       "thesis_doc": "projects/claw-capital/crypto-desk/theses/HYPE.md",
-      "notes": "Down -1.2% WoW ($30.90\u2192$30.53). Insomniac: 'looks meh, needs to hold above 36, gut says lower.' Holding spot but cautious. Still above watch zone."
+      "notes": "Up +22.9% WoW ($30.53→$37.51). MASSIVE move. Insomniac: 'hype beginning a trend imo', 'it really does not make sense to own sol over hype.' Now above $35 resistance (Insomniac's 'trend time' level). Still above watch zone. Conviction unchanged — watching for sustained breakout."
+    },
+    "AAVE": {
+      "tier": 1,
+      "name": "Aave",
+      "sector": "defi_lending",
+      "chain": "ethereum",
+      "narratives": [
+        "defi_lending"
+      ],
+      "status": "watchlist",
+      "conviction": 7,
+      "current_price_approx": 112.88,
+      "price_date": "2026-03-15",
+      "buy_zone": [
+        95,
+        105
+      ],
+      "watch_zone": [
+        105,
+        115
+      ],
+      "key_supports": [
+        115,
+        105,
+        95,
+        80
+      ],
+      "thesis_doc": "projects/claw-capital/crypto-desk/theses/AAVE.md",
+      "notes": "THESIS WRITTEN. $112.88 — near watch zone top ($115). TVL $25.6B, borrowed $17.3B. Aavenomics buyback upgrade pending. Grayscale ETF filing. Insomniac views Morpho as better institutional play but AAVE is 'safe bet.'"
     },
     "MORPHO": {
       "tier": 1,
@@ -74,8 +103,8 @@
       ],
       "status": "active",
       "conviction": 8,
-      "current_price_approx": 1.86,
-      "price_date": "2026-03-08",
+      "current_price_approx": 1.85,
+      "price_date": "2026-03-15",
       "buy_zone": [
         0.95,
         1.1
@@ -91,7 +120,7 @@
         0.8
       ],
       "thesis_doc": "projects/claw-capital/crypto-desk/theses/MORPHO.md",
-      "notes": "Up +8.1% WoW ($1.72\u2192$1.86). Insomniac: 'morpho green in sea of red.' Strongest relative performance in portfolio. Caps upside at $1.70 on LTF (4H). Well above watch zone."
+      "notes": "Flat WoW ($1.86→$1.85). Consolidating after recent strength. Insomniac still mentioning MORPHO alongside resilient alts. Well above watch zone. Ondo CRCLon ($100M TVL) tokenized stocks building on Morpho — validates RWA thesis."
     },
     "PENDLE": {
       "tier": 1,
@@ -103,8 +132,8 @@
       ],
       "status": "watchlist",
       "conviction": 7,
-      "current_price_approx": 1.19,
-      "price_date": "2026-03-08",
+      "current_price_approx": 1.27,
+      "price_date": "2026-03-15",
       "buy_zone": [
         0.9,
         1.0
@@ -120,7 +149,7 @@
         0.75
       ],
       "thesis_doc": "projects/claw-capital/crypto-desk/theses/PENDLE.md",
-      "notes": "Down -7.0% WoW ($1.28\u2192$1.19). Approaching watch zone ($1.00-$1.10). No A-grade source mentions this week. Conviction unchanged."
+      "notes": "Up +6.7% WoW ($1.19→$1.27). Bouncing. Still 15% above watch zone top ($1.10). No A-grade source mentions. Conviction unchanged."
     },
     "LIT": {
       "tier": 2,
@@ -132,8 +161,8 @@
       ],
       "status": "watchlist",
       "conviction": 4,
-      "current_price_approx": 1.074,
-      "price_date": "2026-03-08",
+      "current_price_approx": 1.086,
+      "price_date": "2026-03-15",
       "buy_zone": [
         1.1,
         1.3
@@ -149,7 +178,7 @@
         0.9
       ],
       "thesis_doc": "projects/claw-capital/crypto-desk/theses/LIT.md",
-      "notes": "Down -22.7% WoW ($1.39\u2192$1.074). NOW BELOW BUY ZONE FLOOR. Insomniac: 'lit is just a waterfall down.' Conviction downgraded 5\u21924. Thesis weakening \u2014 monitor for invalidation at $0.70."
+      "notes": "Flat WoW ($1.074→$1.086). Still below buy zone floor ($1.10). Insomniac: 'lit is just a waterfall down' (prior week). No recovery. Meanwhile HYPE +22.9% — the divergence is damning. Approaching invalidation territory. Conviction 4."
     },
     "ETHFI": {
       "tier": 2,
@@ -162,8 +191,8 @@
       ],
       "status": "watchlist",
       "conviction": 5,
-      "current_price_approx": 0.519,
-      "price_date": "2026-03-08",
+      "current_price_approx": 0.5455,
+      "price_date": "2026-03-15",
       "buy_zone": [
         0.33,
         0.38
@@ -179,7 +208,7 @@
         0.25
       ],
       "thesis_doc": "projects/claw-capital/crypto-desk/theses/ETHFI.md",
-      "notes": "Up +3.4% WoW ($0.502\u2192$0.519). Still above watch zone. ETH structurally weak per Insomniac. Conviction unchanged."
+      "notes": "Up +5.1% WoW ($0.519→$0.5455). Bouncing with market. Still well above watch zone. ETH structural weakness persists (Insomniac bearish ETH). Conviction unchanged."
     },
     "SKY": {
       "tier": 2,
@@ -192,8 +221,8 @@
       ],
       "status": "watchlist",
       "conviction": 6,
-      "current_price_approx": 0.066,
-      "price_date": "2026-02-25",
+      "current_price_approx": 0.0744,
+      "price_date": "2026-03-15",
       "buy_zone": [
         0.048,
         0.055
@@ -209,7 +238,7 @@
         0.04
       ],
       "thesis_doc": "projects/claw-capital/crypto-desk/theses/SKY.md",
-      "notes": "CoinGecko ID still unresolved \u2014 price stale from Feb 25. No A-grade source mentions. Conviction unchanged."
+      "notes": "Price updated via MKR/24000 proxy ($1,784.77/24000 = $0.0744). Up ~12.7% from stale $0.066. CoinGecko 'sky-token' ID still unresolved. No A-grade source mentions. Conviction unchanged."
     },
     "SYRUP": {
       "tier": 2,
@@ -223,7 +252,7 @@
       "status": "watchlist",
       "conviction": 4,
       "current_price_approx": 0.185,
-      "price_date": "2026-03-08",
+      "price_date": "2026-03-15",
       "buy_zone": [
         0.18,
         0.21
@@ -239,7 +268,7 @@
         0.15
       ],
       "thesis_doc": "projects/claw-capital/crypto-desk/theses/SYRUP.md",
-      "notes": "Essentially flat WoW ($0.184\u2192$0.185). AT BUY ZONE FLOOR. CoinGecko data still questionable (mcap shows $323K \u2014 likely wrong). Conviction unchanged at 4."
+      "notes": "Flat ($0.185). AT BUY ZONE FLOOR ($0.18). CoinGecko mcap still $323K — data clearly wrong. No A-grade source mentions. Conviction unchanged at 4."
     },
     "VVV": {
       "tier": 2,
@@ -252,8 +281,8 @@
       ],
       "status": "watchlist",
       "conviction": 6,
-      "current_price_approx": 6.19,
-      "price_date": "2026-03-08",
+      "current_price_approx": 6.15,
+      "price_date": "2026-03-15",
       "buy_zone": [
         2.5,
         3.0
@@ -268,7 +297,7 @@
         2.5
       ],
       "thesis_doc": "projects/claw-capital/crypto-desk/theses/VVV.md",
-      "notes": "Up +5.6% WoW ($5.86\u2192$6.19). BUT Insomniac: 'vvv looks cooked' and 'already hit vvv' (took profit). Conviction downgraded 7\u21926. Smart money rotating out. Price 2x above buy zone. Do NOT chase."
+      "notes": "Flat WoW ($6.19→$6.15). Insomniac mentioned 'vvv +17%' in passing but previously took profit. Still 2x above buy zone. Do NOT chase. Conviction 6."
     }
   }
 }
