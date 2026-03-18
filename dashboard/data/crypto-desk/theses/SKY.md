@@ -131,3 +131,4 @@ The honest assessment: Sky is the "value stock" of DeFi. It won't 10x in a month
 |------|--------|---------|
 | 2026-02-25 | Thesis created | Weekly review cycle. Data: DeFiLlama (TVL $5.83B, staking $625M, buybacks active, gecko_id "sky"). Price from universe.json ($0.066). Revenue est. from TVL × T-bill yield. Bear regime — watchlist. |
 | 2026-03-08 | Weekly review | Price: stale ($0.066 from Feb 25). CoinGecko ID still unresolved — tried "sky-money", "sky-ecosystem", "sky" — all return empty. No A-grade source mentions. Conviction unchanged at 6. Need to resolve pricing before next review — may need to use DeFiLlama or on-chain DEX price. |
+| 2026-03-15 | Weekly review | Price: ~$0.0744 (derived from MKR price $1,784.77 / 24,000 ratio). Up ~12.7% from stale $0.066. CoinGecko ID still unresolved for SKY directly. No A-grade source mentions. Still above watch zone ($0.055-$0.060). Conviction unchanged at 6. |
