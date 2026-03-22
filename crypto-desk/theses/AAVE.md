@@ -144,3 +144,4 @@ The timing thesis: at $112.88 with a $1.71B market cap, AAVE is 40% below its AT
 | Date | Action | Details |
 |------|--------|---------|
 | 2026-03-15 | Thesis created | Weekly coverage review. Data: CoinGecko ($112.88, mcap $1.71B), DeFiLlama (TVL $25.6B, borrowed $17.3B, 19+ chains, staking $337M, Plasma $835M). Insomniac commentary: notes Morpho outperforming but AAVE remains "safe bet." Bear regime — watchlist positioning. Aavenomics upgrade and Grayscale ETF filing are key catalysts. |
+| 2026-03-22 | Weekly review | Price: $107.27 (-5.0% WoW). **NOW IN WATCH ZONE** ($105-$115). Only $2.27 above buy zone top ($105). DeFi lending tier list thread (@0xALTF4) confirms S-tier: "$25B TVL, $1.39M fee/day, $1.57B all-time fees." If broader selloff continues, could enter buy zone this week. Insomniac not mentioning AAVE — focused on HYPE/TAO/ZRO. All predictions open. Conviction unchanged at 7. **Getting interesting from entry perspective.** |
