@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-22T22:00:09Z",
-  "total_value_usd": 286074.32,
+  "timestamp": "2026-03-23T05:00:10Z",
+  "total_value_usd": 286443.72,
   "chains": {
     "solana": {
       "total_usd": 0,
@@ -19,7 +19,7 @@
       "holdings": []
     },
     "hyperliquid_spot": {
-      "total_usd": 137942.33247265127,
+      "total_usd": 138311.72691019173,
       "holdings": [
         {
           "chain": "hyperliquid-spot",
@@ -32,15 +32,15 @@
           "chain": "hyperliquid-spot",
           "token": "UBTC",
           "balance": "0.4091024704",
-          "price_usd": 67712.0,
-          "value_usd": 27701.1464757248
+          "price_usd": 68540.5,
+          "value_usd": 28040.087872451197
         },
         {
           "chain": "hyperliquid-spot",
           "token": "HYPE",
           "balance": "59.47859534",
-          "price_usd": 37.7175,
-          "value_usd": 2243.38391973645
+          "price_usd": 38.2295,
+          "value_usd": 2273.83696055053
         }
       ]
     },
