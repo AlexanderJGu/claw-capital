@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-24T22:00:10Z",
-  "total_value_usd": 288828.97,
+  "timestamp": "2026-03-25T05:00:10Z",
+  "total_value_usd": 289395.80,
   "chains": {
     "solana": {
       "total_usd": 0,
@@ -19,43 +19,43 @@
       "holdings": []
     },
     "hyperliquid_spot": {
-      "total_usd": 139228.30052313616,
+      "total_usd": 139658.48805960285,
       "holdings": [
         {
           "chain": "hyperliquid-spot",
           "token": "USDC",
-          "balance": "96839.67566719",
+          "balance": "94868.96730719",
           "price_usd": 1,
-          "value_usd": 96839.67566719
+          "value_usd": 94868.96730719
         },
         {
           "chain": "hyperliquid-spot",
           "token": "UBTC",
-          "balance": "0.5256808518",
-          "price_usd": 70324.5,
-          "value_usd": 36968.2430624091
+          "balance": "0.5536812489",
+          "price_usd": 70949.5,
+          "value_usd": 39283.407768830555
         },
         {
           "chain": "hyperliquid-spot",
           "token": "HYPE",
           "balance": "136.51463383",
-          "price_usd": 39.7055,
-          "value_usd": 5420.381793537065
+          "price_usd": 40.3335,
+          "value_usd": 5506.112983582306
         }
       ]
     },
     "hyperliquid_perps": {
-      "account_value": 149600.673803,
+      "account_value": 149737.314793,
       "details": {
-        "account_value": 149600.673803,
-        "total_margin_used": 7179.55584,
+        "account_value": 149737.314793,
+        "total_margin_used": 5226.961553,
         "positions": [
           {
             "coin": "TAO",
-            "size": 64.704,
+            "size": 46.894,
             "entry_price": 310.045,
-            "unrealized_pnl": 1477.50497,
-            "value_usd": 20061.15168
+            "unrealized_pnl": 1141.62664,
+            "value_usd": 14539.25023
           }
         ]
       }
