@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-03-25T13:03:16Z",
+  "last_check": "2026-03-26T00:03:18Z",
   "zones": {
     "BTC": "above",
     "HYPE": "above",
@@ -21,10 +21,10 @@
     "MU": "above",
     "VNET": "buy",
     "ATI": "above",
-    "HXL": "above",
+    "HXL": "watch",
     "CLF": "above",
     "CRS": "above",
-    "AAVE": "above",
+    "AAVE": "watch",
     "MORPHO": "above",
     "PENDLE": "above",
     "LIT": "below_buy",
