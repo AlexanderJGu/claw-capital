@@ -380,14 +380,62 @@
       "direction": "long",
       "thesis": "Fiber optic prices ATH on AI+drone demand. MU considering acquiring Japan Display Mobara plant. CPU bottleneck trade favors ARM over AMD/Intel.",
       "url": "https://x.com/jukan05/status/2036959231065415899"
+    },
+    {
+      "date": "2026-03-30",
+      "source": "based16z",
+      "asset": "ETH",
+      "direction": "long",
+      "thesis": "ETH 4-5k June call spread at $11. Contrarian bullish bet on ETH recovery.",
+      "url": "https://x.com/based16z/status/2038500280037232891"
+    },
+    {
+      "date": "2026-03-30",
+      "source": "ThinkingUSD",
+      "asset": "HYPE",
+      "direction": "long",
+      "thesis": "HYPE at $38 is cheaper than same price last year due to revenue diversification. Still very under-owned.",
+      "url": "https://x.com/ThinkingUSD/status/2038583379420860825"
+    },
+    {
+      "date": "2026-03-30",
+      "source": "0xbigmikey",
+      "asset": "SOL",
+      "direction": "short",
+      "thesis": "SOL heading to 50. Most hated coin now. Crypto uninvestable until Saylor/Lee wiped out.",
+      "url": "https://x.com/0xbigmikey/status/2038394186303889764"
+    },
+    {
+      "date": "2026-03-30",
+      "source": "CavanXy",
+      "asset": "BTC",
+      "direction": "short",
+      "thesis": "BTC OI up 13% Thu-Fri with funding flipping red. Expects 69-70k flush to clear overleveraged longs before potential bounce.",
+      "url": "https://x.com/CavanXy/status/2038414564530713010"
+    },
+    {
+      "date": "2026-03-30",
+      "source": "PlutonicXBT",
+      "asset": "Mag7/BTC",
+      "direction": "short",
+      "thesis": "Zero bid for mag7 even on Monday. VIX climbing weekly = liquidity drying up. BTC miner charts about to puke. April worst returning month.",
+      "url": "https://x.com/PlutonicXBT/status/2038671693437206648"
+    },
+    {
+      "date": "2026-03-30",
+      "source": "TheShortBear",
+      "asset": "US Bonds/Equities",
+      "direction": "short",
+      "thesis": "Bond yields breaking higher is the real issue. $9-11T US debt maturing in 2026. Asia+ME hold ~50% of US debt ($3T+). SPX near retracing entire Trump term gains.",
+      "url": "https://x.com/TheShortBear/status/2038662395034268071"
     }
   ],
-  "last_updated": "2026-02-13",
-  "lastScan": "2026-03-26T21:00:00Z",
+  "last_updated": "2026-03-30",
+  "lastScan": "2026-03-30T21:00:00Z",
   "sentiment": {
-    "overall": "bearish_intensifying",
+    "overall": "bearish_crisis_mode",
     "btc": "bearish",
-    "hype": "no_new_signal",
+    "hype": "bullish_outlier",
     "bnkr": "no_signal",
     "dnn": "no_signal"
   }
